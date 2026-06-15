@@ -263,17 +263,6 @@
       color-scheme: dark;
     }
 
-    .result-summary {
-      margin: -4px 0 14px;
-      color: var(--muted);
-      font-size: 0.9rem;
-      font-weight: 750;
-    }
-
-    .status-item.current strong {
-      color: var(--gold);
-    }
-
     .post-list {
       display: grid;
       gap: 14px;
@@ -299,32 +288,6 @@
       object-fit: cover;
     }
 
-    .post-topline {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      align-items: center;
-      margin: 0 0 6px;
-    }
-
-    .date {
-      margin: 0;
-      color: var(--gold);
-      font-size: 0.78rem;
-      font-weight: 900;
-      text-transform: uppercase;
-    }
-
-    .live-pill {
-      padding: 3px 7px;
-      border-radius: 999px;
-      background: rgba(86, 184, 143, 0.18);
-      color: #87dfb9;
-      font-size: 0.68rem;
-      font-weight: 900;
-      text-transform: uppercase;
-    }
-
     h2 {
       margin: 0;
       font-size: 1.32rem;
@@ -340,15 +303,9 @@
       font-weight: 800;
     }
 
-    .summary {
-      margin: 10px 0 13px;
-      color: var(--muted);
-      font-size: 0.95rem;
-      line-height: 1.44;
-    }
-
     .links {
       display: grid;
+      margin-top: 13px;
       gap: 9px;
     }
 
@@ -392,6 +349,13 @@
       gap: 2px;
     }
 
+    .link-title strong {
+      color: var(--ink);
+      font-size: 0.96rem;
+      line-height: 1.2;
+      overflow-wrap: anywhere;
+    }
+
     .link-title code {
       color: var(--muted);
       font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
@@ -400,7 +364,7 @@
       overflow-wrap: anywhere;
     }
 
-    .video-link small {
+    .video-action {
       flex: 0 0 auto;
       color: var(--gold);
       font-size: 0.74rem;
@@ -517,10 +481,6 @@
         font-size: 1.04rem;
       }
 
-      .summary {
-        font-size: 0.9rem;
-      }
-
       .video-row {
         grid-template-columns: 1fr;
       }
@@ -599,7 +559,6 @@
       </div>
     </section>
 
-    <div id="resultSummary" class="result-summary" aria-live="polite"></div>
     <section id="postList" class="post-list" aria-label="Published video links"></section>
 
     <footer>
@@ -610,6 +569,7 @@
   </main>
 
   <script src="video-links-data.js"></script>
+  <script src="video-link-title-overrides.js"></script>
   <script>
     const postList = document.querySelector("#postList");
     const latestStatus = document.querySelector("#latestStatus");
@@ -623,7 +583,6 @@
     const searchInput = document.querySelector("#searchInput");
     const promotionFilter = document.querySelector("#promotionFilter");
     const providerFilter = document.querySelector("#providerFilter");
-    const resultSummary = document.querySelector("#resultSummary");
     const posts = Array.isArray(window.TDWH_VIDEO_POSTS) ? window.TDWH_VIDEO_POSTS : [];
     const filters = {
       date: "",
@@ -736,15 +695,15 @@
       return true;
     }
 
-    function renderPost(post, latestId) {
+    function renderPost(post) {
       const videos = post.videos.map((video) => `
         <div class="video-row">
-          <a class="video-link" href="${escapeHtml(video.url)}" target="_blank" rel="noopener noreferrer">
+          <a class="video-link" href="${escapeHtml(video.url)}" target="_blank" rel="noopener noreferrer" aria-label="Open ${escapeHtml(video.title)} on ${escapeHtml(video.provider || "video")}">
             <span class="link-title">
-              <span>${escapeHtml(video.title)}</span>
-              <code>${escapeHtml(compactUrl(video.url))}</code>
+              <strong>${escapeHtml(video.title)}</strong>
+              <code>${escapeHtml(video.provider || "Video")} • ${escapeHtml(compactUrl(video.url))}</code>
             </span>
-            <small>${escapeHtml(video.provider || "Video")}</small>
+            <span class="video-action" aria-hidden="true">Open</span>
           </a>
           <button class="copy-button" type="button" data-copy="${escapeHtml(video.url)}">Copy</button>
         </div>
@@ -762,13 +721,8 @@
         <article class="post-card">
           ${image}
           <div>
-            <div class="post-topline">
-              <p class="date">${escapeHtml(post.dateDisplay)} at ${escapeHtml(post.timeDisplay)}</p>
-              ${post.id === latestId ? '<span class="live-pill">Latest</span>' : ""}
-            </div>
             <h2>${escapeHtml(post.title)}</h2>
             <span class="label">${escapeHtml(post.label)}</span>
-            <p class="summary">${escapeHtml(post.summary)}</p>
             <div class="links">${videos}</div>
             ${sources}
           </div>
@@ -823,17 +777,6 @@
       calendarInput.value = filters.date;
     }
 
-    function describeFilters(filteredCount, liveCount) {
-      const bits = [];
-      if (filters.date) bits.push(dateChipLabel(filters.date));
-      if (filters.search) bits.push(`search: "${filters.search}"`);
-      if (filters.promotion !== "all") bits.push(filters.promotion);
-      if (filters.provider !== "all") bits.push(filters.provider);
-
-      const scope = bits.length ? ` matching ${bits.join(", ")}` : "";
-      resultSummary.textContent = `Showing ${filteredCount} of ${liveCount} live posts${scope}.`;
-    }
-
     function render() {
       const current = now();
       const livePosts = posts
@@ -849,20 +792,18 @@
       renderDateChips(livePosts);
 
       if (!livePosts.length) {
-        resultSummary.textContent = "No video links are live yet.";
         postList.innerHTML = '<div class="empty-state">No video links are live yet.</div>';
         return;
       }
 
       const filteredPosts = livePosts.filter(matchesFilters);
-      describeFilters(filteredPosts.length, livePosts.length);
 
       if (!filteredPosts.length) {
         postList.innerHTML = '<div class="empty-state">No live video links match those filters.</div>';
         return;
       }
 
-      postList.innerHTML = filteredPosts.map((post) => renderPost(post, livePosts[0].id)).join("");
+      postList.innerHTML = filteredPosts.map((post) => renderPost(post)).join("");
       attachCopyHandlers();
     }
 

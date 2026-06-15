@@ -219,12 +219,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "gab-1998-june-14-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "WCW Great American Bash 1998 event footage",
         "url": "https://youtu.be/GL2mvhGwBtQ",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Booker T and Chris Benoit best-of-seven series footage",
         "url": "https://youtu.be/Zc5B4od_c4g",
         "provider": "YouTube"
       }
@@ -245,12 +245,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "bad-blood-2003-june-15-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Triple H vs. Kevin Nash - Bad Blood 2003 Hell in a Cell",
         "url": "https://youtu.be/bJ6utHo8Nb4",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Bad Blood 2003 Hell in a Cell highlight",
         "url": "https://youtu.be/Zxvxfnvl0Yw",
         "provider": "YouTube"
       }
@@ -271,12 +271,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "gab-1997-june-15-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Diamond Dallas Page vs. Randy Savage - Great American Bash 1997",
         "url": "https://youtu.be/9izb6I10gck",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Madusa vs. Akira Hokuto - Great American Bash 1997",
         "url": "https://youtu.be/GSEaEwgjitA",
         "provider": "YouTube"
       }
@@ -297,12 +297,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "bayley-june-15-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Bayley career highlight",
         "url": "https://youtu.be/-qA9E1CHe_M",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Bayley championship moment",
         "url": "https://youtu.be/ZCqtv0iSbDw",
         "provider": "YouTube"
       }
@@ -323,12 +323,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "ultimate-warrior-june-16-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Hulk Hogan vs. Ultimate Warrior - WrestleMania VI",
         "url": "https://youtu.be/IRtOTIykZNE",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Ultimate Warrior WWE career highlight",
         "url": "https://youtu.be/-J7W1hpPNds",
         "provider": "YouTube"
       }
@@ -349,12 +349,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "gab-1996-june-16-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Dean Malenko vs. Rey Misterio Jr. - Great American Bash 1996",
         "url": "https://youtu.be/o9qbC73tPes",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Rey Misterio Jr. WCW cruiserweight highlight",
         "url": "https://youtu.be/u2cq80AGDGA",
         "provider": "YouTube"
       }
@@ -375,12 +375,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "clash-xxiii-june-16-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Hollywood Blonds vs. Ric Flair and Arn Anderson - Clash XXIII",
         "url": "https://youtu.be/MdqhaU1aNeU",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Clash of the Champions XXIII footage",
         "url": "https://youtu.be/Tuh23GLgT3I",
         "provider": "YouTube"
       }
@@ -401,12 +401,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "mitb-2018-june-17-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Alexa Bliss cashes in at Money in the Bank 2018",
         "url": "https://youtu.be/BDY_hqli6Xc",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Braun Strowman wins Money in the Bank 2018",
         "url": "https://youtu.be/95sCaQguMCw",
         "provider": "YouTube"
       }
@@ -427,12 +427,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "ecw-barbed-wire-1995-june-17-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Cactus Jack vs. The Sandman - ECW barbed wire match",
         "url": "https://youtu.be/rf414-P79C4",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "ECW Barbed Wire, Hoodies and Chokeslams footage",
         "url": "https://youtu.be/L3qyz8A_vVM",
         "provider": "YouTube"
       }
@@ -453,12 +453,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "mark-henry-fake-retirement-june-17-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Mark Henry fake retirement speech",
         "url": "https://youtu.be/gxm5c2XBcXo",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Mark Henry attacks John Cena after fake retirement",
         "url": "https://youtu.be/dB49_Guqqlc",
         "provider": "YouTube"
       }
@@ -479,12 +479,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "mitb-2017-june-18-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "First women's Money in the Bank match finish",
         "url": "https://youtu.be/YbfPVIN-S4I",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Baron Corbin wins Money in the Bank 2017",
         "url": "https://youtu.be/afj63yZ4MoU",
         "provider": "YouTube"
       }
@@ -505,12 +505,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "gab-1995-june-18-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Sting vs. Meng - WCW United States Title",
         "url": "https://youtu.be/pdDcJOZtfMo",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Ric Flair vs. Randy Savage - Great American Bash 1995",
         "url": "https://youtu.be/u2RcX37JYQ8",
         "provider": "YouTube"
       }
@@ -531,12 +531,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "ddp-wwf-debut-june-18-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Diamond Dallas Page reveals himself on Raw",
         "url": "https://youtu.be/bI_6FI6FZ0Q",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "DDP stalker reveal segment with Undertaker",
         "url": "https://youtu.be/wTvmuaCcwvE",
         "provider": "YouTube"
       }
@@ -557,12 +557,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "kotr-1994-june-19-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Owen Hart wins King of the Ring 1994",
         "url": "https://youtu.be/1ukVka_o1eI",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "King of the Ring 1994 tournament highlight",
         "url": "https://youtu.be/rCUq3rOTKPk",
         "provider": "YouTube"
       }
@@ -583,12 +583,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "mitb-2016-june-19-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Dean Ambrose cashes in at Money in the Bank 2016",
         "url": "https://youtu.be/HU9Vk2mp70k",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "The Shield title night at Money in the Bank 2016",
         "url": "https://youtu.be/AoBC_taCScI",
         "provider": "YouTube"
       }
@@ -609,12 +609,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "capitol-punishment-2011-june-19-square.jpg",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "John Cena vs. R-Truth - Capitol Punishment 2011",
         "url": "https://youtu.be/wu1CHp2z_hc",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Capitol Punishment 2011 event highlight",
         "url": "https://youtu.be/8A4vkt7Meq0",
         "provider": "YouTube"
       }
@@ -635,12 +635,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "fatal-4-way-2010-june-20-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Fatal 4-Way 2010 WWE Championship match",
         "url": "https://www.youtube.com/watch?v=bW947IyCCU0",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Fatal 4-Way 2010 World Heavyweight Championship match",
         "url": "https://www.youtube.com/watch?v=fnDwXkchwkM",
         "provider": "YouTube"
       }
@@ -661,12 +661,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "cm-punk-mitb-setup-june-20-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "CM Punk demands a Money in the Bank title shot",
         "url": "https://www.youtube.com/watch?v=RL5EBT5uls0",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "CM Punk earns the WWE Title match for Money in the Bank",
         "url": "https://www.youtube.com/watch?v=z9b3pS2P8r8",
         "provider": "YouTube"
       }
@@ -687,12 +687,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "muraco-ic-title-june-20-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Don Muraco vs. Pedro Morales - Intercontinental Championship",
         "url": "https://www.youtube.com/watch?v=Bix8acHH6i8",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Don Muraco Intercontinental Title footage",
         "url": "https://www.youtube.com/watch?v=GgZWSLxKBEw",
         "provider": "YouTube"
       }
@@ -713,12 +713,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "hogan-muraco-msg-june-21-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Hulk Hogan vs. Don Muraco - MSG steel cage match",
         "url": "https://www.youtube.com/watch?v=ecCqP3dlP_4",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Don Muraco and Mr. Fuji promo for Hogan cage match",
         "url": "https://www.youtube.com/watch?v=6ZlWTW6VMjQ",
         "provider": "YouTube"
       }
@@ -739,12 +739,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "nexus-vince-attack-june-21-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "The Nexus attacks Vince McMahon on Raw",
         "url": "https://www.youtube.com/watch?v=Veb3635qnq0",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Nexus Raw follow-up attack",
         "url": "https://www.youtube.com/watch?v=41GQ79CMfIg",
         "provider": "YouTube"
       }
@@ -765,12 +765,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "mideon-euro-title-june-21-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Mideon and the European Championship",
         "url": "https://www.youtube.com/watch?v=znAUOTY5Zhk",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Mideon European Title era footage",
         "url": "https://www.youtube.com/watch?v=jBOJ_u-H81I",
         "provider": "YouTube"
       }
@@ -792,12 +792,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "hardcore-heaven-1996-june-22-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Sabu vs. Rob Van Dam - Hardcore Heaven 1996",
         "url": "https://www.youtube.com/watch?v=dsPtZZ82tT4",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "ECW Hardcore Heaven 1996 footage",
         "url": "https://www.youtube.com/watch?v=4t5E29wRzQE",
         "provider": "YouTube"
       }
@@ -818,12 +818,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "jericho-ecw-tv-june-22-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Chris Jericho vs. Pitbull #2 - ECW TV Title",
         "url": "https://www.youtube.com/watch?v=EMEzgG0qKT0",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Chris Jericho ECW TV Title footage",
         "url": "https://www.youtube.com/watch?v=e3TCPj6mzQY",
         "provider": "YouTube"
       }
@@ -844,12 +844,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "earthquake-june-22-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Earthquake career highlight",
         "url": "https://www.youtube.com/watch?v=mlkP6zFWYsg",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Natural Disasters tag title footage",
         "url": "https://www.youtube.com/watch?v=t_EGDzES2eQ",
         "provider": "YouTube"
       }
@@ -870,12 +870,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "austin-316-june-23-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Stone Cold Steve Austin's Austin 3:16 speech",
         "url": "https://www.youtube.com/watch?v=tjWPoQWdmjg",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Steve Austin wins King of the Ring 1996",
         "url": "https://www.youtube.com/watch?v=gnblgskKSOY",
         "provider": "YouTube"
       }
@@ -896,12 +896,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "brock-kotr-2002-june-23-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Brock Lesnar wins King of the Ring 2002",
         "url": "https://www.youtube.com/watch?v=ZAMqhnihr0g",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Brock Lesnar vs. Rob Van Dam - King of the Ring final",
         "url": "https://www.youtube.com/watch?v=B2-wLQT5L1Y",
         "provider": "YouTube"
       }
@@ -922,12 +922,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "angle-hogan-kotr-june-23-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Kurt Angle vs. Hulk Hogan - King of the Ring 2002",
         "url": "https://www.youtube.com/watch?v=ozHTvfLIafk",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Hulk Hogan taps to Kurt Angle's ankle lock",
         "url": "https://www.youtube.com/watch?v=VeQVes2UIAg",
         "provider": "YouTube"
       }
@@ -948,12 +948,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "kotr-2001-june-24-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Kurt Angle vs. Shane McMahon - street fight",
         "url": "https://www.youtube.com/watch?v=TulVe0yD630",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Edge wins King of the Ring 2001",
         "url": "https://www.youtube.com/watch?v=j4amMPlLIiY",
         "provider": "YouTube"
       }
@@ -974,12 +974,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "ruthless-aggression-june-24-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Vince McMahon demands ruthless aggression",
         "url": "https://www.youtube.com/watch?v=ic2AxYszzxo",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Ruthless Aggression era setup",
         "url": "https://www.youtube.com/watch?v=Gq22inEcJHU",
         "provider": "YouTube"
       }
@@ -1000,12 +1000,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "nitro-ecw-title-june-24-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Johnny Nitro vs. CM Punk - ECW Championship",
         "url": "https://www.youtube.com/watch?v=X3HnSd46lyo",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "John Morrison ECW Champion highlight",
         "url": "https://www.youtube.com/watch?v=rf3MfOx1wWU",
         "provider": "YouTube"
       }
@@ -1026,12 +1026,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "kotr-1995-june-25-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Mabel wins King of the Ring 1995",
         "url": "https://www.youtube.com/watch?v=gYHGTs6xfig",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "King of the Ring 1995 tournament final",
         "url": "https://www.youtube.com/watch?v=ArSpOc9kTbo",
         "provider": "YouTube"
       }
@@ -1052,12 +1052,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "kotr-2000-june-25-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Kurt Angle wins King of the Ring 2000",
         "url": "https://www.youtube.com/watch?v=Vj_-jjN__w4",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "The Rock wins the WWF Championship at King of the Ring 2000",
         "url": "https://www.youtube.com/watch?v=j2TGPwJyObk",
         "provider": "YouTube"
       }
@@ -1078,12 +1078,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "vengeance-2006-june-25-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "D-Generation X vs. Spirit Squad - Vengeance 2006",
         "url": "https://www.youtube.com/watch?v=raymVuyKV6w",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Rob Van Dam vs. Edge - WWE Championship",
         "url": "https://www.youtube.com/watch?v=NFPQDFagwCI",
         "provider": "YouTube"
       }
@@ -1104,12 +1104,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "vengeance-2005-june-26-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Batista vs. Triple H - Vengeance 2005 Hell in a Cell",
         "url": "https://www.youtube.com/watch?v=K3g8ChDOb1s",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "John Cena vs. Chris Jericho vs. Christian - WWE Championship",
         "url": "https://www.youtube.com/watch?v=49exfPyXoVQ",
         "provider": "YouTube"
       }
@@ -1130,12 +1130,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "hostile-city-1999-june-26-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "ECW Hostile City Showdown related footage",
         "url": "https://www.youtube.com/watch?v=HvYqmzIEbdU",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "ECW Tajiri and RVD related footage",
         "url": "https://www.youtube.com/watch?v=SrM2pqIq1Xg",
         "provider": "YouTube"
       }
@@ -1156,12 +1156,12 @@ window.TDWH_VIDEO_POSTS = [
     "image": "isaac-yankem-june-26-square.png",
     "videos": [
       {
-        "title": "Video link 1",
+        "title": "Isaac Yankem debut vignette",
         "url": "https://www.youtube.com/watch?v=0U7mgudc9kk",
         "provider": "YouTube"
       },
       {
-        "title": "Video link 2",
+        "title": "Isaac Yankem WWE footage",
         "url": "https://www.youtube.com/watch?v=3kCoAuBmu3Y",
         "provider": "YouTube"
       }
@@ -1169,6 +1169,1098 @@ window.TDWH_VIDEO_POSTS = [
     "sources": [
       "https://thehistoryofwwe.com/wwf-results-1995/",
       "https://www.youtube.com/@WWE"
+    ]
+  },
+  {
+    "id": "2026-06-27-0800-june-27-cena-debut",
+    "publishAt": "2026-06-27T08:00:00-06:00",
+    "dateDisplay": "June 27, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "John Cena's WWE TV Debut",
+    "label": "June 27 - Cena Debut",
+    "summary": "June 27, 2002: John Cena made his WWE television debut on SmackDown by accepting Kurt Angle's open challenge. Angle won the match, but Cena refusing to back down became the first televised sign of the \"ruthless aggression\" idea WWE had just started pushing.",
+    "image": "cena-debut-june-27-square.jpg",
+    "videos": [
+      {
+        "title": "John Cena accepts Kurt Angle's open challenge",
+        "url": "https://youtu.be/10ivQ3ogO1M",
+        "provider": "YouTube"
+      },
+      {
+        "title": "John Cena's WWE debut vs. Kurt Angle",
+        "url": "https://youtu.be/pjl0wKdGbS8",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2002/",
+      "https://www.youtube.com/@WWE"
+    ]
+  },
+  {
+    "id": "2026-06-27-1400-june-27-pipebomb",
+    "publishAt": "2026-06-27T14:00:00-06:00",
+    "dateDisplay": "June 27, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "CM Punk's Pipebomb Promo",
+    "label": "June 27 - Pipebomb",
+    "summary": "June 27, 2011: On Raw Roulette from Las Vegas, CM Punk sat on the stage after R-Truth beat John Cena in a tables match and delivered the promo that became known as the \"pipebomb.\" Punk criticized WWE, Vince McMahon, John Laurinaitis, and the company's power structure before his microphone was cut off. The moment matters because it turned Punk vs.",
+    "image": "pipebomb-june-27-square.jpg",
+    "videos": [
+      {
+        "title": "CM Punk's pipebomb promo on Raw",
+        "url": "https://youtu.be/ZBGBvOJQWSk",
+        "provider": "YouTube"
+      },
+      {
+        "title": "CM Punk pipebomb promo footage",
+        "url": "https://youtu.be/2OS9wZGb_3g",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2011/",
+      "https://www.youtube.com/@WWE"
+    ]
+  },
+  {
+    "id": "2026-06-27-2000-june-27-gab-2004",
+    "publishAt": "2026-06-27T20:00:00-06:00",
+    "dateDisplay": "June 27, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "WWE Great American Bash 2004",
+    "label": "June 27 - GAB 2004",
+    "summary": "June 27, 2004: WWE Great American Bash took place in Norfolk, Virginia. John Bradshaw Layfield defeated Eddie Guerrero in a Texas Bullrope match to win the WWE Championship after both men touched three corners and JBL was sent into the fourth first.",
+    "image": "gab-2004-june-27-square.jpg",
+    "videos": [
+      {
+        "title": "Eddie Guerrero vs. JBL - Texas Bullrope Match",
+        "url": "https://youtu.be/uG1zQtEs6lE",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Story of Eddie Guerrero vs. JBL",
+        "url": "https://youtu.be/-6PeX11N8pU",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2004/",
+      "https://www.thesmackdownhotel.com/events-results/"
+    ]
+  },
+  {
+    "id": "2026-06-28-0800-june-28-hiac-1998",
+    "publishAt": "2026-06-28T08:00:00-06:00",
+    "dateDisplay": "June 28, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Undertaker vs. Mankind Hell in a Cell",
+    "label": "June 28 - HIAC 1998",
+    "summary": "June 28, 1998: At WWF King of the Ring in Pittsburgh, The Undertaker defeated Mankind inside Hell in a Cell. The match became one of the most replayed moments in wrestling history after Undertaker threw Mankind from the top of the cell through the announce table, then later chokeslammed him through the cell roof.",
+    "image": "hiac-1998-june-28-square.jpg",
+    "videos": [
+      {
+        "title": "Undertaker throws Mankind off Hell in a Cell",
+        "url": "https://youtu.be/9hMp65SzyTU",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Undertaker vs. Mankind - Hell in a Cell full match",
+        "url": "https://youtu.be/89BPNcsL7QI",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwf-results-1998/",
+      "https://www.youtube.com/@WWE"
+    ]
+  },
+  {
+    "id": "2026-06-28-1400-june-28-kane-wwf-title",
+    "publishAt": "2026-06-28T14:00:00-06:00",
+    "dateDisplay": "June 28, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Kane Wins the WWF Championship",
+    "label": "June 28 - Kane WWF Title",
+    "summary": "June 28, 1998: At WWF King of the Ring, Kane defeated \"Stone Cold\" Steve Austin in a First Blood match to win the WWF Championship. The finish came after The Undertaker accidentally hit Austin with a chair, causing Austin to bleed and giving Kane his first world title.",
+    "image": "kane-title-june-28-square.jpg",
+    "videos": [
+      {
+        "title": "Kane vs. Steve Austin - First Blood Match",
+        "url": "https://youtu.be/izvVZIreC4k",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Story of Stone Cold vs. Kane at King of the Ring 1998",
+        "url": "https://youtu.be/hKFYWzCNOEc",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwf-results-1998/",
+      "https://www.wwe.com/titlehistory/wwe-championship"
+    ]
+  },
+  {
+    "id": "2026-06-28-2000-june-28-shamrock-kotr",
+    "publishAt": "2026-06-28T20:00:00-06:00",
+    "dateDisplay": "June 28, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Ken Shamrock Wins King of the Ring",
+    "label": "June 28 - Shamrock KOTR",
+    "summary": "June 28, 1998: Ken Shamrock won the King of the Ring tournament by defeating Jeff Jarrett in the semifinals and The Rock in the final. Shamrock made Rock submit to the ankle lock, giving the former UFC star one of his biggest WWF singles achievements.",
+    "image": "shamrock-kotr-june-28-square.jpg",
+    "videos": [
+      {
+        "title": "Ken Shamrock vs. The Rock - King of the Ring final",
+        "url": "https://youtu.be/1_YLtegJXXM",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Ken Shamrock wins King of the Ring 1998",
+        "url": "https://youtu.be/4hE4CvvnUpI",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwf-results-1998/",
+      "https://www.thesmackdownhotel.com/events-results/"
+    ]
+  },
+  {
+    "id": "2026-06-29-0800-june-29-mitb-2014",
+    "publishAt": "2026-06-29T08:00:00-06:00",
+    "dateDisplay": "June 29, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "WWE Money in the Bank 2014",
+    "label": "June 29 - MITB 2014",
+    "summary": "June 29, 2014: WWE Money in the Bank took place in Boston with two ladder matches carrying major stakes. Seth Rollins won the Money in the Bank contract after Kane helped stop Dean Ambrose, while John Cena won the vacant WWE World Heavyweight Championship in the main-event ladder match.",
+    "image": "mitb-2014-june-29-square.jpg",
+    "videos": [
+      {
+        "title": "WWE Title ladder match - Money in the Bank 2014",
+        "url": "https://youtu.be/J4k15Toxwes",
+        "provider": "YouTube"
+      },
+      {
+        "title": "John Cena wins the vacant WWE Championship",
+        "url": "https://youtu.be/kmFtGKZRf0o",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2014/",
+      "https://www.youtube.com/@WWE"
+    ]
+  },
+  {
+    "id": "2026-06-29-1400-june-29-henry-ecw-title",
+    "publishAt": "2026-06-29T14:00:00-06:00",
+    "dateDisplay": "June 29, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Mark Henry Wins the ECW Championship",
+    "label": "June 29 - Henry ECW Title",
+    "summary": "June 29, 2008: At WWE Night of Champions, Mark Henry defeated Kane and Big Show in a triple threat match to win the ECW Championship. Henry pinned Kane after Big Show had been knocked out of the closing exchange.",
+    "image": "mark-henry-ecw-june-29-square.jpg",
+    "videos": [
+      {
+        "title": "Kane vs. Mark Henry vs. Big Show - ECW Championship",
+        "url": "https://youtu.be/CYHfu3ZGqDk",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Mark Henry receives the new ECW Championship belt",
+        "url": "https://youtu.be/HAiNnDFo4dQ",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2008/",
+      "https://www.wwe.com/titlehistory/ecw-championship"
+    ]
+  },
+  {
+    "id": "2026-06-29-2000-june-29-austin-regains",
+    "publishAt": "2026-06-29T20:00:00-06:00",
+    "dateDisplay": "June 29, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Steve Austin Regains the WWF Championship",
+    "label": "June 29 - Austin Regains",
+    "summary": "June 29, 1998: One night after losing the WWF Championship to Kane, \"Stone Cold\" Steve Austin regained the title on Raw from Cleveland. Austin pinned Kane with the Stunner after Kane had accepted an immediate rematch challenge during the opening segment.",
+    "image": "austin-regains-june-29-square.jpg",
+    "videos": [
+      {
+        "title": "Stone Cold after King of the Ring 1998",
+        "url": "https://youtu.be/2nwZSCvrDZI",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Kane vs. Stone Cold - WWF Championship rematch",
+        "url": "https://youtu.be/gh0ueZ0mUQI",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwf-results-1998/",
+      "https://www.wwe.com/titlehistory/wwe-championship"
+    ]
+  },
+  {
+    "id": "2026-06-30-0800-june-30-punk-cash-in",
+    "publishAt": "2026-06-30T08:00:00-06:00",
+    "dateDisplay": "June 30, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "CM Punk Cashes In on Edge",
+    "label": "June 30 - Punk Cash-In",
+    "summary": "June 30, 2008: On Raw from Oklahoma City, CM Punk cashed in Money in the Bank on Edge and won the World Heavyweight Championship. Batista had attacked Edge first, leaving him vulnerable, and Punk quickly hit the Go To Sleep to win the title.",
+    "image": "punk-cash-in-june-30-square.jpg",
+    "videos": [
+      {
+        "title": "CM Punk cashes in Money in the Bank on Edge",
+        "url": "https://youtu.be/SbkAMETEIb0",
+        "provider": "YouTube"
+      },
+      {
+        "title": "CM Punk wins the World Heavyweight Championship",
+        "url": "https://youtu.be/QTs3BijB_4Y",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2008/",
+      "https://www.wwe.com/titlehistory/world-heavyweight-championship"
+    ]
+  },
+  {
+    "id": "2026-06-30-1400-june-30-aj-lee-return",
+    "publishAt": "2026-06-30T14:00:00-06:00",
+    "dateDisplay": "June 30, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "AJ Lee Returns and Wins the Divas Title",
+    "label": "June 30 - AJ Lee Return",
+    "summary": "June 30, 2014: On Raw from Hartford, AJ Lee returned after nearly three months away and challenged Paige for the Divas Championship. Paige accepted the impromptu match, and AJ pinned her in just over a minute to win the title back.",
+    "image": "aj-lee-june-30-square.jpg",
+    "videos": [
+      {
+        "title": "Paige vs. AJ Lee - Divas Championship",
+        "url": "https://youtu.be/w-tHy-1tyAc",
+        "provider": "YouTube"
+      },
+      {
+        "title": "AJ Lee returns and challenges Paige",
+        "url": "https://youtu.be/zWEIICU5ukg",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2014/",
+      "https://www.wwe.com/titlehistory/divas-championship"
+    ]
+  },
+  {
+    "id": "2026-06-30-2000-june-30-terry-funk",
+    "publishAt": "2026-06-30T20:00:00-06:00",
+    "dateDisplay": "June 30, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Terry Funk Birthday",
+    "label": "June 30 - Terry Funk",
+    "summary": "June 30, 1944: Terry Funk was born in Hammond, Indiana. Funk's career matters because he connected multiple eras of wrestling: NWA World Champion, Japanese hardcore legend, ECW icon, WWF/WWE presence, and late-career cult hero.",
+    "image": "terry-funk-june-30-square.jpg",
+    "videos": [
+      {
+        "title": "WWE remembers Terry Funk",
+        "url": "https://youtu.be/wYF16icn5ls",
+        "provider": "YouTube"
+      },
+      {
+        "title": "The Funks WWE Hall of Fame induction",
+        "url": "https://youtu.be/F9ZxNAzs45I",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-01-0800-july-1-undertaker-hardy-ladder",
+    "publishAt": "2026-07-01T08:00:00-06:00",
+    "dateDisplay": "July 1, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Undertaker vs. Jeff Hardy Ladder Match",
+    "label": "July 1 - Undertaker Hardy Ladder",
+    "summary": "July 1, 2002: On Raw from Manchester, New Hampshire, The Undertaker defended the Undisputed WWE Championship against Jeff Hardy in a ladder match. Undertaker won after chokeslamming Hardy from the ladder, but the lasting image came afterward when Hardy kept getting up and Undertaker raised his hand in respect.",
+    "image": "undertaker-hardy-july-1-square.jpg",
+    "videos": [
+      {
+        "title": "Undertaker vs. Jeff Hardy - ladder match",
+        "url": "https://youtu.be/Dv0Y0e0tFss",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Jeff Hardy earns Undertaker's respect",
+        "url": "https://youtu.be/ktfdwXrNXuo",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2002/",
+      "https://www.youtube.com/@WWE"
+    ]
+  },
+  {
+    "id": "2026-07-01-1400-july-1-mitb-2023",
+    "publishAt": "2026-07-01T14:00:00-06:00",
+    "dateDisplay": "July 1, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "WWE Money in the Bank 2023",
+    "label": "July 1 - MITB 2023",
+    "summary": "July 1, 2023: WWE Money in the Bank took place at The O2 in London. Damian Priest won the men's Money in the Bank ladder match, Iyo Sky won the women's ladder match, and John Cena made a surprise appearance to advocate for WrestleMania in London.",
+    "image": "mitb-2023-july-1-square.jpg",
+    "videos": [
+      {
+        "title": "Money in the Bank 2023 highlights",
+        "url": "https://youtu.be/ACqEwx_Ou2A",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Damian Priest wins Money in the Bank 2023",
+        "url": "https://youtu.be/hjFR45N5lok",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/shows/moneyinthebank",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-01-2000-july-1-nxt-gab-2020",
+    "publishAt": "2026-07-01T20:00:00-06:00",
+    "dateDisplay": "July 1, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "NXT Great American Bash 2020",
+    "label": "July 1 - NXT GAB 2020",
+    "summary": "July 1, 2020: NXT presented the first night of The Great American Bash on USA Network. The main event featured NXT Women's Champion Io Shirai defeating Sasha Banks in a non-title match after Asuka's mist helped swing the finish.",
+    "image": "nxt-gab-2020-july-1-square.jpg",
+    "videos": [
+      {
+        "title": "Io Shirai vs. Sasha Banks - NXT Great American Bash",
+        "url": "https://youtu.be/zclCMTXOfxo",
+        "provider": "YouTube"
+      },
+      {
+        "title": "NXT Great American Bash 2020 full episode",
+        "url": "https://youtu.be/shFHq22EQYI",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/shows/wwenxt",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-02-0800-july-2-bret-hart",
+    "publishAt": "2026-07-02T08:00:00-06:00",
+    "dateDisplay": "July 2, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Bret Hart Birthday",
+    "label": "July 2 - Bret Hart",
+    "summary": "July 2, 1957: Bret \"Hit Man\" Hart was born in Calgary, Alberta. Hart's career matters because he became the technical centerpiece of WWF's New Generation era, winning the WWF Championship five times and helping shift the main-event style toward longer, more athletic title matches.",
+    "image": "bret-hart-july-2-square.jpg",
+    "videos": [
+      {
+        "title": "Bret Hart's greatest moments",
+        "url": "https://youtu.be/cJGfXNi5izQ",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Bret Hart WWE retrospective",
+        "url": "https://youtu.be/GbfN-9p7Lg0",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-02-1400-july-2-booker-buff-raw",
+    "publishAt": "2026-07-02T14:00:00-06:00",
+    "dateDisplay": "July 2, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "WCW World Title Match on Raw",
+    "label": "July 2 - Booker Buff Raw",
+    "summary": "July 2, 2001: On Raw from Tacoma, Washington, Booker T defended the WCW World Heavyweight Championship against Buff Bagwell in a WWF ring. The match ended in a no contest after Steve Austin and Kurt Angle interfered, but the setup was historically important: WWF presented a WCW World Title match on Raw during the early Invasion period.",
+    "image": "wcw-title-raw-july-2-square.jpg",
+    "videos": [
+      {
+        "title": "Booker T vs. Buff Bagwell - WCW Championship",
+        "url": "https://youtu.be/km9PPOs2_I8",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Booker T vs. Buff Bagwell on Raw",
+        "url": "https://youtu.be/g32efb5gaF8",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwf-results-2001/",
+      "https://www.youtube.com/@WWE"
+    ]
+  },
+  {
+    "id": "2026-07-02-2000-july-2-scotty-2-hotty",
+    "publishAt": "2026-07-02T20:00:00-06:00",
+    "dateDisplay": "July 2, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Scotty 2 Hotty Birthday",
+    "label": "July 2 - Scotty 2 Hotty",
+    "summary": "July 2, 1973: Scott Garland, better known as Scotty 2 Hotty, was born. Scotty's career matters because he became one of the most recognizable comedy babyfaces of the Attitude Era, especially as part of Too Cool with Grandmaster Sexay and Rikishi.",
+    "image": "scotty-july-2-square.jpg",
+    "videos": [
+      {
+        "title": "Scotty 2 Hotty performs The Worm",
+        "url": "https://youtu.be/3s8iIjJ_ZtI",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Too Cool double Worm highlight",
+        "url": "https://youtu.be/xkDYsAsS414",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-03-0800-july-3-edge-wwe-title",
+    "publishAt": "2026-07-03T08:00:00-06:00",
+    "dateDisplay": "July 3, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Edge Wins the WWE Championship",
+    "label": "July 3 - Edge WWE Title",
+    "summary": "July 3, 2006: On Raw from Philadelphia, Edge defeated Rob Van Dam and John Cena in a No Disqualification triple threat match to win the WWE Championship. Edge pinned RVD after using the title belt during the closing sequence.",
+    "image": "edge-wwe-title-july-3-square.jpg",
+    "videos": [
+      {
+        "title": "Edge vs. John Cena vs. Rob Van Dam - WWE Championship",
+        "url": "https://youtu.be/NRkitQtyJ9Y",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Edge, Cena, and RVD WWE Title match footage",
+        "url": "https://youtu.be/IhZGVWLYXgw",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2006/",
+      "https://www.wwe.com/titlehistory/wwe-championship"
+    ]
+  },
+  {
+    "id": "2026-07-03-1400-july-3-gab-2012",
+    "publishAt": "2026-07-03T14:00:00-06:00",
+    "dateDisplay": "July 3, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "SuperSmackDown Great American Bash 2012",
+    "label": "July 3 - GAB 2012",
+    "summary": "July 3, 2012: WWE aired a live SuperSmackDown Great American Bash special from Corpus Christi, Texas. The show centered on a 20-man battle royal, which Zack Ryder won to become the temporary SmackDown general manager for the following week.",
+    "image": "smackdown-gab-2012-july-3-square.jpg",
+    "videos": [
+      {
+        "title": "Great American Bash 20-man battle royal",
+        "url": "https://youtu.be/pHkNJE6aq6o",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Zack Ryder wins Great American Bash battle royal",
+        "url": "https://youtu.be/e3k2ySVlQ6U",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2012/",
+      "https://www.youtube.com/@WWE"
+    ]
+  },
+  {
+    "id": "2026-07-03-2000-july-3-jim-ross",
+    "publishAt": "2026-07-03T20:00:00-06:00",
+    "dateDisplay": "July 3, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Jim Ross Birthday",
+    "label": "July 3 - Jim Ross",
+    "summary": "July 3, 1952: Jim Ross was born in Fort Bragg, California. Ross matters to wrestling history because his voice became the soundtrack of WWF's Attitude Era, from Steve Austin's rise to countless Raw, pay-per-view, and WrestleMania moments.",
+    "image": "jim-ross-july-3-square.jpg",
+    "videos": [
+      {
+        "title": "Jim Ross WWE Hall of Fame speech",
+        "url": "https://youtu.be/N1ksxTmjk2s",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Jim Ross interviews Stone Cold on Raw",
+        "url": "https://youtu.be/AWYGVA-KOPA",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-04-0800-july-4-lex-luger-uss-intrepid",
+    "publishAt": "2026-07-04T08:00:00-06:00",
+    "dateDisplay": "July 4, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Lex Luger Slams Yokozuna",
+    "label": "July 4 - Lex Luger USS Intrepid",
+    "summary": "July 4, 1993: On the USS Intrepid in New York City, Lex Luger became the surprise final participant in Yokozuna's bodyslam challenge and successfully slammed the WWF Champion. The moment matters because it instantly repositioned Luger as an all-American babyface and launched the \"Lex Express\" campaign that carried him toward SummerSlam.",
+    "image": "luger-yokozuna-july-4-square.jpg",
+    "videos": [
+      {
+        "title": "Lex Luger slams Yokozuna",
+        "url": "https://youtu.be/-qOOroeAIfs",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Yokozuna's USS Intrepid bodyslam challenge",
+        "url": "https://youtu.be/X4MXn6foHV8",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwf-results-1993/",
+      "https://www.youtube.com/@WWE"
+    ]
+  },
+  {
+    "id": "2026-07-04-1400-july-4-hogan-edge-titles",
+    "publishAt": "2026-07-04T14:00:00-06:00",
+    "dateDisplay": "July 4, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Hulk Hogan and Edge Win Tag Team Gold",
+    "label": "July 4 - Hogan Edge Titles",
+    "summary": "July 4, 2002: On SmackDown, Hulk Hogan and Edge defeated Billy Gunn and Chuck Palumbo to win the WWE Tag Team Championship. Edge pinned Palumbo after Hogan and Edge hit a double boot and double legdrop sequence, then celebrated to \"Real American\" on Independence Day.",
+    "image": "hogan-edge-july-4-square.jpg",
+    "videos": [
+      {
+        "title": "Edge and Hulk Hogan win the WWE Tag Team Titles",
+        "url": "https://youtu.be/dNyHB2qBVMM",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Billy and Chuck vs. Edge and Hulk Hogan",
+        "url": "https://youtu.be/LdLgHVuW8yw",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2002/",
+      "https://www.wwe.com/titlehistory/"
+    ]
+  },
+  {
+    "id": "2026-07-04-2000-july-4-barry-windham",
+    "publishAt": "2026-07-04T20:00:00-06:00",
+    "dateDisplay": "July 4, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Barry Windham Birthday",
+    "label": "July 4 - Barry Windham",
+    "summary": "July 4, 1960: Barry Windham was born in Sweetwater, Texas. Windham's career matters because he was one of the smoothest big wrestlers of his generation, with major runs in the NWA, WCW, and WWF.",
+    "image": "barry-windham-july-4-square.jpg",
+    "videos": [
+      {
+        "title": "The Four Horsemen WWE Hall of Fame induction",
+        "url": "https://youtu.be/7R8WgmQY32U",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Four Horsemen Hall of Fame induction speech",
+        "url": "https://youtu.be/MVZIbFXVZwI",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-05-0800-july-5-nxt-gab-2022",
+    "publishAt": "2026-07-05T08:00:00-06:00",
+    "dateDisplay": "July 5, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "NXT Great American Bash 2022",
+    "label": "July 5 - NXT GAB 2022",
+    "summary": "July 5, 2022: NXT presented The Great American Bash on USA Network. Bron Breakker retained the NXT Championship against Cameron Grimes in the main event, continuing Breakker's run as the face of the 2.0 era.",
+    "image": "nxt-gab-2022-july-5-square.jpg",
+    "videos": [
+      {
+        "title": "Bron Breakker vs. Cameron Grimes - NXT Championship",
+        "url": "https://youtu.be/pRgivZLnzRY",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Bron Breakker spears Cameron Grimes",
+        "url": "https://youtu.be/PjVM4pC-afI",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/shows/wwenxt",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-05-1400-july-5-hillbilly-jim",
+    "publishAt": "2026-07-05T14:00:00-06:00",
+    "dateDisplay": "July 5, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Hillbilly Jim Birthday",
+    "label": "July 5 - Hillbilly Jim",
+    "summary": "July 5, 1952: Hillbilly Jim was born in Scottsville, Kentucky. Hillbilly Jim matters because he became one of the recognizable character babyfaces of the 1980s WWF expansion era, connected on-screen to Hulk Hogan and later remembered as part of the company's Rock 'n' Wrestling generation.",
+    "image": "hillbilly-jim-july-5-square.jpg",
+    "videos": [
+      {
+        "title": "Hillbilly Jim joins the WWE Hall of Fame",
+        "url": "https://youtu.be/5bEUWLnsNmw",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Hillbilly Jim becomes Country Boy",
+        "url": "https://youtu.be/Felwu4s0_k8",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-05-2000-july-5-jerry-sags",
+    "publishAt": "2026-07-05T20:00:00-06:00",
+    "dateDisplay": "July 5, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Jerry Sags Birthday",
+    "label": "July 5 - Jerry Sags",
+    "summary": "July 5, 1964: Jerry Sags of The Nasty Boys was born. Sags matters to wrestling history as one half of a rugged tag team that held major championships in both WWF and WCW.",
+    "image": "jerry-sags-july-5-square.jpg",
+    "videos": [
+      {
+        "title": "The Nasty Boys vs. The Beverly Brothers",
+        "url": "https://youtu.be/-pwRqg_QYTM",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Nasty Boys career highlight",
+        "url": "https://youtu.be/YpyxQg3hgQQ",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-06-0800-july-6-canadian-stampede",
+    "publishAt": "2026-07-06T08:00:00-06:00",
+    "dateDisplay": "July 6, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "In Your House: Canadian Stampede",
+    "label": "July 6 - Canadian Stampede",
+    "summary": "July 6, 1997: WWF In Your House: Canadian Stampede took place at the Saddledome in Calgary. The card is remembered as one of the strongest In Your House events, with Undertaker defending the WWF Championship against Vader and the Hart Foundation headlining in front of an intensely pro-Hart crowd.",
+    "image": "canadian-stampede-july-6-square.jpg",
+    "videos": [
+      {
+        "title": "Hart Foundation ten-man tag - Canadian Stampede",
+        "url": "https://youtu.be/xeX_l7M640Y",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Hart Foundation Canadian Stampede promo",
+        "url": "https://youtu.be/lXREHEmYnXI",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwf-results-1997/",
+      "https://www.thesmackdownhotel.com/events-results/"
+    ]
+  },
+  {
+    "id": "2026-07-06-1400-july-6-hart-foundation-main-event",
+    "publishAt": "2026-07-06T14:00:00-06:00",
+    "dateDisplay": "July 6, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Hart Foundation Wins in Calgary",
+    "label": "July 6 - Hart Foundation Main Event",
+    "summary": "July 6, 1997: In the main event of Canadian Stampede, Bret Hart, Owen Hart, Davey Boy Smith, Jim Neidhart, and Brian Pillman defeated Steve Austin, Goldust, Ken Shamrock, and the Legion of Doom. Owen pinned Austin with a roll-up after chaos at ringside, and the Hart family celebrated in Calgary afterward.",
+    "image": "hart-foundation-july-6-square.jpg",
+    "videos": [
+      {
+        "title": "Hart Foundation Canadian Stampede promo",
+        "url": "https://youtu.be/lXREHEmYnXI",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Bret Hart after Canadian Stampede",
+        "url": "https://youtu.be/uwpqSuUJ12Y",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwf-results-1997/",
+      "https://www.youtube.com/@WWE"
+    ]
+  },
+  {
+    "id": "2026-07-06-2000-july-6-nxt-gab-2021",
+    "publishAt": "2026-07-06T20:00:00-06:00",
+    "dateDisplay": "July 6, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "NXT Great American Bash 2021",
+    "label": "July 6 - NXT GAB 2021",
+    "summary": "July 6, 2021: NXT presented The Great American Bash on USA Network. Adam Cole defeated Kyle O'Reilly in the main event, while Io Shirai and Zoey Stark won the NXT Women's Tag Team Championship from The Way.",
+    "image": "nxt-gab-2021-july-6-square.jpg",
+    "videos": [
+      {
+        "title": "Kyle O'Reilly vs. Adam Cole - NXT Great American Bash",
+        "url": "https://youtu.be/0GBsTmkUzVo",
+        "provider": "YouTube"
+      },
+      {
+        "title": "NXT Great American Bash 2021 full episode",
+        "url": "https://youtu.be/beuKkmJYckk",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/shows/wwenxt",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-07-0800-july-7-nwo-formation",
+    "publishAt": "2026-07-07T08:00:00-06:00",
+    "dateDisplay": "July 7, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Hulk Hogan Forms the nWo",
+    "label": "July 7 - nWo Formation",
+    "summary": "July 7, 1996: At WCW Bash at the Beach in Daytona Beach, Hulk Hogan turned heel and joined Scott Hall and Kevin Nash as the third man. Hogan's post-match promo named the New World Order, and fans threw trash into the ring as WCW's biggest babyface became its biggest villain.",
+    "image": "hogan-nwo-july-7-square.jpg",
+    "videos": [
+      {
+        "title": "Hulk Hogan forms the nWo",
+        "url": "https://youtu.be/B638ROb-iYk",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Outsiders vs. Luger, Sting, and Savage",
+        "url": "https://youtu.be/u8pGDWojsfA",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wcw-results-1996/",
+      "https://www.youtube.com/@WWE"
+    ]
+  },
+  {
+    "id": "2026-07-07-1400-july-7-sting-nwa-title",
+    "publishAt": "2026-07-07T14:00:00-06:00",
+    "dateDisplay": "July 7, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Sting Wins the NWA World Title",
+    "label": "July 7 - Sting NWA Title",
+    "summary": "July 7, 1990: At the Great American Bash in Baltimore, Sting defeated Ric Flair to win the NWA World Heavyweight Championship. Sting won with an inside cradle as Flair attempted the figure-four, completing his rise from colorful challenger to world champion.",
+    "image": "sting-flair-july-7-square.jpg",
+    "videos": [
+      {
+        "title": "Great American Bash 1990 full event",
+        "url": "https://youtu.be/1RPmb4fQ8xQ",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Sting wins his first World Championship",
+        "url": "https://youtu.be/Fv3WY9Y8XfU",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wcw-results-1990/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-07-2000-july-7-rey-vs-psychosis",
+    "publishAt": "2026-07-07T20:00:00-06:00",
+    "dateDisplay": "July 7, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Rey Mysterio Jr. vs. Psychosis",
+    "label": "July 7 - Rey vs Psychosis",
+    "summary": "July 7, 1996: At WCW Bash at the Beach, Rey Mysterio Jr. defeated Psychosis by reversing a top-rope Splash Mountain into a hurricanrana.",
+    "image": "rey-psychosis-july-7-square.jpg",
+    "videos": [
+      {
+        "title": "Rey Mysterio Jr. vs. Psychosis - Bash at the Beach",
+        "url": "https://youtu.be/DTrSRzIjaRk",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Rey Mysterio vs. Psychosis match highlight",
+        "url": "https://youtu.be/wQxUQs_4i4c",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wcw-results-1996/",
+      "https://www.youtube.com/@WWE"
+    ]
+  },
+  {
+    "id": "2026-07-08-0800-july-8-kotr-1985",
+    "publishAt": "2026-07-08T08:00:00-06:00",
+    "dateDisplay": "July 8, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Don Muraco Wins the First King of the Ring",
+    "label": "July 8 - KOTR 1985",
+    "summary": "July 8, 1985: WWF held the first King of the Ring tournament at Sullivan Stadium in Foxborough, Massachusetts. Don Muraco won the tournament by defeating Pedro Morales in the semifinals and The Iron Sheik in the final.",
+    "image": "kotr-1985-july-8-square.jpg",
+    "videos": [
+      {
+        "title": "WWF King of the Ring 1985",
+        "url": "https://youtu.be/Be-sXUsqGv0",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Don Muraco on winning the first King of the Ring",
+        "url": "https://youtu.be/QtA2MT_1zfw",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwf-results-1985/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-08-1400-july-8-hardy-euro-title",
+    "publishAt": "2026-07-08T14:00:00-06:00",
+    "dateDisplay": "July 8, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Jeff Hardy Wins the European Championship",
+    "label": "July 8 - Hardy Euro Title",
+    "summary": "July 8, 2002: On Raw from Philadelphia, Jeff Hardy defeated William Regal to win the WWE European Championship. Hardy won with the Swanton after dropkicking Regal into the corner, adding a singles title to his resume during the early Ruthless Aggression period.",
+    "image": "hardy-euro-july-8-square.jpg",
+    "videos": [
+      {
+        "title": "Jeff Hardy vs. William Regal - European Championship",
+        "url": "https://youtu.be/GZne-eHBYX0",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Jeff Hardy vs. William Regal on Raw",
+        "url": "https://youtu.be/apa2Tp8pncw",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2002/",
+      "https://www.wwe.com/titlehistory/european-championship"
+    ]
+  },
+  {
+    "id": "2026-07-08-2000-july-8-nash-injury",
+    "publishAt": "2026-07-08T20:00:00-06:00",
+    "dateDisplay": "July 8, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Kevin Nash Injured on Raw",
+    "label": "July 8 - Nash Injury",
+    "summary": "July 8, 2002: On Raw from Philadelphia, Kevin Nash returned to in-ring action in a ten-man tag team main event and suffered a serious leg injury during the match. The History of WWE records Nash as being taken out after legitimately injuring his knee.",
+    "image": "nash-injury-july-8-square.jpg",
+    "videos": [
+      {
+        "title": "Kevin Nash tears his quadriceps on Raw",
+        "url": "https://youtu.be/opspjkqrF50",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Kevin Nash injury footage",
+        "url": "https://youtu.be/O7DoLJR8l-8",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2002/",
+      "https://www.youtube.com/@WWE"
+    ]
+  },
+  {
+    "id": "2026-07-09-0800-july-9-bash-2000",
+    "publishAt": "2026-07-09T08:00:00-06:00",
+    "dateDisplay": "July 9, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "WCW Bash at the Beach 2000",
+    "label": "July 9 - Bash 2000",
+    "summary": "July 9, 2000: WCW Bash at the Beach took place in Daytona Beach and became one of the company's most infamous shows. Hulk Hogan pinned Jeff Jarrett after Jarrett lay down, Vince Russo cut a worked-shoot promo afterward, and Booker T later defeated Jarrett to win the WCW World Heavyweight Championship.",
+    "image": "bash-2000-july-9-square.jpg",
+    "videos": [
+      {
+        "title": "Bash at the Beach 2000 full event",
+        "url": "https://youtu.be/2ol0XCQOuAc",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Booker T becomes WCW Champion",
+        "url": "https://youtu.be/sEIZA539fyo",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wcw-results-2000/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-09-1400-july-9-alliance-forms",
+    "publishAt": "2026-07-09T14:00:00-06:00",
+    "dateDisplay": "July 9, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "ECW and WCW Form The Alliance",
+    "label": "July 9 - Alliance Forms",
+    "summary": "July 9, 2001: On Raw from Atlanta, ECW wrestlers attacked during a match involving Chris Jericho, Kane, Lance Storm, and Mike Awesome. Paul Heyman left commentary to join the group, and by the end of the night WCW and ECW had joined forces as The Alliance under Shane and Stephanie McMahon.",
+    "image": "alliance-july-9-square.jpg",
+    "videos": [
+      {
+        "title": "ECW joins WCW and forms The Alliance",
+        "url": "https://youtu.be/ulY-ES_XJfc",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Shane McMahon introduces ECW's new owner",
+        "url": "https://youtu.be/S0mgpK6Kc9c",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwf-results-2001/",
+      "https://www.youtube.com/@WWE"
+    ]
+  },
+  {
+    "id": "2026-07-09-2000-july-9-kevin-nash",
+    "publishAt": "2026-07-09T20:00:00-06:00",
+    "dateDisplay": "July 9, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Kevin Nash Birthday",
+    "label": "July 9 - Kevin Nash",
+    "summary": "July 9, 1959: Kevin Nash was born in Detroit, Michigan. Nash matters because he was a major figure in two different boom-period stories: Diesel's WWF Championship run in the mid-1990s and the Outsiders/nWo angle that helped WCW beat WWF in the early Monday Night War.",
+    "image": "kevin-nash-july-9-square.jpg",
+    "videos": [
+      {
+        "title": "Kevin Nash announced for the WWE Hall of Fame",
+        "url": "https://youtu.be/33aIUuoKw64",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Kevin Nash reacts to his greatest moments",
+        "url": "https://youtu.be/2PCl2KhZdfI",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-10-0800-july-10-gab-1988",
+    "publishAt": "2026-07-10T08:00:00-06:00",
+    "dateDisplay": "July 10, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "NWA Great American Bash 1988",
+    "label": "July 10 - GAB 1988",
+    "summary": "July 10, 1988: The Great American Bash pay-per-view took place in Baltimore, headlined by Ric Flair defending the NWA World Heavyweight Championship against Lex Luger. Flair retained when the match was stopped because Luger was bleeding, a finish that protected Luger's rise while keeping the title on Flair.",
+    "image": "gab-1988-july-10-square.jpg",
+    "videos": [
+      {
+        "title": "Ric Flair vs. Lex Luger - NWA World Heavyweight Title",
+        "url": "https://youtu.be/SXmr4yHAcw8",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Great American Bash 1988 full event",
+        "url": "https://youtu.be/b39lINSy8C4",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wcw/gabash.html",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-10-1400-july-10-booker-nitro-defense",
+    "publishAt": "2026-07-10T14:00:00-06:00",
+    "dateDisplay": "July 10, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Booker T's First Nitro as WCW Champion",
+    "label": "July 10 - Booker Nitro Defense",
+    "summary": "July 10, 2000: One night after winning the WCW World Heavyweight Championship at Bash at the Beach, Booker T appeared on Monday Nitro in Jacksonville as champion and defeated Mike Awesome. The moment matters because it was Booker's first full night carrying WCW's top title after the most controversial show in company history.",
+    "image": "booker-awesome-july-10-square.jpg",
+    "videos": [
+      {
+        "title": "WCW Monday Nitro - Booker T vs. Mike Awesome",
+        "url": "https://youtu.be/LTJQnh4C8T0",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Mike Awesome vs. Booker T",
+        "url": "https://youtu.be/l07U3Ac8pe0",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wcw-results-2000/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-10-2000-july-10-johnny-grunge",
+    "publishAt": "2026-07-10T20:00:00-06:00",
+    "dateDisplay": "July 10, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Johnny Grunge Birthday",
+    "label": "July 10 - Johnny Grunge",
+    "summary": "July 10, 1966: Johnny Grunge of The Public Enemy was born. Grunge matters because The Public Enemy helped define early ECW's street-party brawling identity before the team moved through WCW and WWF.",
+    "image": "johnny-grunge-july-10-square.jpg",
+    "videos": [
+      {
+        "title": "Public Enemy ECW debut promo",
+        "url": "https://youtu.be/NHa1DSpphMU",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Public Enemy ECW farewell music video",
+        "url": "https://youtu.be/ulq8KAACjlo",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.cagematch.net/",
+      "https://www.prowrestlinghistory.com/ecw/"
     ]
   }
 ];
