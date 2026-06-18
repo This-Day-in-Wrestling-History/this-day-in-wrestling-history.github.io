@@ -10,7 +10,7 @@ window.TDWH_VIDEO_POSTS = [
     "era": "1974-1988/89",
     "promotion": "CWA Memphis",
     "location": "Memphis, Tennessee",
-    "summary": "CWA Memphis promoted a Monday night Mid-South Coliseum card built around the weekly arena rhythm that made Memphis one of wrestling’s great live territories.",
+    "summary": "CWA Memphis promoted a Monday night Mid-South Coliseum card built around the weekly arena rhythm that made Memphis one of wrestling\u2019s great live territories.",
     "image": "territory-video-profile.png",
     "videos": [
       {
@@ -71,7 +71,7 @@ window.TDWH_VIDEO_POSTS = [
     "era": "1974-1988/89",
     "promotion": "Jim Crockett Promotions",
     "location": "Atlanta, Georgia",
-    "summary": "JCP’s June 18, 1988 World Championship Wrestling episode caught the promotion in its final months before the Turner sale.",
+    "summary": "JCP\u2019s June 18, 1988 World Championship Wrestling episode caught the promotion in its final months before the Turner sale.",
     "image": "territory-video-profile.png",
     "videos": [
       {
@@ -102,7 +102,7 @@ window.TDWH_VIDEO_POSTS = [
     "era": "1974-1988/89",
     "promotion": "Georgia Championship Wrestling",
     "location": "Atlanta, Georgia",
-    "summary": "Georgia Championship Wrestling’s June 19, 1982 TV episode captures the WTBS studio style before Black Saturday changed the station’s wrestling identity.",
+    "summary": "Georgia Championship Wrestling\u2019s June 19, 1982 TV episode captures the WTBS studio style before Black Saturday changed the station\u2019s wrestling identity.",
     "image": "territory-video-profile.png",
     "videos": [
       {
@@ -196,7 +196,7 @@ window.TDWH_VIDEO_POSTS = [
     "era": "1974-1988/89",
     "promotion": "Mid-South Wrestling",
     "location": "Mid-South TV",
-    "summary": "Mid-South Wrestling’s June 20, 1985 episode sits in the Bill Watts era as the promotion moved toward the UWF identity.",
+    "summary": "Mid-South Wrestling\u2019s June 20, 1985 episode sits in the Bill Watts era as the promotion moved toward the UWF identity.",
     "image": "territory-video-profile.png",
     "videos": [
       {
@@ -649,6 +649,570 @@ window.TDWH_VIDEO_POSTS = [
       "https://www.youtube.com/watch?v=NpSy0C_P5ZA",
       "https://forums.prowrestlingonly.com/profile/530-krisz/content/page/175/?type=forums_topic_post",
       "https://sportsandwrestling.freeforums.net/thread/262/south-watts-promotion-1979-version"
+    ]
+  },
+  {
+    "id": "2026-06-25-800am-showdown-at-shea-brings-andre-vs-chuck-wepner",
+    "publishAt": "2026-06-25T08:00:00-06:00",
+    "calendarDate": "2026-06-25",
+    "dateDisplay": "June 25, 1976",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Showdown at Shea Brings Andre vs. Chuck Wepner",
+    "label": "June 25 - Showdown at Shea 1976",
+    "era": "1974-1988/89",
+    "promotion": "WWWF",
+    "location": "Shea Stadium, Flushing, New York",
+    "summary": "It shows the WWWF using a territory-era stadium card to blend arena wrestling, boxer-vs-wrestler spectacle, and closed-circuit promotion years before WrestleMania.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "Andre the Giant vs. Chuck Wepner, Shea Stadium 1976",
+        "url": "https://www.youtube.com/watch?v=PZxRYY58OiY",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Audio: Bruno Sammartino vs. Stan Hansen, Shea Stadium 1976",
+        "url": "https://www.youtube.com/watch?v=s1Myhn6Lavc",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/shea.html",
+      "https://thehistoryofwwe.com/wwwf-results-1976/",
+      "https://www.cagematch.net/?id=1&nr=11072",
+      "https://www.youtube.com/watch?v=PZxRYY58OiY"
+    ]
+  },
+  {
+    "id": "2026-06-25-200pm-mid-atlantic-at-charlotte-park-center",
+    "publishAt": "2026-06-25T14:00:00-06:00",
+    "calendarDate": "2026-06-25",
+    "dateDisplay": "June 25, 1973",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Mid-Atlantic at Charlotte Park Center",
+    "label": "June 25 - Charlotte Park Center",
+    "era": "1947-1973",
+    "promotion": "Mid-Atlantic Championship Wrestling",
+    "location": "Park Center, Charlotte, North Carolina",
+    "summary": "The scan is a clean snapshot of early-1970s Mid-Atlantic business before Crockett's later cable-era boom: local newspaper promotion, weekly buildings, and recognizable regional babyfaces carrying the house.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "Thunderbolt Patterson 1973 career-context footage",
+        "url": "https://www.youtube.com/watch?v=7EKgC17ZiCY",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Best of Thunderbolt Patterson promos, career context",
+        "url": "https://www.youtube.com/watch?v=s2-4CJq-bfE",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.rforh.com/1973-match-history",
+      "https://storage1.snappages.site/5XSH7B/assets/images/5365350_1152x939_500.jpeg",
+      "https://thehistoryofwwe.com/greensboro-coliseum-results-1970s/"
+    ]
+  },
+  {
+    "id": "2026-06-25-800pm-nwa-world-championship-wrestling-on-tbs-june-25-1988",
+    "publishAt": "2026-06-25T20:00:00-06:00",
+    "calendarDate": "2026-06-25",
+    "dateDisplay": "June 25, 1988",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "NWA World Championship Wrestling Runs on TBS",
+    "label": "June 25 - NWA WCW on TBS 1988",
+    "era": "1974-1988/89",
+    "promotion": "Jim Crockett Promotions / NWA",
+    "location": "WTBS television, Atlanta, Georgia",
+    "summary": "A late Crockett-era TBS episode shows JCP using national cable to keep the NWA identity moving in the same summer that led toward the Turner sale.",
+    "image": "territory-content/remaining-june/strict-production/feed-assets/2026-06-25-800pm-nwa-world-championship-wrestling-on-tbs-june-25-1988.jpg",
+    "videos": [
+      {
+        "title": "NWA World Championship Wrestling, June 25, 1988 full episode",
+        "url": "https://www.youtube.com/watch?v=nwzHrXc8AlA",
+        "provider": "YouTube"
+      },
+      {
+        "title": "NWA World Championship Wrestling 6/25/88 and 7/2/88 playlist entry",
+        "url": "https://m.youtube.com/playlist?list=PLvfqmJQA-nINm1_vWvLijc0vSX1LUbg8E",
+        "provider": "YouTube playlist"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=nwzHrXc8AlA",
+      "https://wwfoldschool.com/nwa-world-championship-wrestling-wcw-saturday-night-1988/",
+      "https://www.coreystapes.com/nwatv88.html",
+      "https://www.facebook.com/Davenportsportsnetwork/posts/on-may-10-1986-nwa-world-championship-wrestling-aired-on-wtbs-take-a-look-back-a/3048848482062005/"
+    ]
+  },
+  {
+    "id": "2026-06-26-800am-bill-watts-turns-on-jerry-brisco-in-florida",
+    "publishAt": "2026-06-26T08:00:00-06:00",
+    "calendarDate": "2026-06-26",
+    "dateDisplay": "June 26, 1974",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Bill Watts Turns on Jerry Brisco in Florida",
+    "label": "June 26 - Watts Turns Heel",
+    "era": "1974-1988/89",
+    "promotion": "Championship Wrestling from Florida",
+    "location": "Miami Beach Convention Center, Miami Beach, Florida",
+    "summary": "It is a useful preserved Florida clip because it shows Watts as more than a Mid-South promoter and catches Championship Wrestling from Florida in the Gordon Solie-era ecosystem of turns, studio heat, and traveling NWA names.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "Jerry Brisco & Bill Watts vs. Ron & Robert Fuller, Watts turn",
+        "url": "https://www.youtube.com/watch?v=x5Nkv1vbL_Y",
+        "provider": "YouTube"
+      },
+      {
+        "title": "CWF Legends playlist entry for Cowboy Bill Watts",
+        "url": "https://www.youtube.com/playlist?list=PLtk_48M5CURXsLrWUtAK0IqrV_kgUdUQX",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=x5Nkv1vbL_Y",
+      "https://www.youtube.com/playlist?list=PLtk_48M5CURXsLrWUtAK0IqrV_kgUdUQX",
+      "https://www.onlineworldofwrestling.com/results/cwf/"
+    ]
+  },
+  {
+    "id": "2026-06-26-200pm-jackie-fargo-is-born",
+    "publishAt": "2026-06-26T14:00:00-06:00",
+    "calendarDate": "2026-06-26",
+    "dateDisplay": "June 26, 1930",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Jackie Fargo Is Born",
+    "label": "June 26 - Jackie Fargo",
+    "era": "1947-1973",
+    "promotion": "NWA Mid-America / Memphis",
+    "location": "Concord, North Carolina",
+    "summary": "Fargo became one of Memphis wrestling's essential personalities, a mentor and stylistic influence on Jerry Lawler, Jeff Jarrett, and The Fabulous Ones through the famous Fargo Strut and his long NWA Mid-America run.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "Jackie Fargo original strut, Memphis career context",
+        "url": "https://www.youtube.com/watch?v=jqBFqthRzaI",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Jim Cornette on Jackie Fargo's legacy",
+        "url": "https://www.youtube.com/watch?v=AzMVuG3B9EE",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.dignitymemorial.com/obituaries/china-grove-nc/jackie-fargo-5579230",
+      "https://www.legacy.com/us/obituaries/salisburypost/name/jackie-fargo-obituary?id=20135797",
+      "https://www.onlineworldofwrestling.com/profile/jackie-fargo/"
+    ]
+  },
+  {
+    "id": "2026-06-26-800pm-mid-south-tv-builds-the-jyd-dibiase-roop-tangle",
+    "publishAt": "2026-06-26T20:00:00-06:00",
+    "calendarDate": "2026-06-26",
+    "dateDisplay": "June 26, 1982",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Mid-South TV Builds the JYD-DiBiase-Roop Tangle",
+    "label": "June 26 - Mid-South TV",
+    "era": "1974-1988/89",
+    "promotion": "Mid-South Wrestling",
+    "location": "Syndicated Mid-South television",
+    "summary": "It is a strong example of Bill Watts-era TV using promos, title disputes, and character relationships to turn weekly television into appointment viewing.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "Mid-South Wrestling, June 26, 1982 full show",
+        "url": "https://www.youtube.com/watch?v=NiFqNqV_8q0",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Mid-South Wrestling, June 26, 1982 alternate upload",
+        "url": "https://www.youtube.com/watch?v=y-UJkv9XivQ",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=NiFqNqV_8q0",
+      "https://midsouthpod.com/2019/03/17/episode-28-june-26-1982/",
+      "https://www.imdb.com/title/tt6063916/episodes/?season=4"
+    ]
+  },
+  {
+    "id": "2026-06-27-800am-crockett-tv-pushes-garvin-toward-flair",
+    "publishAt": "2026-06-27T08:00:00-06:00",
+    "calendarDate": "2026-06-27",
+    "dateDisplay": "June 27, 1987",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Crockett TV Pushes Garvin Toward Flair",
+    "label": "June 27 - JCP on TBS",
+    "era": "1974-1988/89",
+    "promotion": "Jim Crockett Promotions / NWA",
+    "location": "TBS World Championship Wrestling",
+    "summary": "It catches Crockett's 1987 television machine in motion before the Great American Bash tour and before Ron Garvin's eventual title win later that year.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "World Championship Wrestling, June 27, 1987 full show",
+        "url": "https://www.youtube.com/watch?v=lKVfR0q7RaU",
+        "provider": "YouTube"
+      },
+      {
+        "title": "NWA Pro Wrestling, June 27, 1987",
+        "url": "https://www.youtube.com/watch?v=HFmLEpWr63Q",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=lKVfR0q7RaU",
+      "https://wrestlingfanatic.fandom.com/wiki/June_27%2C_1987_World_Championship_Wrestling",
+      "https://thehistoryofwwe.com/jcp-results-1987/"
+    ]
+  },
+  {
+    "id": "2026-06-27-200pm-dick-the-bruiser-is-born",
+    "publishAt": "2026-06-27T14:00:00-06:00",
+    "calendarDate": "2026-06-27",
+    "dateDisplay": "June 27, 1929",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Dick the Bruiser Is Born",
+    "label": "June 27 - Dick the Bruiser",
+    "era": "1947-1973",
+    "promotion": "WWA Indianapolis / AWA / Midwest territories",
+    "location": "Indiana",
+    "summary": "Bruiser became one of the Midwest's defining wrestling attractions, linking WWA Indianapolis, AWA, Detroit, Chicago, and St. Louis style brawling with local TV notoriety.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "Dick the Bruiser vs. Jerry Valiant, WWA career context",
+        "url": "https://www.youtube.com/watch?v=nSr7FjjBekQ",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Dick the Bruiser vs. Dick Murdoch, 1979",
+        "url": "https://www.youtube.com/watch?v=rj__P4d222Y",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://classicwrestlingarticles.wordpress.com/2014/05/31/dick-the-bruiser-62-dies-in-florida/",
+      "https://puroresusystem.fandom.com/wiki/Dick_the_Bruiser",
+      "https://prowrestling.fandom.com/wiki/Dick_The_Bruiser"
+    ]
+  },
+  {
+    "id": "2026-06-27-800pm-uwf-houston-new-zealand-boot-camp-match",
+    "publishAt": "2026-06-27T20:00:00-06:00",
+    "calendarDate": "2026-06-27",
+    "dateDisplay": "June 27, 1986",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "The Fantastics and Sheepherders Tear Up Houston",
+    "label": "June 27 - UWF Houston Boot Camp",
+    "era": "1974-1988/89",
+    "promotion": "UWF / Houston Wrestling",
+    "location": "Sam Houston Coliseum, Houston, Texas",
+    "summary": "The Fantastics vs. the Sheepherders shows Bill Watts-era UWF tag-team violence crossing into Paul Boesch\u2019s Houston market in one of the feud\u2019s roughest settings.",
+    "image": "territory-content/remaining-june/strict-production/feed-assets/2026-06-27-800pm-uwf-houston-new-zealand-boot-camp-match.jpg",
+    "videos": [
+      {
+        "title": "The Fantastics vs. The Sheepherders, June 27, 1986",
+        "url": "https://www.youtube.com/watch?v=mKQaDmce8WM",
+        "provider": "YouTube"
+      },
+      {
+        "title": "UWF tag team playlist with Fantastics vs. Sheepherders",
+        "url": "https://m.youtube.com/playlist?list=PLtQxruZa7bL3oJBgbR-silp_BUdWuNsEd",
+        "provider": "YouTube playlist"
+      }
+    ],
+    "sources": [
+      "https://forums.prowrestlingonly.com/topic/31436-houston-wrestling-results-nwa-classics-research/",
+      "https://www.youtube.com/watch?v=mKQaDmce8WM",
+      "https://www.facebook.com/groups/323190448375823/posts/1613715249323330/",
+      "https://thehistoryofwwe.com/jcp-results-1986/"
+    ]
+  },
+  {
+    "id": "2026-06-28-800am-awa-battle-by-the-bay-airs-live-on-espn",
+    "publishAt": "2026-06-28T08:00:00-06:00",
+    "calendarDate": "2026-06-28",
+    "dateDisplay": "June 28, 1986",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "AWA Battle by the Bay Airs Live on ESPN",
+    "label": "June 28 - AWA Battle by the Bay",
+    "era": "1974-1988/89",
+    "promotion": "AWA",
+    "location": "Convention Center, Oakland, California",
+    "summary": "It shows Verne Gagne's AWA trying to use ESPN exposure and special-event framing during a difficult nationalizing period for the promotion.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "AWA Battle by the Bay, June 28, 1986 full show",
+        "url": "https://www.youtube.com/watch?v=dOakdIRsGdI",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Battle by the Bay main-event footage with commercials",
+        "url": "https://www.youtube.com/watch?v=H7nlgmK5whk",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.cagematch.net/?id=1&nr=3115",
+      "https://www.prowrestlinghistory.com/supercards/usa/misc/awa/miscawa.html",
+      "https://www.wwe.com/videos/stan-hansen-vs-jerry-blackwell-awa-championship-match-battle-by-the-bay-june-28-1986",
+      "https://www.youtube.com/watch?v=dOakdIRsGdI"
+    ]
+  },
+  {
+    "id": "2026-06-28-200pm-boris-malenko-is-born",
+    "publishAt": "2026-06-28T14:00:00-06:00",
+    "calendarDate": "2026-06-28",
+    "dateDisplay": "June 28, 1933",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Boris Malenko Is Born",
+    "label": "June 28 - Boris Malenko",
+    "era": "1947-1973",
+    "promotion": "Championship Wrestling from Florida / NWA",
+    "location": "Newark, New Jersey",
+    "summary": "Malenko became one of Florida's great heel minds and later a trainer whose influence ran through his sons Dean and Joe and through wrestlers shaped by the Malenko school.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "Dean Malenko and classic Boris Malenko interview",
+        "url": "https://www.youtube.com/watch?v=bE4tY4XlEkM",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Eddie Graham vs. Boris Malenko, 1960s clip",
+        "url": "https://www.youtube.com/watch?v=EL_124gaNbA",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.onlineworldofwrestling.com/profile/boris-malenko/",
+      "https://www.thesmackdownhotel.com/wrestlers/boris-malenko",
+      "https://wrestlerdeaths.com/boris-malenko-death/"
+    ]
+  },
+  {
+    "id": "2026-06-28-800pm-memphis-tv-features-lawler-and-bam-bam-bigelow",
+    "publishAt": "2026-06-28T20:00:00-06:00",
+    "calendarDate": "2026-06-28",
+    "dateDisplay": "June 28, 1986",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Memphis TV Features Lawler and Bam Bam Bigelow",
+    "label": "June 28 - Memphis TV 1986",
+    "era": "1974-1988/89",
+    "promotion": "CWA Memphis",
+    "location": "WMC-TV Studios, Memphis, Tennessee",
+    "summary": "It is a preserved look at late-territory Memphis television, where Lance Russell and Dave Brown could sell Monday night arena business from a compact Saturday studio.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "CWA Memphis Wrestling, June 28, 1986",
+        "url": "https://www.youtube.com/watch?v=E1tZmQ4PH4o",
+        "provider": "YouTube"
+      },
+      {
+        "title": "CWA Championship Wrestling, June 28, 1986 full show",
+        "url": "https://www.youtube.com/watch?v=T0ZS8mU1yNM",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=E1tZmQ4PH4o",
+      "https://www.youtube.com/watch?v=T0ZS8mU1yNM",
+      "https://wrestlingrecaps.com/territories/cwa-memphis/"
+    ]
+  },
+  {
+    "id": "2026-06-29-800am-world-class-tv-runs-through-the-freebirds-von-erich-era",
+    "publishAt": "2026-06-29T08:00:00-06:00",
+    "calendarDate": "2026-06-29",
+    "dateDisplay": "June 29, 1985",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "World Class TV Runs Through the Freebirds-Von Erich Era",
+    "label": "June 29 - WCCW TV 1985",
+    "era": "1974-1988/89",
+    "promotion": "World Class Championship Wrestling",
+    "location": "Dallas/Fort Worth television",
+    "summary": "It preserves World Class at a point when the territory still had huge name identity, even as injuries, absences, and shifting business pressures were changing the promotion.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "World Class Championship Wrestling, June 29, 1985 full show",
+        "url": "https://www.youtube.com/watch?v=FFHRtwcRwOk",
+        "provider": "YouTube"
+      },
+      {
+        "title": "WCCW June 29, 1985 recap/context",
+        "url": "https://www.blogofdoom.com/2021/03/15/rock-star-gary-reflects-on-wccw-06-29-1985/",
+        "provider": "Article"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=FFHRtwcRwOk",
+      "https://www.blogofdoom.com/2021/03/15/rock-star-gary-reflects-on-wccw-06-29-1985/",
+      "https://crazymax.org/newsite/results/wccw-1985-results/"
+    ]
+  },
+  {
+    "id": "2026-06-29-200pm-leo-burke-is-born",
+    "publishAt": "2026-06-29T14:00:00-06:00",
+    "calendarDate": "2026-06-29",
+    "dateDisplay": "June 29, 1948",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Leo Burke Is Born",
+    "label": "June 29 - Leo Burke",
+    "era": "1947-1973",
+    "promotion": "Stampede Wrestling / Atlantic Grand Prix / NWA",
+    "location": "Dorchester, New Brunswick, Canada",
+    "summary": "Burke was a major Canadian territory worker across the Maritimes and Stampede, later respected as a trainer for wrestlers who entered WWF and WCW systems.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "Leo Burke vs. Bret Hart, career context",
+        "url": "https://www.youtube.com/watch?v=CX31j9jZKl8",
+        "provider": "YouTube"
+      },
+      {
+        "title": "CBC Archives: Leo Burke topic page",
+        "url": "http://archives.cbc.ca/sports/wrestling/topics/1237-6850/",
+        "provider": "CBC Archives"
+      }
+    ],
+    "sources": [
+      "https://slamwrestling.net/legend/leo-burke-2/",
+      "https://www.cagematch.net/?id=2&nr=507",
+      "https://www.wrestlingdata.com/index.php?befehl=bios&wrestler=849",
+      "https://www.mhfh.com/obituaries/Leonce-Joseph-Cormier?obId=34746244"
+    ]
+  },
+  {
+    "id": "2026-06-29-800pm-nwa-world-championship-wrestling-keeps-crockett-moving",
+    "publishAt": "2026-06-29T20:00:00-06:00",
+    "calendarDate": "2026-06-29",
+    "dateDisplay": "June 29, 1985",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "NWA World Championship Wrestling Keeps Crockett Moving",
+    "label": "June 29 - NWA WCW 1985",
+    "era": "1974-1988/89",
+    "promotion": "Jim Crockett Promotions / NWA",
+    "location": "TBS World Championship Wrestling",
+    "summary": "It captures JCP's national cable presence during the first full year after Black Saturday, when Crockett's version of the NWA became the dominant wrestling identity on WTBS.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "NWA World Championship Wrestling, June 29, 1985",
+        "url": "https://www.youtube.com/watch?v=8G0C41AwV3c",
+        "provider": "YouTube"
+      },
+      {
+        "title": "NWA Worldwide Wrestling, June 29, 1985",
+        "url": "https://www.youtube.com/watch?v=vILhNsxRNEU",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=8G0C41AwV3c",
+      "https://www.youtube.com/watch?v=vILhNsxRNEU",
+      "https://thehistoryofwwe.com/jcp-results-1985/"
+    ]
+  },
+  {
+    "id": "2026-06-30-800am-dusty-rhodes-beats-ric-flair-at-lords-of-the-ring",
+    "publishAt": "2026-06-30T08:00:00-06:00",
+    "calendarDate": "2026-06-30",
+    "dateDisplay": "June 30, 1984",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Dusty Rhodes Beats Ric Flair at Lords of the Ring",
+    "label": "June 30 - Lords of the Ring",
+    "era": "1974-1988/89",
+    "promotion": "Championship Wrestling from Florida / NWA",
+    "location": "Orange Bowl, Miami, Florida",
+    "summary": "The match shows Florida using a stadium-scale attraction around Dusty and Flair, with local CWF promotion plugged into the broader NWA championship orbit.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "Lords of the Ring: Dusty Rhodes vs. Ric Flair, June 30, 1984",
+        "url": "https://www.youtube.com/watch?v=o4yi0pRHdTw",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Alternate upload: Dusty Rhodes vs. Ric Flair, Lords of the Ring",
+        "url": "https://www.youtube.com/watch?v=FoMuke1tUjg",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.cagematch.net/?id=1&nr=32237",
+      "https://www.youtube.com/watch?v=o4yi0pRHdTw",
+      "https://www.facebook.com/ghostsoftheorangebowl/posts/june-30-1984-heres-a-poster-promoting-a-professional-wrestling-card-called-the-l/4714910698543068/"
+    ]
+  },
+  {
+    "id": "2026-06-30-200pm-buddy-rogers-wins-the-nwa-world-title-at-comiskey-park",
+    "publishAt": "2026-06-30T14:00:00-06:00",
+    "calendarDate": "2026-06-30",
+    "dateDisplay": "June 30, 1961",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Buddy Rogers Wins the NWA World Title at Comiskey Park",
+    "label": "June 30 - Buddy Rogers NWA Title",
+    "era": "1947-1973",
+    "promotion": "NWA Chicago",
+    "location": "Comiskey Park, Chicago, Illinois",
+    "summary": "It is one of the most important roots-era title changes because Rogers' reign fed directly into the Capitol/WWWF split and the disputed path to the first WWWF championship lineage.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "Buddy Rogers vs. Pat O'Connor, NWA title match",
+        "url": "https://www.youtube.com/watch?v=0v-h0uw_oeU",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Pat O'Connor vs. Buddy Rogers match review/context",
+        "url": "https://handwerkreviews.wordpress.com/2024/07/26/pat-oconnor-vs-buddy-rogers-nwa-chicago-6-30-1961/",
+        "provider": "Article"
+      }
+    ],
+    "sources": [
+      "https://www.wrestling-titles.com/nwa/world/nwa-h.html",
+      "https://www.cagematch.net/?id=111&nr=15978",
+      "https://prowrestling.fandom.com/wiki/June_30%2C_1961_NWA_Chicago_results",
+      "https://www.youtube.com/watch?v=0v-h0uw_oeU"
+    ]
+  },
+  {
+    "id": "2026-06-30-800pm-mid-atlantic-tv-carries-crockett-s-summer-build",
+    "publishAt": "2026-06-30T20:00:00-06:00",
+    "calendarDate": "2026-06-30",
+    "dateDisplay": "June 30, 1984",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Mid-Atlantic TV Carries Crockett's Summer Build",
+    "label": "June 30 - Mid-Atlantic TV 1984",
+    "era": "1974-1988/89",
+    "promotion": "Jim Crockett Promotions / Mid-Atlantic",
+    "location": "Mid-Atlantic Championship Wrestling television",
+    "summary": "It is a useful companion to the same-day Florida stadium card because it shows how the NWA ecosystem could run local TV and big-card promotion in parallel.",
+    "image": "territory-video-profile.png",
+    "videos": [
+      {
+        "title": "JCP Mid-Atlantic Championship Wrestling, June 30, 1984",
+        "url": "https://www.youtube.com/watch?v=-0dc6p9GKV0",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Mid-South Wrestling, June 30, 1984 full show",
+        "url": "https://www.youtube.com/watch?v=_rG-RcBARQY",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=-0dc6p9GKV0",
+      "https://thehistoryofwwe.com/jcp-results-1984/",
+      "https://www.cagematch.net/?id=8&nr=293"
     ]
   }
 ];
