@@ -1,7 +1,8 @@
 (() => {
   const titleByUrl = {
     "https://youtu.be/GL2mvhGwBtQ": "WCW Great American Bash 1998 event footage",
-    "https://youtu.be/Zc5B4od_c4g": "Booker T and Chris Benoit best-of-seven series footage",
+    "https://www.youtube.com/watch?v=SBYo17__mok": "Reese vs. Juventud Guerrera - Great American Bash 1998",
+    "https://youtu.be/WKQJix9ICE0": "Randy Orton vs. Edge - Intercontinental Championship",
     "https://youtu.be/bJ6utHo8Nb4": "Triple H vs. Kevin Nash - Bad Blood 2003 Hell in a Cell",
     "https://youtu.be/Zxvxfnvl0Yw": "Bad Blood 2003 Hell in a Cell highlight",
     "https://youtu.be/9izb6I10gck": "Diamond Dallas Page vs. Randy Savage - Great American Bash 1997",

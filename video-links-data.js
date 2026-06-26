@@ -224,8 +224,8 @@ window.TDWH_VIDEO_POSTS = [
         "provider": "YouTube"
       },
       {
-        "title": "Booker T and Chris Benoit best-of-seven series footage",
-        "url": "https://youtu.be/Zc5B4od_c4g",
+        "title": "Reese vs. Juventud Guerrera - Great American Bash 1998",
+        "url": "https://www.youtube.com/watch?v=SBYo17__mok",
         "provider": "YouTube"
       }
     ],
@@ -996,7 +996,7 @@ window.TDWH_VIDEO_POSTS = [
     "timeDisplay": "8:00 PM MDT",
     "title": "Johnny Nitro Wins the ECW Title",
     "label": "June 24 - Nitro ECW Title",
-    "summary": "June 24, 2007: WWE Vengeance: Night of Champions took place in Houston, Texas. Johnny Nitro replaced Chris Benoit in the ECW Championship match and defeated CM Punk to win the vacant title.",
+    "summary": "June 24, 2007: WWE Vengeance: Night of Champions took place in Houston, Texas. Johnny Nitro was inserted into the ECW Championship match and defeated CM Punk to win the vacant title.",
     "image": "nitro-ecw-title-june-24-square.png",
     "videos": [
       {
@@ -2261,6 +2261,397 @@ window.TDWH_VIDEO_POSTS = [
     "sources": [
       "https://www.cagematch.net/",
       "https://www.prowrestlinghistory.com/ecw/"
+    ]
+  },
+  {
+    "id": "2026-07-11-0800-july-11-vengeance-2004",
+    "publishAt": "2026-07-11T08:00:00-06:00",
+    "dateDisplay": "July 11, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Edge Wins the Intercontinental Title",
+    "label": "July 11 - Vengeance 2004",
+    "summary": "July 11, 2004: WWE Vengeance took place in Hartford, Connecticut as a Raw-brand pay-per-view. Edge defeated Randy Orton to win the Intercontinental Championship, ending one of Orton's early Evolution-era title runs.",
+    "image": "edge-orton-vengeance-2004-square.jpg",
+    "videos": [
+      {
+        "title": "Edge vs. Randy Orton - Vengeance 2004",
+        "url": "https://youtu.be/CMLJiPDfUeU",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Randy Orton vs. Edge - Intercontinental Championship",
+        "url": "https://youtu.be/WKQJix9ICE0",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2004/",
+      "https://www.thesmackdownhotel.com/events-results/",
+      "https://www.prowrestlinghistory.com/"
+    ]
+  },
+  {
+    "id": "2026-07-11-1400-july-11-batb-1999",
+    "publishAt": "2026-07-11T14:00:00-06:00",
+    "dateDisplay": "July 11, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "WCW Bash at the Beach 1999",
+    "label": "July 11 - BATB 1999",
+    "summary": "July 11, 1999: WCW Bash at the Beach took place in Fort Lauderdale, Florida. Randy Savage and Sid Vicious defeated Kevin Nash and Sting in a tag match where the wrestler who scored the deciding fall would become WCW World Heavyweight Champion.",
+    "image": "",
+    "videos": [
+      {
+        "title": "July 11 - BATB 1999 video 1",
+        "url": "https://youtu.be/YrX2I3b-IB4",
+        "provider": "YouTube"
+      },
+      {
+        "title": "July 11 - BATB 1999 video 2",
+        "url": "https://youtu.be/GTvx74ZisUU",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wcw/beach.html",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-11-2000-july-11-tyson-kidd",
+    "publishAt": "2026-07-11T20:00:00-06:00",
+    "dateDisplay": "July 11, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Tyson Kidd Birthday",
+    "label": "July 11 - Tyson Kidd",
+    "summary": "July 11, 1980: Tyson Kidd was born in Calgary, Alberta. Kidd matters because he carried the Hart Dungeon lineage into modern WWE, first through the Hart Dynasty and later through his excellent tag-team run with Cesaro.",
+    "image": "",
+    "videos": [
+      {
+        "title": "July 11 - Tyson Kidd video 1",
+        "url": "https://youtu.be/E5_I6r-s2Jo",
+        "provider": "YouTube"
+      },
+      {
+        "title": "July 11 - Tyson Kidd video 2",
+        "url": "https://youtu.be/xiVFyVNYaXg",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-12-0800-july-12-batb-1998",
+    "publishAt": "2026-07-12T08:00:00-06:00",
+    "dateDisplay": "July 12, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "WCW Bash at the Beach 1998",
+    "label": "July 12 - BATB 1998",
+    "summary": "July 12, 1998: WCW Bash at the Beach took place in San Diego, headlined by Hollywood Hogan and Dennis Rodman against Diamond Dallas Page and Karl Malone. Hogan pinned Page after The Disciple interfered.",
+    "image": "",
+    "videos": [
+      {
+        "title": "July 12 - BATB 1998 video 1",
+        "url": "https://youtu.be/EYSyHdeG5wY",
+        "provider": "YouTube"
+      },
+      {
+        "title": "July 12 - BATB 1998 video 2",
+        "url": "https://youtu.be/DUZWkS6zo3Y",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wcw/beach.html",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-12-1400-july-12-hogan-savage-nitro",
+    "publishAt": "2026-07-12T14:00:00-06:00",
+    "dateDisplay": "July 12, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Hulk Hogan Regains the WCW World Title",
+    "label": "July 12 - Hogan Savage Nitro",
+    "summary": "July 12, 1999: One night after Randy Savage won the WCW World Heavyweight Championship at Bash at the Beach, Hulk Hogan returned on Monday Nitro and defeated Savage for the title. The switch matters because it showed how unstable WCW's main-event direction had become.",
+    "image": "",
+    "videos": [
+      {
+        "title": "July 12 - Hogan Savage Nitro video 1",
+        "url": "https://youtu.be/TLt11Ytq1KQ",
+        "provider": "YouTube"
+      },
+      {
+        "title": "July 12 - Hogan Savage Nitro video 2",
+        "url": "https://youtu.be/5Os1uo9dNWk",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wcw-results-1999/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-12-2000-july-12-brock-lesnar",
+    "publishAt": "2026-07-12T20:00:00-06:00",
+    "dateDisplay": "July 12, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Brock Lesnar Birthday",
+    "label": "July 12 - Brock Lesnar",
+    "summary": "July 12, 1977: Brock Lesnar was born in Webster, South Dakota. Lesnar matters because he became one of WWE's most dominant modern attractions while also crossing into NCAA wrestling, UFC, and mainstream sports credibility.",
+    "image": "",
+    "videos": [
+      {
+        "title": "July 12 - Brock Lesnar video 1",
+        "url": "https://youtu.be/mt7SZyvpGDA",
+        "provider": "YouTube"
+      },
+      {
+        "title": "July 12 - Brock Lesnar video 2",
+        "url": "https://youtu.be/stIt69Cfjj0",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-13-0800-july-13-batb-1997",
+    "publishAt": "2026-07-13T08:00:00-06:00",
+    "dateDisplay": "July 13, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "WCW Bash at the Beach 1997",
+    "label": "July 13 - BATB 1997",
+    "summary": "July 13, 1997: WCW Bash at the Beach took place at the Ocean Center in Daytona Beach, Florida. The main event paired Hollywood Hogan and Dennis Rodman against Lex Luger and The Giant, with Luger and Giant winning when Hogan submitted to Luger's Torture Rack.",
+    "image": "",
+    "videos": [
+      {
+        "title": "July 13 - BATB 1997 video 1",
+        "url": "https://youtu.be/zOaJ_k_I3dY",
+        "provider": "YouTube"
+      },
+      {
+        "title": "July 13 - BATB 1997 video 2",
+        "url": "https://youtu.be/VSn89cl-bxk",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wcw/beach.html",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-13-1400-july-13-heat-wave-1996",
+    "publishAt": "2026-07-13T14:00:00-06:00",
+    "dateDisplay": "July 13, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "ECW Heat Wave 1996",
+    "label": "July 13 - Heat Wave 1996",
+    "summary": "July 13, 1996: ECW Heat Wave took place at the ECW Arena in Philadelphia. Shane Douglas defeated Chris Jericho, 2 Cold Scorpio, and Pitbull #2 in a four-way dance to win the ECW World Television Championship, while The Sandman, Terry Gordy, and Tommy Dreamer faced Raven, Brian Lee, and Stevie Richards in the cage main event.",
+    "image": "",
+    "videos": [
+      {
+        "title": "July 13 - Heat Wave 1996 video 1",
+        "url": "https://youtu.be/ZldfIr8F1wQ",
+        "provider": "YouTube"
+      },
+      {
+        "title": "July 13 - Heat Wave 1996 video 2",
+        "url": "https://youtu.be/TG6-3RF5cAc",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/ecw/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-13-2000-july-13-x-pac",
+    "publishAt": "2026-07-13T20:00:00-06:00",
+    "dateDisplay": "July 13, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "X-Pac Birthday",
+    "label": "July 13 - X-Pac",
+    "summary": "July 13, 1972: Sean Waltman, best known in WWE as the 1-2-3 Kid and X-Pac, was born in Minneapolis, Minnesota. Waltman matters because he connected several major 1990s stories: the 1-2-3 Kid upset over Razor Ramon, the Kliq, WCW's nWo as Syxx, and D-Generation X during the Attitude Era.",
+    "image": "",
+    "videos": [
+      {
+        "title": "July 13 - X-Pac video 1",
+        "url": "https://youtu.be/GCR7LmBScBs",
+        "provider": "YouTube"
+      },
+      {
+        "title": "July 13 - X-Pac video 2",
+        "url": "https://youtu.be/UsTAGkxpBWk",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-14-0800-july-14-black-saturday",
+    "publishAt": "2026-07-14T08:00:00-06:00",
+    "dateDisplay": "July 14, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Black Saturday on TBS",
+    "label": "July 14 - Black Saturday",
+    "summary": "July 14, 1984: Vince McMahon and the WWF appeared in the Georgia Championship Wrestling Saturday evening time slot on WTBS, a day remembered as Black Saturday. Fans expecting Gordon Solie and Georgia-style wrestling instead saw WWF studio footage.",
+    "image": "",
+    "videos": [
+      {
+        "title": "July 14 - Black Saturday video 1",
+        "url": "https://youtu.be/CGLI81DGXPs",
+        "provider": "YouTube"
+      },
+      {
+        "title": "July 14 - Black Saturday video 2",
+        "url": "https://youtu.be/1AUqCAgVkRA",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-14-1400-july-14-kotr-1986",
+    "publishAt": "2026-07-14T14:00:00-06:00",
+    "dateDisplay": "July 14, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Harley Race Wins King of the Ring 1986",
+    "label": "July 14 - KOTR 1986",
+    "summary": "July 14, 1986: WWF held the second King of the Ring tournament at Sullivan Stadium in Foxborough, Massachusetts. Harley Race won the tournament by defeating Pedro Morales in the final, then turned the victory into the \"King\" Harley Race character with crown, cape, and Bobby Heenan at his side.",
+    "image": "",
+    "videos": [
+      {
+        "title": "July 14 - KOTR 1986 video 1",
+        "url": "https://youtu.be/L_2LlWsLR3s",
+        "provider": "YouTube"
+      },
+      {
+        "title": "July 14 - KOTR 1986 video 2",
+        "url": "https://youtu.be/o50z9f9HgO8",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwf-results-1986/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-14-2000-july-14-jeff-jarrett",
+    "publishAt": "2026-07-14T20:00:00-06:00",
+    "dateDisplay": "July 14, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Jeff Jarrett Birthday",
+    "label": "July 14 - Jeff Jarrett",
+    "summary": "July 14, 1967: Jeff Jarrett was born in Hendersonville, Tennessee. Jarrett matters because his career crosses several major wrestling histories: Memphis territory roots, multiple WWF Intercontinental Championship runs, WCW world-title reigns, and co-founding TNA during a period when national alternatives to WWE were scarce.",
+    "image": "",
+    "videos": [
+      {
+        "title": "July 14 - Jeff Jarrett video 1",
+        "url": "https://youtu.be/pcrb9vdHtDE",
+        "provider": "YouTube"
+      },
+      {
+        "title": "July 14 - Jeff Jarrett video 2",
+        "url": "https://youtu.be/TT-A9btJZVY",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-15-0800-july-15-heat-wave-1995",
+    "publishAt": "2026-07-15T08:00:00-06:00",
+    "dateDisplay": "July 15, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "ECW Heat Wave 1995",
+    "label": "July 15 - Heat Wave 1995",
+    "summary": "July 15, 1995: ECW Heat Wave took place at the ECW Arena in Philadelphia. The show was built around The Public Enemy against The Gangstas in a steel cage match, pairing one of ECW's signature acts with New Jack and Mustafa early in their run.",
+    "image": "",
+    "videos": [
+      {
+        "title": "July 15 - Heat Wave 1995 video 1",
+        "url": "https://youtu.be/IiJ1Ylr5gZA",
+        "provider": "YouTube"
+      },
+      {
+        "title": "July 15 - Heat Wave 1995 video 2",
+        "url": "https://youtu.be/g2wScLRN6Sc",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/ecw/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-15-1400-july-15-hogan-nwo-nitro",
+    "publishAt": "2026-07-15T14:00:00-06:00",
+    "dateDisplay": "July 15, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Hulk Hogan Explains the nWo",
+    "label": "July 15 - Hogan nWo Nitro",
+    "summary": "July 15, 1996: On WCW Monday Nitro, Hulk Hogan made his first Nitro appearance after turning heel at Bash at the Beach and explained why he had joined Scott Hall and Kevin Nash. The segment matters because it moved the nWo from pay-per-view shock into weekly television reality.",
+    "image": "",
+    "videos": [
+      {
+        "title": "July 15 - Hogan nWo Nitro video 1",
+        "url": "https://youtu.be/UPMhLMa2t0I",
+        "provider": "YouTube"
+      },
+      {
+        "title": "July 15 - Hogan nWo Nitro video 2",
+        "url": "https://youtu.be/VyE7QbqMACg",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wcw-results-1996/",
+      "https://www.youtube.com/@WWE"
+    ]
+  },
+  {
+    "id": "2026-07-15-2000-july-15-jesse-ventura",
+    "publishAt": "2026-07-15T20:00:00-06:00",
+    "dateDisplay": "July 15, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Jesse Ventura Birthday",
+    "label": "July 15 - Jesse Ventura",
+    "summary": "July 15, 1951: Jesse \"The Body\" Ventura was born in Minneapolis, Minnesota. Ventura matters because he became one of WWF's defining color commentators after his in-ring career, giving early WrestleMania-era broadcasts a sharp heel voice opposite Vince McMahon and Gorilla Monsoon.",
+    "image": "",
+    "videos": [
+      {
+        "title": "July 15 - Jesse Ventura video 1",
+        "url": "https://youtu.be/Th07Ef2zZ_s",
+        "provider": "YouTube"
+      },
+      {
+        "title": "July 15 - Jesse Ventura video 2",
+        "url": "https://youtu.be/h9LdnpfAoCE",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
     ]
   }
 ];
