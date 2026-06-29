@@ -2653,5 +2653,1019 @@ window.TDWH_VIDEO_POSTS = [
       "https://www.wwe.com/",
       "https://www.cagematch.net/"
     ]
+  },
+  {
+    "id": "2026-07-16-0800-july-16-batb-1995",
+    "publishAt": "2026-07-16T08:00:00-06:00",
+    "dateDisplay": "July 16, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "WCW Bash at the Beach 1995",
+    "label": "July 16 - BATB 1995",
+    "summary": "July 16, 1995: WCW Bash at the Beach took place in Huntington Beach, California, with Hulk Hogan defending the WCW World Heavyweight Championship against Vader in a steel cage. Hogan retained after escaping the cage, ending one of WCW's biggest monster-champion threats of the mid-1990s.",
+    "image": "batb-1995-july-16-square.jpg",
+    "videos": [
+      {
+        "title": "Hulk Hogan vs. Vader - Bash at the Beach 1995 steel cage match",
+        "url": "https://www.youtube.com/watch?v=ubB2seP7PMI",
+        "provider": "YouTube"
+      },
+      {
+        "title": "WCW Bash at the Beach 1995 full event",
+        "url": "https://www.youtube.com/watch?v=jPRjP3ss1Zg",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wcw/beach.html",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-16-1400-july-16-victory-road-2006",
+    "publishAt": "2026-07-16T14:00:00-06:00",
+    "dateDisplay": "July 16, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "TNA Victory Road 2006",
+    "label": "July 16 - Victory Road 2006",
+    "summary": "July 16, 2006: TNA Victory Road took place in Orlando, Florida. The main event put Sting, Christian Cage, Samoa Joe, and Scott Steiner in a four-way match to determine Jeff Jarrett's NWA World Heavyweight Championship challenger.",
+    "image": "victory-road-2006-july-16-square.jpg",
+    "videos": [
+      {
+        "title": "TNA Victory Road 2006 full PPV",
+        "url": "https://www.youtube.com/watch?v=M2F0uIRY7P8",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Sting vs. Christian vs. Samoa Joe vs. Scott Steiner",
+        "url": "https://www.youtube.com/watch?v=x5cASi-4xC0",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/misc/tna/victory.html",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-16-2000-july-16-bobby-lashley",
+    "publishAt": "2026-07-16T20:00:00-06:00",
+    "dateDisplay": "July 16, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Bobby Lashley Birthday",
+    "label": "July 16 - Bobby Lashley",
+    "summary": "July 16, 1976: Bobby Lashley was born in Junction City, Kansas. Lashley matters because his career connects amateur wrestling, MMA, WWE, TNA/Impact, and a late-career WWE main-event peak.",
+    "image": "bobby-lashley-july-16-square.jpg",
+    "videos": [
+      {
+        "title": "Bobby Lashley's greatest wins",
+        "url": "https://www.youtube.com/watch?v=p1QqtWI-XQo",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Bobby Lashley's best moments since returning to WWE",
+        "url": "https://www.youtube.com/watch?v=W4_pkc9lDMw",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-17-0800-july-17-mitb-2011",
+    "publishAt": "2026-07-17T08:00:00-06:00",
+    "dateDisplay": "July 17, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "WWE Money in the Bank 2011",
+    "label": "July 17 - MITB 2011",
+    "summary": "July 17, 2011: WWE Money in the Bank took place in Chicago, where CM Punk defeated John Cena to win the WWE Championship. Punk's contract storyline, hometown entrance, and escape through the crowd made the match one of WWE's defining modern title moments.",
+    "image": "mitb-2011-july-17-square.jpg",
+    "videos": [
+      {
+        "title": "CM Punk vs. John Cena - Money in the Bank 2011",
+        "url": "https://www.youtube.com/watch?v=QZb3dfX3cQA",
+        "provider": "YouTube"
+      },
+      {
+        "title": "CM Punk's hometown entrance at Money in the Bank 2011",
+        "url": "https://www.youtube.com/watch?v=wroqcQVcoIg",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/bank.html",
+      "https://www.wwe.com/"
+    ]
+  },
+  {
+    "id": "2026-07-17-1400-july-17-batb-1994",
+    "publishAt": "2026-07-17T14:00:00-06:00",
+    "dateDisplay": "July 17, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "WCW Bash at the Beach 1994",
+    "label": "July 17 - BATB 1994",
+    "summary": "July 17, 1994: WCW Bash at the Beach took place in Orlando, Florida, with Hulk Hogan defeating Ric Flair to win the WCW World Heavyweight Championship in his first WCW match. The moment matters because Hogan's jump from WWF to WCW immediately changed the promotion's identity and made WCW a more direct national rival.",
+    "image": "batb-1994-july-17-square.jpg",
+    "videos": [
+      {
+        "title": "WCW Bash at the Beach 1994 full event",
+        "url": "https://www.youtube.com/watch?v=3giA0qJ3DO8",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Hulk Hogan vs. Ric Flair - Bash at the Beach 1994",
+        "url": "https://www.youtube.com/watch?v=tdQiPLdx7RI",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wcw/beach.html",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-17-2000-july-17-no-surrender-2005",
+    "publishAt": "2026-07-17T20:00:00-06:00",
+    "dateDisplay": "July 17, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "TNA No Surrender 2005",
+    "label": "July 17 - No Surrender 2005",
+    "summary": "July 17, 2005: TNA No Surrender took place during the company's early monthly pay-per-view era. Raven defended the NWA World Heavyweight Championship against Abyss, AJ Styles faced Sean Waltman, and Samoa Joe defeated Chris Sabin as Joe's TNA push was still gathering speed.",
+    "image": "no-surrender-2005-july-17-square.jpg",
+    "videos": [
+      {
+        "title": "TNA No Surrender 2005 full event",
+        "url": "https://www.youtube.com/watch?v=tJm469NMB44",
+        "provider": "YouTube"
+      },
+      {
+        "title": "AJ Styles vs. Sean Waltman - No Surrender 2005",
+        "url": "https://www.youtube.com/watch?v=HOP0L29rjic",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/misc/tna/surrender.html",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-18-0800-july-18-mitb-2010",
+    "publishAt": "2026-07-18T08:00:00-06:00",
+    "dateDisplay": "July 18, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "WWE Money in the Bank 2010",
+    "label": "July 18 - MITB 2010",
+    "summary": "July 18, 2010: WWE held the first stand-alone Money in the Bank pay-per-view in Kansas City. Kane won the SmackDown briefcase and cashed in the same night on Rey Mysterio to win the World Heavyweight Championship.",
+    "image": "mitb-2010-july-18-square.jpg",
+    "videos": [
+      {
+        "title": "The Miz and Kane win Money in the Bank ladder matches",
+        "url": "https://www.youtube.com/watch?v=WgB4aWg_JPk",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Rey Mysterio vs. Jack Swagger - Money in the Bank 2010",
+        "url": "https://www.youtube.com/watch?v=UnHTbdXqAoo",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/bank.html",
+      "https://www.thesmackdownhotel.com/events-results/"
+    ]
+  },
+  {
+    "id": "2026-07-18-1400-july-18-heat-wave-1999",
+    "publishAt": "2026-07-18T14:00:00-06:00",
+    "dateDisplay": "July 18, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "ECW Heat Wave 1999",
+    "label": "July 18 - Heat Wave 1999",
+    "summary": "July 18, 1999: ECW Heat Wave took place in Dayton, Ohio. Taz defended the ECW World Heavyweight Championship against Yoshihiro Tajiri, and Rob Van Dam defended the ECW World Television Championship against Jerry Lynn.",
+    "image": "heat-wave-1999-july-18-square.jpg",
+    "videos": [
+      {
+        "title": "ECW Hostile City Showdown related footage",
+        "url": "https://www.youtube.com/watch?v=HvYqmzIEbdU",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Super Crazy vs. Tajiri ECW footage",
+        "url": "https://www.youtube.com/watch?v=zGabZqQJZmo",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/ecw/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-18-2000-july-18-beach-blast-1993",
+    "publishAt": "2026-07-18T20:00:00-06:00",
+    "dateDisplay": "July 18, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "WCW Beach Blast 1993",
+    "label": "July 18 - Beach Blast 1993",
+    "summary": "July 18, 1993: WCW Beach Blast took place in Biloxi, Mississippi. Sting and Davey Boy Smith faced Vader and Sid Vicious in the main event, giving WCW a power-heavy tag headline built around Sting's fight with Vader's world-title orbit.",
+    "image": "beach-blast-1993-july-18-square.jpg",
+    "videos": [
+      {
+        "title": "Sting and British Bulldog vs. Vader and Sid - Beach Blast 1993",
+        "url": "https://www.youtube.com/watch?v=k4UGdO-6BZ8",
+        "provider": "YouTube"
+      },
+      {
+        "title": "WCW Beach Blast 1993 full event",
+        "url": "https://www.youtube.com/watch?v=toK5piVkqMo",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wcw/beach.html",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-19-0800-july-19-battleground-2015",
+    "publishAt": "2026-07-19T08:00:00-06:00",
+    "dateDisplay": "July 19, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Undertaker Returns at Battleground 2015",
+    "label": "July 19 - Battleground 2015",
+    "summary": "July 19, 2015: At WWE Battleground in St. Louis, The Undertaker returned during Seth Rollins vs.",
+    "image": "battleground-2015-july-19-square.jpg",
+    "videos": [
+      {
+        "title": "The Undertaker returns at Battleground 2015",
+        "url": "https://www.youtube.com/watch?v=A27pbhIQpdI",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Seth Rollins vs. Brock Lesnar - Battleground 2015",
+        "url": "https://www.youtube.com/watch?v=KZtaY8yJhbE",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/battle.html",
+      "https://www.wwe.com/"
+    ]
+  },
+  {
+    "id": "2026-07-19-1400-july-19-victory-road-2009",
+    "publishAt": "2026-07-19T14:00:00-06:00",
+    "dateDisplay": "July 19, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "TNA Victory Road 2009",
+    "label": "July 19 - Victory Road 2009",
+    "summary": "July 19, 2009: TNA Victory Road took place in Orlando, with Kurt Angle defending the TNA World Heavyweight Championship against Mick Foley. Angle retained, while the Main Event Mafia left the night holding major TNA gold.",
+    "image": "victory-road-2009-july-19-square.jpg",
+    "videos": [
+      {
+        "title": "TNA Victory Road 2009 full PPV",
+        "url": "https://www.youtube.com/watch?v=znE9F6TKtXY",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Kurt Angle vs. Mick Foley - Victory Road 2009",
+        "url": "https://www.youtube.com/watch?v=ixEeiuqgMM4",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/misc/tna/victory.html",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-19-2000-july-19-extreme-rules-2020",
+    "publishAt": "2026-07-19T20:00:00-06:00",
+    "dateDisplay": "July 19, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "The Horror Show at Extreme Rules 2020",
+    "label": "July 19 - Extreme Rules 2020",
+    "summary": "July 19, 2020: WWE presented The Horror Show at Extreme Rules during the Performance Center era. Drew McIntyre retained the WWE Championship against Dolph Ziggler, while Bray Wyatt and Braun Strowman headlined the show with the cinematic Wyatt Swamp Fight.",
+    "image": "extreme-rules-2020-july-19-square.jpg",
+    "videos": [
+      {
+        "title": "Dolph Ziggler crashes Drew McIntyre through a table at Extreme Rules 2020",
+        "url": "https://www.youtube.com/watch?v=pP6KfGNvuxk",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Dolph Ziggler challenges Drew McIntyre for Extreme Rules 2020",
+        "url": "https://www.youtube.com/watch?v=ZUnzx-By5bI",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/extreme.html",
+      "https://www.wwe.com/"
+    ]
+  },
+  {
+    "id": "2026-07-20-0800-july-20-gab-2008",
+    "publishAt": "2026-07-20T08:00:00-06:00",
+    "dateDisplay": "July 20, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Michelle McCool Becomes First Divas Champion",
+    "label": "July 20 - GAB 2008",
+    "summary": "July 20, 2008: At WWE Great American Bash, Michelle McCool defeated Natalya to become the first WWE Divas Champion. The win matters because WWE created a separate women's championship for SmackDown, giving the brand its own title during the Divas era.",
+    "image": "gab-2008-july-20-square.jpg",
+    "videos": [
+      {
+        "title": "Natalya vs. Michelle McCool - first Divas Championship match",
+        "url": "https://www.youtube.com/watch?v=v0qkJr6u83M",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Michelle McCool's championship victories",
+        "url": "https://www.youtube.com/watch?v=HT5N7qv6QP8",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/gabash.html",
+      "https://www.wwe.com/titlehistory/divas-championship"
+    ]
+  },
+  {
+    "id": "2026-07-20-1400-july-20-khali-world-title",
+    "publishAt": "2026-07-20T14:00:00-06:00",
+    "dateDisplay": "July 20, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "The Great Khali Wins the World Heavyweight Title",
+    "label": "July 20 - Khali World Title",
+    "summary": "July 20, 2007: On SmackDown, The Great Khali won a 20-man battle royal to capture the vacant World Heavyweight Championship. Edge had been forced to surrender the title because of injury, and Khali last eliminated Batista and Kane to win.",
+    "image": "khali-world-title-july-20-square.jpg",
+    "videos": [
+      {
+        "title": "The Great Khali wins the World Heavyweight Championship",
+        "url": "https://www.youtube.com/watch?v=BtQQ5Nn4iiU",
+        "provider": "YouTube"
+      },
+      {
+        "title": "World Heavyweight Title 20-man battle royal",
+        "url": "https://www.youtube.com/watch?v=DyORIdVKwqE",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2007/",
+      "https://www.wwe.com/titlehistory/world-heavyweight-championship"
+    ]
+  },
+  {
+    "id": "2026-07-20-2000-july-20-dlo-european-title",
+    "publishAt": "2026-07-20T20:00:00-06:00",
+    "dateDisplay": "July 20, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "D-Lo Brown Wins the European Title",
+    "label": "July 20 - DLo European Title",
+    "summary": "July 20, 1998: On Raw is War, D-Lo Brown defeated Triple H to win the WWF European Championship. The title change matters because it gave D-Lo one of the strongest singles moments of his Nation of Domination run and helped establish him as more than background muscle for the group.",
+    "image": "dlo-european-title-july-20-square.jpg",
+    "videos": [
+      {
+        "title": "Triple H vs. D-Lo Brown - European Championship",
+        "url": "https://www.youtube.com/watch?v=jL9EPlSx0J8",
+        "provider": "YouTube"
+      },
+      {
+        "title": "D-Lo Brown vs. X-Pac - European Championship",
+        "url": "https://www.youtube.com/watch?v=_LEjotX1pr8",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwf-results-1998/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-21-0800-july-21-vengeance-2002",
+    "publishAt": "2026-07-21T08:00:00-06:00",
+    "dateDisplay": "July 21, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "The Rock Wins the Undisputed Championship",
+    "label": "July 21 - Vengeance 2002",
+    "summary": "July 21, 2002: At WWE Vengeance in Detroit, The Rock defeated The Undertaker and Kurt Angle in a triple threat match to win the WWE Undisputed Championship. The match matters because it put three top-level stars from different parts of WWE's transition era into one main event: Rock as crossover superstar, Undertaker as veteran champion, and Angle as the elite in-ring threat.",
+    "image": "vengeance-2002-july-21-square.jpg",
+    "videos": [
+      {
+        "title": "Undertaker vs. The Rock vs. Kurt Angle - Vengeance 2002",
+        "url": "https://www.youtube.com/watch?v=Zs1vWlOMrEo",
+        "provider": "YouTube"
+      },
+      {
+        "title": "The Rock vs. Undertaker vs. Kurt Angle highlights",
+        "url": "https://www.youtube.com/watch?v=ghu2hv3i-q8",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/venge.html",
+      "https://www.thesmackdownhotel.com/events-results/"
+    ]
+  },
+  {
+    "id": "2026-07-21-1400-july-21-international-incident",
+    "publishAt": "2026-07-21T14:00:00-06:00",
+    "dateDisplay": "July 21, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "WWF In Your House: International Incident",
+    "label": "July 21 - International Incident",
+    "summary": "July 21, 1996: WWF In Your House: International Incident took place in Vancouver. The main event saw Vader, Owen Hart, and The British Bulldog defeat Shawn Michaels, Ahmed Johnson, and Sycho Sid when Vader pinned Michaels.",
+    "image": "international-incident-1996-july-21-square.jpg",
+    "videos": [
+      {
+        "title": "International Incident 1996 main-event promo",
+        "url": "https://www.youtube.com/watch?v=fZ1fl9rEz80",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Sycho Sid joins Shawn Michaels and Ahmed Johnson",
+        "url": "https://www.youtube.com/watch?v=fdvMGcf9Tyw",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/iyh.html",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-21-2000-july-21-malenko-ecw-tv",
+    "publishAt": "2026-07-21T20:00:00-06:00",
+    "dateDisplay": "July 21, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Dean Malenko Wins the ECW TV Title",
+    "label": "July 21 - Malenko ECW TV",
+    "summary": "July 21, 1995: Dean Malenko defeated Eddie Guerrero for the ECW World Television Championship in Philadelphia. The title change matters because Malenko and Guerrero's ECW series became one of the best examples of pure wrestling inside a promotion better remembered for brawls and chaos.",
+    "image": "malenko-ecw-tv-july-21-square.jpg",
+    "videos": [
+      {
+        "title": "Eddie Guerrero vs. Dean Malenko ECW footage",
+        "url": "https://www.youtube.com/watch?v=WWSX1O7Hym8",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Eddie Guerrero vs. Dean Malenko ECW TV Title rematch",
+        "url": "https://www.youtube.com/watch?v=6o1A8XhkFD4",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/ecw-results-1995/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-22-0800-july-22-invasion-2001",
+    "publishAt": "2026-07-22T08:00:00-06:00",
+    "dateDisplay": "July 22, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "WWF InVasion 2001",
+    "label": "July 22 - InVasion 2001",
+    "summary": "July 22, 2001: WWF InVasion took place in Cleveland, built around WWF vs. the WCW/ECW Alliance.",
+    "image": "invasion-2001-july-22-square.jpg",
+    "videos": [
+      {
+        "title": "WWF InVasion 2001 promo",
+        "url": "https://www.youtube.com/watch?v=aip8YIb-fjk",
+        "provider": "YouTube"
+      },
+      {
+        "title": "WWE InVasion 2001 official promo package",
+        "url": "https://www.youtube.com/watch?v=9uQL9GEsspg",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2001/",
+      "https://www.thesmackdownhotel.com/events-results/"
+    ]
+  },
+  {
+    "id": "2026-07-22-1400-july-22-shawn-michaels",
+    "publishAt": "2026-07-22T14:00:00-06:00",
+    "dateDisplay": "July 22, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Shawn Michaels Birthday",
+    "label": "July 22 - Shawn Michaels",
+    "summary": "July 22, 1965: Shawn Michaels was born in Chandler, Arizona. Michaels matters because his career stretches from tag-team stardom with The Rockers to becoming one of WWE's most influential singles wrestlers.",
+    "image": "shawn-michaels-july-22-square.jpg",
+    "videos": [
+      {
+        "title": "Shawn Michaels' greatest moments",
+        "url": "https://www.youtube.com/watch?v=AbujKH_fqa8",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Sweet Chin Music greatest hits",
+        "url": "https://www.youtube.com/watch?v=wZg0jiGPUpM",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-22-2000-july-22-raw-reunion-2019",
+    "publishAt": "2026-07-22T20:00:00-06:00",
+    "dateDisplay": "July 22, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "WWE Raw Reunion 2019",
+    "label": "July 22 - Raw Reunion 2019",
+    "summary": "July 22, 2019: WWE presented Raw Reunion from Tampa, bringing back Steve Austin, Hulk Hogan, Ric Flair, DX, The Kliq, Mick Foley, Ted DiBiase, and many other names from Raw history. The episode matters because it shows how heavily WWE's modern television identity still leans on nostalgia when it wants a ratings spike or a generational celebration.",
+    "image": "raw-reunion-2019-july-22-square.jpg",
+    "videos": [
+      {
+        "title": "Stone Cold, Hulk Hogan and Ric Flair toast Raw Reunion",
+        "url": "https://www.youtube.com/watch?v=Ye7As8z2QY0",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Stone Cold keeps the party going after Raw Reunion",
+        "url": "https://www.youtube.com/watch?v=_3ykWWQozaY",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2019/",
+      "https://www.wwe.com/"
+    ]
+  },
+  {
+    "id": "2026-07-23-0800-july-23-raw-1000",
+    "publishAt": "2026-07-23T08:00:00-06:00",
+    "dateDisplay": "July 23, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "CM Punk Attacks The Rock at Raw 1000",
+    "label": "July 23 - Raw 1000",
+    "summary": "July 23, 2012: WWE Raw reached its 1,000th episode, and CM Punk ended the night by attacking The Rock. Earlier, John Cena became the first Money in the Bank contract holder to cash in and not win the title, because Big Show caused a disqualification against Punk.",
+    "image": "raw-1000-july-23-square.jpg",
+    "videos": [
+      {
+        "title": "CM Punk gives The Rock the GTS at Raw 1000",
+        "url": "https://www.youtube.com/watch?v=a9CfwGQ3y-o",
+        "provider": "YouTube"
+      },
+      {
+        "title": "The Rock announces WWE Title shot at Royal Rumble 2013",
+        "url": "https://www.youtube.com/watch?v=PR0HjEjGRZA",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2012/",
+      "https://www.wwe.com/"
+    ]
+  },
+  {
+    "id": "2026-07-23-1400-july-23-fully-loaded-2000",
+    "publishAt": "2026-07-23T14:00:00-06:00",
+    "dateDisplay": "July 23, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Triple H vs. Chris Jericho at Fully Loaded 2000",
+    "label": "July 23 - Fully Loaded 2000",
+    "summary": "July 23, 2000: WWF Fully Loaded took place in Dallas. One of the night's strongest matches was Triple H defeating Chris Jericho in a Last Man Standing match.",
+    "image": "fully-loaded-2000-july-23-square.jpg",
+    "videos": [
+      {
+        "title": "Triple H vs. Chris Jericho - Fully Loaded 2000",
+        "url": "https://www.youtube.com/watch?v=y0xEjlZwYaA",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Story of Triple H vs. Chris Jericho at Fully Loaded 2000",
+        "url": "https://www.youtube.com/watch?v=CNj-O6aQ7sc",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/loaded.html",
+      "https://thehistoryofwwe.com/wwf-results-2000/"
+    ]
+  },
+  {
+    "id": "2026-07-23-2000-july-23-battleground-2017",
+    "publishAt": "2026-07-23T20:00:00-06:00",
+    "dateDisplay": "July 23, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "The New Day Win at Battleground 2017",
+    "label": "July 23 - Battleground 2017",
+    "summary": "July 23, 2017: At WWE Battleground in Philadelphia, The New Day defeated The Usos to win the SmackDown Tag Team Championship. The match matters because New Day and The Usos became the backbone of SmackDown's tag division in 2017, turning a strong rivalry into one of WWE's best tag-team programs of the decade.",
+    "image": "battleground-2017-july-23-square.jpg",
+    "videos": [
+      {
+        "title": "The Usos vs. The New Day - Battleground 2017",
+        "url": "https://www.youtube.com/watch?v=lZN9gGSNUtQ",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Jinder Mahal reveals Punjabi Prison stipulation to Randy Orton",
+        "url": "https://www.youtube.com/watch?v=--dkJ7O4XVg",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/battle.html",
+      "https://www.wwe.com/"
+    ]
+  },
+  {
+    "id": "2026-07-24-0800-july-24-battleground-2016",
+    "publishAt": "2026-07-24T08:00:00-06:00",
+    "dateDisplay": "July 24, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "The Shield Triple Threat at Battleground 2016",
+    "label": "July 24 - Battleground 2016",
+    "summary": "July 24, 2016: At WWE Battleground, Dean Ambrose defended the WWE Championship against Roman Reigns and Seth Rollins in the first Shield triple threat match on pay-per-view. Ambrose retained, keeping the championship on SmackDown just after the brand split returned.",
+    "image": "battleground-2016-july-24-square.jpg",
+    "videos": [
+      {
+        "title": "Dean Ambrose vs. Roman Reigns vs. Seth Rollins - Battleground 2016",
+        "url": "https://www.youtube.com/watch?v=emTQdBRQwy0",
+        "provider": "YouTube"
+      },
+      {
+        "title": "The Shield triple threat Battleground 2016 promo",
+        "url": "https://www.youtube.com/watch?v=A8cjrUj12ao",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/battle.html",
+      "https://www.wwe.com/"
+    ]
+  },
+  {
+    "id": "2026-07-24-1400-july-24-gab-2005",
+    "publishAt": "2026-07-24T14:00:00-06:00",
+    "dateDisplay": "July 24, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "WWE Great American Bash 2005",
+    "label": "July 24 - GAB 2005",
+    "summary": "July 24, 2005: WWE Great American Bash took place in Buffalo. Batista defended the World Heavyweight Championship against JBL in his first SmackDown pay-per-view title program after being drafted from Raw.",
+    "image": "gab-2005-july-24-square.jpg",
+    "videos": [
+      {
+        "title": "Batista vs. JBL - Great American Bash 2005",
+        "url": "https://www.youtube.com/watch?v=ZtcOhK-f-WI",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Story of Batista vs. JBL at Great American Bash 2005",
+        "url": "https://www.youtube.com/watch?v=Q_tGkMWicFE",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/gabash.html",
+      "https://www.thesmackdownhotel.com/events-results/"
+    ]
+  },
+  {
+    "id": "2026-07-24-2000-july-24-torrie-wilson",
+    "publishAt": "2026-07-24T20:00:00-06:00",
+    "dateDisplay": "July 24, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Torrie Wilson Birthday",
+    "label": "July 24 - Torrie Wilson",
+    "summary": "July 24, 1975: Torrie Wilson was born in Boise, Idaho. Wilson matters because she became one of the most recognizable women of WWE's early-2000s television era, crossing WCW into WWF during the Invasion period and staying visible through the SmackDown brand split years.",
+    "image": "torrie-wilson-july-24-square.jpg",
+    "videos": [
+      {
+        "title": "Torrie Wilson WWE Hall of Fame announcement",
+        "url": "https://www.youtube.com/watch?v=z8TsUtAcZQM",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Torrie Wilson Hall of Fame 2019 exclusive",
+        "url": "https://www.youtube.com/watch?v=9aBSYglG7cg",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-25-0800-july-25-fully-loaded-1999",
+    "publishAt": "2026-07-25T08:00:00-06:00",
+    "dateDisplay": "July 25, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "WWF Fully Loaded 1999",
+    "label": "July 25 - Fully Loaded 1999",
+    "summary": "July 25, 1999: WWF Fully Loaded took place in Buffalo, headlined by Stone Cold Steve Austin defending the WWF Championship against The Undertaker in a First Blood match. Austin won, forcing Vince McMahon off WWF television under the match stipulation.",
+    "image": "fully-loaded-1999-july-25-square.jpg",
+    "videos": [
+      {
+        "title": "Story of Stone Cold vs. The Undertaker at Fully Loaded 1999",
+        "url": "https://www.youtube.com/watch?v=Iezj2NwNkk0",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Fully Loaded 1999 Austin vs. Undertaker promo",
+        "url": "https://www.youtube.com/watch?v=JmoNaLi8gIg",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/loaded.html",
+      "https://thehistoryofwwe.com/wwf-results-1999/"
+    ]
+  },
+  {
+    "id": "2026-07-25-1400-july-25-rey-mysterio-debut",
+    "publishAt": "2026-07-25T14:00:00-06:00",
+    "dateDisplay": "July 25, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Rey Mysterio Makes His WWE Debut",
+    "label": "July 25 - Rey Mysterio Debut",
+    "summary": "July 25, 2002: Rey Mysterio made his WWE television debut on SmackDown, defeating Chavo Guerrero. The debut matters because Rey entered WWE with WCW cruiserweight credibility but quickly became much more than a division specialist.",
+    "image": "rey-mysterio-debut-july-25-square.jpg",
+    "videos": [
+      {
+        "title": "Rey Mysterio makes his WWE debut",
+        "url": "https://www.youtube.com/watch?v=R-pK50Y9gdo",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Kurt Angle vs. Rey Mysterio on SmackDown 2002",
+        "url": "https://www.youtube.com/watch?v=OE0urY1gqw4",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2002/",
+      "https://www.wwe.com/"
+    ]
+  },
+  {
+    "id": "2026-07-25-2000-july-25-finn-balor",
+    "publishAt": "2026-07-25T20:00:00-06:00",
+    "dateDisplay": "July 25, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Finn Balor Birthday",
+    "label": "July 25 - Finn Balor",
+    "summary": "July 25, 1981: Finn Balor was born in Bray, County Wicklow, Ireland. Balor matters because his career links New Japan's Prince Devitt years, Bullet Club history, NXT's global expansion, and WWE's first Universal Championship.",
+    "image": "finn-balor-july-25-square.jpg",
+    "videos": [
+      {
+        "title": "Finn Balor's greatest moments",
+        "url": "https://www.youtube.com/watch?v=Mr7eqjzGa9s",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Finn Balor relinquishes the Universal Championship",
+        "url": "https://www.youtube.com/watch?v=xeLfw8Su-YQ",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-26-0800-july-26-fully-loaded-1998",
+    "publishAt": "2026-07-26T08:00:00-06:00",
+    "dateDisplay": "July 26, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Austin and Undertaker Win the Tag Titles",
+    "label": "July 26 - Fully Loaded 1998",
+    "summary": "July 26, 1998: At WWF Fully Loaded, Stone Cold Steve Austin and The Undertaker defeated Kane and Mankind to win the WWF Tag Team Championship. The moment matters because Austin was already WWF Champion, yet the company used the tag belts to keep him tied to Undertaker, Kane, and Mankind during a crowded main-event summer.",
+    "image": "fully-loaded-1998-july-26-square.jpg",
+    "videos": [
+      {
+        "title": "Story of Austin and Undertaker vs. Kane and Mankind",
+        "url": "https://www.youtube.com/watch?v=jebipSdBDro",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Fully Loaded 1998 tag-team title entrances",
+        "url": "https://www.youtube.com/watch?v=qKGHNPB_YMs",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/loaded.html",
+      "https://thehistoryofwwe.com/wwf-results-1998/"
+    ]
+  },
+  {
+    "id": "2026-07-26-1400-july-26-night-of-champions-2009",
+    "publishAt": "2026-07-26T14:00:00-06:00",
+    "dateDisplay": "July 26, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Jeff Hardy Wins at Night of Champions 2009",
+    "label": "July 26 - Night of Champions 2009",
+    "summary": "July 26, 2009: At WWE Night of Champions in Philadelphia, Jeff Hardy defeated CM Punk to win the World Heavyweight Championship. The moment matters because it was the emotional high point of Hardy's 2009 main-event run and deepened his rivalry with Punk, whose straight-edge character contrasted sharply with Hardy's real-life history and fan connection.",
+    "image": "night-of-champions-2009-july-26-square.jpg",
+    "videos": [
+      {
+        "title": "CM Punk vs. Jeff Hardy - Night of Champions 2009",
+        "url": "https://www.youtube.com/watch?v=RWWuCsnMYNY",
+        "provider": "YouTube"
+      },
+      {
+        "title": "CM Punk vs. Jeff Hardy Night of Champions 2009 promo",
+        "url": "https://www.youtube.com/watch?v=PcxYBOrUFZA",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/night.html",
+      "https://www.wwe.com/titlehistory/world-heavyweight-championship"
+    ]
+  },
+  {
+    "id": "2026-07-26-2000-july-26-first-nxt-champion",
+    "publishAt": "2026-07-26T20:00:00-06:00",
+    "dateDisplay": "July 26, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Seth Rollins Becomes First NXT Champion",
+    "label": "July 26 - First NXT Champion",
+    "summary": "July 26, 2012: WWE taped the tournament final where Seth Rollins defeated Jinder Mahal to become the first NXT Champion. The match aired on August 29, but the title change was recorded on July 26 at Full Sail University.",
+    "image": "first-nxt-champion-july-26-square.jpg",
+    "videos": [
+      {
+        "title": "Seth Rollins vs. Jinder Mahal - first NXT Championship match",
+        "url": "https://www.youtube.com/watch?v=X3OiYqnHBGo",
+        "provider": "YouTube"
+      },
+      {
+        "title": "NXT episode: Rollins and Mahal battle for first NXT Title",
+        "url": "https://www.youtube.com/watch?v=NOQovpUyHMc",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2012/",
+      "https://www.wwe.com/"
+    ]
+  },
+  {
+    "id": "2026-07-27-0800-july-27-vengeance-2003",
+    "publishAt": "2026-07-27T08:00:00-06:00",
+    "dateDisplay": "July 27, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Kurt Angle Wins at Vengeance 2003",
+    "label": "July 27 - Vengeance 2003",
+    "summary": "July 27, 2003: At WWE Vengeance in Denver, Kurt Angle defeated Brock Lesnar and Big Show in a triple threat match to win the WWE Championship. The match matters because it reset SmackDown's title picture after Lesnar's rise and Angle's return from neck surgery.",
+    "image": "vengeance-2003-july-27-square.jpg",
+    "videos": [
+      {
+        "title": "Kurt Angle vs. Brock Lesnar vs. Big Show - Vengeance 2003",
+        "url": "https://www.youtube.com/watch?v=YZ--2JUENdo",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Story of Brock Lesnar vs. Big Show vs. Kurt Angle",
+        "url": "https://www.youtube.com/watch?v=UXb8OwQtClY",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/supercards/usa/wwf/venge.html",
+      "https://www.thesmackdownhotel.com/events-results/"
+    ]
+  },
+  {
+    "id": "2026-07-27-1400-july-27-triple-h",
+    "publishAt": "2026-07-27T14:00:00-06:00",
+    "dateDisplay": "July 27, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Triple H Birthday",
+    "label": "July 27 - Triple H",
+    "summary": "July 27, 1969: Paul Levesque, better known as Triple H, was born in Nashua, New Hampshire. Triple H matters because his career spans multiple WWE power centers: in-ring main eventer, D-Generation X co-founder, Evolution leader, WrestleMania attraction, NXT architect, and later WWE creative executive.",
+    "image": "triple-h-july-27-square.jpg",
+    "videos": [
+      {
+        "title": "Triple H's 25 greatest moments",
+        "url": "https://www.youtube.com/watch?v=9PT5_m1kJWE",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Triple H WWE Hall of Fame class video",
+        "url": "https://www.youtube.com/watch?v=x-qL4Pj17wo",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-27-2000-july-27-dolph-ziggler",
+    "publishAt": "2026-07-27T20:00:00-06:00",
+    "dateDisplay": "July 27, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Dolph Ziggler Birthday",
+    "label": "July 27 - Dolph Ziggler",
+    "summary": "July 27, 1980: Dolph Ziggler was born in Cleveland, Ohio. Ziggler matters because he became one of WWE's most reliable bumpers, sellers, and midcard-to-main-event bridge performers for more than a decade.",
+    "image": "dolph-ziggler-july-27-square.jpg",
+    "videos": [
+      {
+        "title": "Dolph Ziggler cashes in Money in the Bank",
+        "url": "https://www.youtube.com/watch?v=MKqtFqpRLEk",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Is Dolph Ziggler's cash-in the best ever?",
+        "url": "https://www.youtube.com/watch?v=s9VHOzWkjPQ",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-28-0800-july-28-molly-holly-title",
+    "publishAt": "2026-07-28T08:00:00-06:00",
+    "dateDisplay": "July 28, 2026",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Molly Holly Wins the Women's Championship",
+    "label": "July 28 - Molly Holly Title",
+    "summary": "July 28, 2003: On Raw, Molly Holly defeated Gail Kim to win the WWE Women's Championship. The title change matters because Molly was one of the division's most dependable workers during a period when women's wrestling on WWE television often had to fight for serious match time.",
+    "image": "molly-holly-title-july-28-square.jpg",
+    "videos": [
+      {
+        "title": "Molly Holly vs. Gail Kim - Women's Title Match",
+        "url": "https://www.youtube.com/watch?v=QZtkveGpyjI",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Molly Holly vs. Gail Kim Women's Title footage",
+        "url": "https://www.youtube.com/watch?v=d4atkmfa4wU",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwe-results-2003/",
+      "https://www.wwe.com/titlehistory/womens-championship"
+    ]
+  },
+  {
+    "id": "2026-07-28-1400-july-28-alex-wright-cruiserweight",
+    "publishAt": "2026-07-28T14:00:00-06:00",
+    "dateDisplay": "July 28, 2026",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Alex Wright Wins the WCW Cruiserweight Title",
+    "label": "July 28 - Alex Wright Cruiserweight",
+    "summary": "July 28, 1997: On WCW Monday Nitro, Alex Wright defeated Chris Jericho to win the WCW Cruiserweight Championship. The title change matters because WCW's cruiserweight division was one of Nitro's strongest week-to-week advantages, and the belt could move through very different styles: luchadores, Japanese juniors, technical wrestlers, and characters like Wright.",
+    "image": "alex-wright-cruiserweight-july-28-square.jpg",
+    "videos": [
+      {
+        "title": "Alex Wright wins the WCW Cruiserweight Title",
+        "url": "https://www.youtube.com/watch?v=NFgmW25db28",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Alex Wright vs. Chris Jericho - WCW Cruiserweight Title",
+        "url": "https://www.youtube.com/watch?v=16nq2iUv0FI",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wcw-results-1997/",
+      "https://www.cagematch.net/"
+    ]
+  },
+  {
+    "id": "2026-07-28-2000-july-28-eddie-ecw-tv",
+    "publishAt": "2026-07-28T20:00:00-06:00",
+    "dateDisplay": "July 28, 2026",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Eddie Guerrero Regains the ECW TV Title",
+    "label": "July 28 - Eddie ECW TV",
+    "summary": "July 28, 1995: Eddie Guerrero regained the ECW World Television Championship from Dean Malenko in Philadelphia. The title change matters because Guerrero and Malenko's ECW series became a calling card for both wrestlers before their WCW cruiserweight runs.",
+    "image": "eddie-guerrero-ecw-tv-july-28-square.jpg",
+    "videos": [
+      {
+        "title": "Eddie Guerrero vs. Dean Malenko ECW match footage",
+        "url": "https://www.youtube.com/watch?v=jGwTTk8c3U8",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Eddie Guerrero and Dean Malenko put on an ECW clinic",
+        "url": "https://www.youtube.com/watch?v=-P7waANOhks",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/ecw-results-1995/",
+      "https://www.cagematch.net/"
+    ]
   }
 ];
