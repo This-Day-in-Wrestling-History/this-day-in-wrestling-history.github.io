@@ -3511,5 +3511,31 @@ window.TDWH_VIDEO_POSTS = [
       "https://thehistoryofwwe.com/ecw-results-1995/",
       "https://www.cagematch.net/"
     ]
+  },
+  {
+    "id": "20260802-08-ron-simmons-wins-the-wcw-world-title",
+    "publishAt": "2026-08-02T08:00:00-06:00",
+    "dateDisplay": "August 2, 1992",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Ron Simmons Wins the WCW World Title",
+    "label": "Aug 2 - Ron Simmons WCW Title",
+    "summary": "Ron Simmons defeated Big Van Vader in Baltimore to win the WCW World Heavyweight Championship.",
+    "image": "2026-08-02-08-ron-simmons-wins-the-wcw-world-title.jpg",
+    "imageSource": "Previously approved local event or wrestler image",
+    "caption": "August 2, 1992: Ron Simmons defeated Big Van Vader in Baltimore to win the WCW World Heavyweight Championship. The moment matters because Simmons became the first Black world heavyweight champion recognized by a major national wrestling promotion, a milestone far bigger than one surprise title switch. WCW built the finish around Simmons stepping in after Sting was unavailable, and the crowd reaction turned the win into one of the company’s most memorable early-1990s moments. Video links in bio: Aug 2 - Ron Simmons WCW Title. Sources checked: WWE, Cagematch, Pro Wrestling Stories. The record is included here because its date and central result are supported by multiple wrestling-history references. #WCW #RonSimmons #Vader #WrestlingHistory",
+    "videos": [
+      {
+        "title": "WWE Hall of Fame: Ron Simmons defeats Vader to win the WCW",
+        "url": "https://www.youtube.com/watch?v=IB8DYpLAIfs",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "WWE",
+      "Cagematch",
+      "Pro Wrestling Stories"
+    ],
+    "promotion": "WWE/WCW/ECW/TNA",
+    "imageSelectionType": "youtube_thumbnail_or_moment_photo"
   }
 ];
