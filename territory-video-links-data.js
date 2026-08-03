@@ -2835,5 +2835,35 @@ window.TDWH_VIDEO_POSTS = [
       "https://thehistoryofwwe.com/wwf-results-1980/",
       "https://www.kayfabememories.com/Regions/midsouth/msw19-2.htm"
     ]
+  },
+  {
+    "id": "2026-08-03-1400-chief-jay-strongbow-vs-george-steele",
+    "publishAt": "2026-08-03T14:00:00-06:00",
+    "calendarDate": "2026-08-03",
+    "dateDisplay": "August 3, 1972",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Chief Jay Strongbow vs. George Steele",
+    "label": "August 3 - Strongbow vs. Steele",
+    "era": "1947-1973",
+    "promotion": "WWWF",
+    "location": "Nashua, New Hampshire",
+    "summary": "Chief Jay Strongbow defeated George Steele by disqualification in Nashua, New Hampshire, a regular WWWF territory stop pairing two long-running fixtures of the northeastern circuit.",
+    "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-participant-portraits/2026-08-03-1400-chief-jay-strongbow.jpg",
+    "videos": [
+      {
+        "title": "The History of WWE: 1972 WWWF results archive",
+        "url": "https://thehistoryofwwe.com/wwwf-results-1972/",
+        "provider": "Archive"
+      },
+      {
+        "title": "Official Wrestling Museum: WWWF live-event results 1970-1979",
+        "url": "https://wweppvresultz.weebly.com/wwwf-live-event-results-1970-1979.html",
+        "provider": "Archive"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwwf-results-1972/",
+      "https://wweppvresultz.weebly.com/wwwf-live-event-results-1970-1979.html"
+    ]
   }
 ];
