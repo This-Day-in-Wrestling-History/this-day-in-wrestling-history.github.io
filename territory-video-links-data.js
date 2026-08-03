@@ -2805,5 +2805,35 @@ window.TDWH_VIDEO_POSTS = [
       "https://wrestlingrecaps.com/territories/cwa-memphis/",
       "https://www.cagematch.net/?id=8&nr=51"
     ]
+  },
+  {
+    "id": "2026-08-02-2000-andre-the-giant-vs-hulk-hogan-at-the-superdome",
+    "publishAt": "2026-08-02T20:00:00-06:00",
+    "calendarDate": "2026-08-02",
+    "dateDisplay": "August 2, 1980",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Andre the Giant vs. Hulk Hogan at the Superdome",
+    "label": "August 2 - Andre-Hogan Superdome",
+    "era": "1974-1988/89",
+    "promotion": "Mid-South Wrestling",
+    "location": "Louisiana Superdome, New Orleans, Louisiana",
+    "summary": "Andre the Giant and Hulk Hogan went to a double count-out at Mid-South's Superdome Extravaganza in New Orleans. Their later national showdown is famous, but this was already a true territory-era supercard attraction.",
+    "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-participant-portraits/2026-08-02-2000-andre-the-giant.jpg",
+    "videos": [
+      {
+        "title": "The History of WWE: 1980 results archive",
+        "url": "https://thehistoryofwwe.com/wwf-results-1980/",
+        "provider": "Archive"
+      },
+      {
+        "title": "Kayfabe Memories: Mid-South Superdome Extravaganza results",
+        "url": "https://www.kayfabememories.com/Regions/midsouth/msw19-2.htm",
+        "provider": "Archive"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwf-results-1980/",
+      "https://www.kayfabememories.com/Regions/midsouth/msw19-2.htm"
+    ]
   }
 ];

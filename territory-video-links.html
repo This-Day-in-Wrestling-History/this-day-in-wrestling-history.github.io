@@ -303,6 +303,13 @@
       font-weight: 800;
     }
 
+    .post-summary {
+      margin: 10px 0 0;
+      color: var(--muted);
+      font-size: 0.96rem;
+      line-height: 1.48;
+    }
+
     .links {
       display: grid;
       margin-top: 13px;
@@ -724,12 +731,17 @@
         ? `<img class="poster" src="${escapeHtml(post.image)}" alt="${escapeHtml(post.title)} post image">`
         : `<div class="poster" role="img" aria-label="${escapeHtml(post.title)}"></div>`;
 
+      const summary = post.summary
+        ? `<p class="post-summary">${escapeHtml(post.summary)}</p>`
+        : "";
+
       return `
         <article class="post-card">
           ${image}
           <div>
             <h2>${escapeHtml(post.title)}</h2>
             <span class="label">${escapeHtml(post.label)}</span>
+            ${summary}
             <div class="links">${videos}</div>
             ${sources}
           </div>
