@@ -15,7 +15,7 @@
     "videos": [
       {
         "videoId": "ivEOEh1lZk4",
-        "videoTitle": "WCW Champion Hollywood Hogan vs. Lex Luger - Nitro 8/4/97",
+        "videoTitle": "WCW Champion Hollywood Hogan vs Lex Luger WCW Nitro 8/4/97",
         "url": "https://www.youtube.com/watch?v=ivEOEh1lZk4",
         "verified": true
       },
@@ -29,9 +29,20 @@
     "verified": true
   },
   "20260804-14-dean-malenko-birthday": {
-    "videoId": "XpFGGGQ3Kco",
-    "videoTitle": "FULL MATCH: Dean Malenko vs. Rey Mysterio | WCW Cruiserweight Title Match: WCW Nitro, July 8, 1996",
-    "url": "https://www.youtube.com/watch?v=XpFGGGQ3Kco",
+    "videos": [
+      {
+        "videoId": "XpFGGGQ3Kco",
+        "videoTitle": "FULL MATCH: Dean Malenko vs. Rey Mysterio | WCW Cruiserweight Title Match: WCW Nitro, July 8, 1996",
+        "url": "https://www.youtube.com/watch?v=XpFGGGQ3Kco",
+        "verified": true
+      },
+      {
+        "videoId": "q_y3BaVSDqw",
+        "videoTitle": "FULL MATCH: Dean Malenko vs. Disco Inferno | WCW Cruiserweight Title Match: Bash at the Beach 1996",
+        "url": "https://www.youtube.com/watch?v=q_y3BaVSDqw",
+        "verified": true
+      }
+    ],
     "verified": true
   }
 }

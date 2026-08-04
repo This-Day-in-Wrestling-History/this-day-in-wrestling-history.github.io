@@ -3551,7 +3551,7 @@ window.TDWH_VIDEO_POSTS = [
     "caption": "August 4, 1997: On the 100th episode of WCW Monday Nitro, Lex Luger defeated Hollywood Hogan with the Torture Rack to win the WCW World Heavyweight Championship. The moment matters because it gave WCW a rare full-scale victory over the nWo on live television and produced one of Nitro’s loudest feel-good endings. Luger’s reign only lasted five days, but the image of WCW wrestlers flooding the ring to celebrate remains one of the defining Nitro-era title changes. Video links in bio: Aug 4 - Luger Beats Hogan. Sources checked: WWE, The History of WWE, Cagematch. #WCW #LexLuger #HulkHogan #Nitro #nWo #WrestlingHistory",
     "videos": [
       {
-        "title": "WCW Champion Hollywood Hogan vs. Lex Luger - Nitro 8/4/97",
+        "title": "WCW Champion Hollywood Hogan vs Lex Luger WCW Nitro 8/4/97",
         "url": "https://www.youtube.com/watch?v=ivEOEh1lZk4",
         "provider": "YouTube"
       },
@@ -3584,6 +3584,11 @@ window.TDWH_VIDEO_POSTS = [
       {
         "title": "FULL MATCH: Dean Malenko vs. Rey Mysterio | WCW Cruiserweight Title Match: WCW Nitro, July 8, 1996",
         "url": "https://www.youtube.com/watch?v=XpFGGGQ3Kco",
+        "provider": "YouTube"
+      },
+      {
+        "title": "FULL MATCH: Dean Malenko vs. Disco Inferno | WCW Cruiserweight Title Match: Bash at the Beach 1996",
+        "url": "https://www.youtube.com/watch?v=q_y3BaVSDqw",
         "provider": "YouTube"
       }
     ],
