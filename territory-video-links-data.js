@@ -2895,5 +2895,35 @@ window.TDWH_VIDEO_POSTS = [
       "https://thehistoryofwwe.com/wwf-results-1980/",
       "https://projectwcw.com/2020/04/15/round-up-august-1980/"
     ]
+  },
+  {
+    "id": "2026-08-04-0800-bill-dundee-wins-the-cwa-world-heavyweight-title",
+    "publishAt": "2026-08-04T08:00:00-06:00",
+    "calendarDate": "2026-08-04",
+    "dateDisplay": "August 4, 1980",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Bill Dundee wins the CWA World Heavyweight Title",
+    "label": "August 4 - Bill Dundee CWA Title",
+    "era": "1974-1988/89",
+    "promotion": "Continental Wrestling Association",
+    "location": "Mid-South Coliseum, Memphis, Tennessee",
+    "summary": "Bill Dundee defeated Billy Robinson in 36:04 at Memphis' Mid-South Coliseum to win the held-up CWA World Heavyweight Championship, with Lou Thesz adding authority as referee.",
+    "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-participant-portraits/2026-08-04-0800-bill-dundee.png",
+    "videos": [
+      {
+        "title": "Pro Wrestling History: Memphis 1980 results archive",
+        "url": "https://www.prowrestlinghistory.com/memphis/jarrett/1980.html",
+        "provider": "Archive"
+      },
+      {
+        "title": "Online World of Wrestling: Bill Dundee profile",
+        "url": "https://www.onlineworldofwrestling.com/profile/bill-dundee/",
+        "provider": "Archive"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/memphis/jarrett/1980.html",
+      "https://www.onlineworldofwrestling.com/profile/bill-dundee/"
+    ]
   }
 ];
