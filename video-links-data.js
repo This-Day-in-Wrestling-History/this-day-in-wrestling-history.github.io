@@ -3568,5 +3568,31 @@ window.TDWH_VIDEO_POSTS = [
     ],
     "promotion": "WWE/WCW/ECW/TNA",
     "imageSelectionType": "youtube_thumbnail_or_moment_photo"
+  },
+  {
+    "id": "20260804-14-dean-malenko-birthday",
+    "publishAt": "2026-08-04T14:00:00-06:00",
+    "dateDisplay": "August 4, 1960",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Dean Malenko Birthday",
+    "label": "Aug 4 - Dean Malenko",
+    "summary": "Dean Malenko was born. Malenko matters because he became one of the most respected technical wrestlers of the 1990s, with important runs in ECW, WCW and WWE. His “Man of 1,000 Holds” persona fit perfectly into WCW’s cruiserweight era, where his matches with Eddie Guerrero, Rey Mysterio Jr., Chris Jericho and others gave Nitro serious in-ring credibility alongside the nWo storylines. He later became a valuable producer and coach behind the scenes. Video links in bio: Aug 4 - Dean Malenko. Sources checked: WWE, The SmackDown Hotel, Cagematch. #WCW #WWE #ECW #DeanMalenko #Cruiserweight #WrestlingHistory",
+    "image": "2026-08-04-14-dean-malenko-birthday.jpg",
+    "imageSource": "Previously approved local event or wrestler image",
+    "caption": "August 4, 1960: Dean Malenko was born. Malenko matters because he became one of the most respected technical wrestlers of the 1990s, with important runs in ECW, WCW and WWE. His “Man of 1,000 Holds” persona fit perfectly into WCW’s cruiserweight era, where his matches with Eddie Guerrero, Rey Mysterio Jr., Chris Jericho and others gave Nitro serious in-ring credibility alongside the nWo storylines. He later became a valuable producer and coach behind the scenes. Video links in bio: Aug 4 - Dean Malenko. Sources checked: WWE, The SmackDown Hotel, Cagematch. The record is included here because its date and central result are supported by multiple wrestling-history references. #WCW #WWE #ECW #DeanMalenko #Cruiserweight #WrestlingHistory",
+    "videos": [
+      {
+        "title": "FULL MATCH: Dean Malenko vs. Rey Mysterio | WCW Cruiserweight Title Match: WCW Nitro, July 8, 1996",
+        "url": "https://www.youtube.com/watch?v=XpFGGGQ3Kco",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "WWE",
+      "The SmackDown Hotel",
+      "Cagematch"
+    ],
+    "promotion": "WWE/WCW/ECW/TNA",
+    "imageSelectionType": "person_portrait"
   }
 ];
