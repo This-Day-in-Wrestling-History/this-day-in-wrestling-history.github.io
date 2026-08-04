@@ -2940,5 +2940,40 @@ window.TDWH_VIDEO_POSTS = [
       "https://www.prowrestlinghistory.com/memphis/jarrett/1980.html",
       "https://www.onlineworldofwrestling.com/profile/bill-dundee/"
     ]
+  },
+  {
+    "id": "2026-08-04-1400-pedro-morales-vs-george-steele",
+    "publishAt": "2026-08-04T14:00:00-06:00",
+    "calendarDate": "2026-08-04",
+    "dateDisplay": "August 4, 1972",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Pedro Morales vs. George Steele",
+    "label": "August 4 - Morales vs. Steele",
+    "era": "1947-1973",
+    "promotion": "WWWF",
+    "location": "Asbury Park, New Jersey",
+    "summary": "WWWF Heavyweight Champion Pedro Morales defeated George Steele by count-out in Asbury Park, New Jersey, a clean example of Morales' frequent regional defenses during his long title reign.",
+    "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-youtube-thumbnails/2026-08-04-1400-LOSRxBmBL3M.jpg",
+    "videos": [
+      {
+        "title": "1972 Aug. 4 - George \"The Animal\" Steele vs. Pedro Morales - WWWF",
+        "url": "https://www.youtube.com/watch?v=LOSRxBmBL3M",
+        "provider": "YouTube"
+      },
+      {
+        "title": "The History of WWE: 1972 WWWF results archive",
+        "url": "https://thehistoryofwwe.com/wwwf-results-1972/",
+        "provider": "Archive"
+      },
+      {
+        "title": "Official Wrestling Museum: WWWF live-event results 1970-1979",
+        "url": "https://wweppvresultz.weebly.com/wwwf-live-event-results-1970-1979.html",
+        "provider": "Archive"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwwf-results-1972/",
+      "https://wweppvresultz.weebly.com/wwwf-live-event-results-1970-1979.html"
+    ]
   }
 ];
