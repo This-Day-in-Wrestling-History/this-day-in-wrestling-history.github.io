@@ -2865,5 +2865,35 @@ window.TDWH_VIDEO_POSTS = [
       "https://thehistoryofwwe.com/wwwf-results-1972/",
       "https://wweppvresultz.weebly.com/wwwf-live-event-results-1970-1979.html"
     ]
+  },
+  {
+    "id": "2026-08-03-2000-bob-backlund-vs-don-muraco-at-the-last-tangle",
+    "publishAt": "2026-08-03T20:00:00-06:00",
+    "calendarDate": "2026-08-03",
+    "dateDisplay": "August 3, 1980",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Bob Backlund vs. Don Muraco at The Last Tangle",
+    "label": "August 3 - Backlund vs. Muraco",
+    "era": "1974-1988/89",
+    "promotion": "Championship Wrestling from Florida",
+    "location": "Tampa Stadium, Tampa, Florida",
+    "summary": "WWF World Champion Bob Backlund defeated Don Muraco by disqualification at Tampa Stadium's The Last Tangle, a major Florida stadium card that brought the New York champion into a cross-territory attraction.",
+    "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-youtube-thumbnails/2026-08-03-2000-Clc28djoDOE.jpg",
+    "videos": [
+      {
+        "title": "The Last Tangle In Tampa: Harley Race vs Dusty Rhodes (August 3rd, 1980) (Tampa Stadium)",
+        "url": "https://www.youtube.com/watch?v=Clc28djoDOE",
+        "provider": "YouTube"
+      },
+      {
+        "title": "The History of WWE: 1980 results archive",
+        "url": "https://thehistoryofwwe.com/wwf-results-1980/",
+        "provider": "Archive"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwf-results-1980/",
+      "https://projectwcw.com/2020/04/15/round-up-august-1980/"
+    ]
   }
 ];
