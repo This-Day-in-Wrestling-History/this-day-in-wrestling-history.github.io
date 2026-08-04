@@ -2821,6 +2821,11 @@ window.TDWH_VIDEO_POSTS = [
     "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-participant-portraits/2026-08-02-2000-andre-the-giant.jpg",
     "videos": [
       {
+        "title": "Superdome Extravaganza card footage (same event context)",
+        "url": "https://www.youtube.com/watch?v=YLuVt1a9F4s",
+        "provider": "YouTube"
+      },
+      {
         "title": "The History of WWE: 1980 results archive",
         "url": "https://thehistoryofwwe.com/wwf-results-1980/",
         "provider": "Archive"
@@ -2850,6 +2855,11 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Chief Jay Strongbow defeated George Steele by disqualification in Nashua, New Hampshire, a regular WWWF territory stop pairing two long-running fixtures of the northeastern circuit.",
     "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-participant-portraits/2026-08-03-1400-chief-jay-strongbow.jpg",
     "videos": [
+      {
+        "title": "Chief Jay Strongbow WWE Hall of Fame video (career context)",
+        "url": "https://www.wwe.com/videos/chief-jay-strongbow-1994-wwe-hall-of-fame-inductee",
+        "provider": "WWE"
+      },
       {
         "title": "The History of WWE: 1972 WWWF results archive",
         "url": "https://thehistoryofwwe.com/wwwf-results-1972/",
@@ -2910,6 +2920,11 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Bill Dundee defeated Billy Robinson in 36:04 at Memphis' Mid-South Coliseum to win the held-up CWA World Heavyweight Championship, with Lou Thesz adding authority as referee.",
     "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-participant-portraits/2026-08-04-0800-bill-dundee.png",
     "videos": [
+      {
+        "title": "Bill Dundee Memphis CWA footage (career context; 1986)",
+        "url": "https://www.youtube.com/watch?v=tdw5wk_rgYI",
+        "provider": "YouTube"
+      },
       {
         "title": "Pro Wrestling History: Memphis 1980 results archive",
         "url": "https://www.prowrestlinghistory.com/memphis/jarrett/1980.html",
