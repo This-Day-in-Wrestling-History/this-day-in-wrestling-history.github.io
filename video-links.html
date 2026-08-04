@@ -583,7 +583,7 @@
     const searchInput = document.querySelector("#searchInput");
     const promotionFilter = document.querySelector("#promotionFilter");
     const providerFilter = document.querySelector("#providerFilter");
-    const posts = Array.isArray(window.TDWH_VIDEO_POSTS) ? window.TDWH_VIDEO_POSTS : [];
+    let posts = Array.isArray(window.TDWH_VIDEO_POSTS) ? window.TDWH_VIDEO_POSTS : [];
     const filters = {
       date: "",
       search: "",
@@ -807,6 +807,23 @@
       attachCopyHandlers();
     }
 
+    async function refreshPosts() {
+      try {
+        const response = await fetch(`video-links-data.js?refresh=${Date.now()}`, { cache: "no-store" });
+        if (!response.ok) return;
+        const payload = await response.text();
+        const start = payload.indexOf("[");
+        const end = payload.lastIndexOf("]");
+        if (start === -1 || end === -1) return;
+        const latestPosts = JSON.parse(payload.slice(start, end + 1));
+        if (!Array.isArray(latestPosts)) return;
+        posts = latestPosts;
+        render();
+      } catch {
+        render();
+      }
+    }
+
     dateChips.addEventListener("click", (event) => {
       const button = event.target.closest("[data-date]");
       if (!button) return;
@@ -853,7 +870,8 @@
     });
 
     render();
-    window.setInterval(render, 60000);
+    refreshPosts();
+    window.setInterval(refreshPosts, 60000);
   </script>
 </body>
 </html>
