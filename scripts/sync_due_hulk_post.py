@@ -48,7 +48,16 @@ def main():
         raise SystemExit("No due Hulk feed post found")
     post = max(eligible, key=lambda row: row["publishAt"])
     direct = links.get(post["id"])
-    if not direct or not direct.get("verified") or not re.fullmatch(r"https://www\.youtube\.com/watch\?v=[A-Za-z0-9_-]{11}", direct.get("url", "")):
+    direct_videos = direct.get("videos", []) if direct else []
+    if direct and not direct_videos and direct.get("url"):
+        direct_videos = [direct]
+    valid_videos = [
+        video for video in direct_videos
+        if video.get("verified")
+        and video.get("videoTitle")
+        and re.fullmatch(r"https://www\.youtube\.com/watch\?v=[A-Za-z0-9_-]{11}", video.get("url", ""))
+    ]
+    if not direct or not direct.get("verified") or not valid_videos:
         log(f"BLOCKED {post['id']} missing verified direct YouTube URL")
         raise SystemExit(f"Missing verified direct YouTube URL for {post['id']}")
     rows = load_site_data()
@@ -57,7 +66,10 @@ def main():
     image_name = source_image.name
     shutil.copy2(source_image, REPO / image_name)
     item["image"] = image_name
-    item["videos"] = [{"title": direct["videoTitle"], "url": direct["url"], "provider": "YouTube"}]
+    item["videos"] = [
+        {"title": video["videoTitle"], "url": video["url"], "provider": "YouTube"}
+        for video in valid_videos[:2]
+    ]
     rows = [row for row in rows if row.get("id") != item["id"]]
     rows.append(item)
     save_site_data(rows)
@@ -65,14 +77,15 @@ def main():
     html = HTML.read_text(encoding="utf-8")
     html = re.sub(r'video-links-data\.js\?v=[^"\']+', f"video-links-data.js?v={stamp}", html)
     HTML.write_text(html, encoding="utf-8")
-    log(f"PREPARED {item['id']} image={image_name} youtube={direct['url']}")
+    urls = ",".join(video["url"] for video in valid_videos[:2])
+    log(f"PREPARED {item['id']} image={image_name} youtube={urls}")
     if args.deploy:
         subprocess.run(["git", "add", "video-links-data.js", "video-links.html", image_name, "hulk-direct-video-links.json", "scripts/sync_due_hulk_post.py"], cwd=REPO, check=True)
         if subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=REPO).returncode != 0:
             subprocess.run(["git", "commit", "-m", f"Publish Hulk website entry {item['id']}"], cwd=REPO, check=True)
             subprocess.run(["git", "push", "origin", "main"], cwd=REPO, check=True)
-        log(f"DEPLOYED {item['id']} youtube={direct['url']}")
-    print(json.dumps({"id": item["id"], "image": image_name, "youtube": direct["url"], "deployed": args.deploy}))
+        log(f"DEPLOYED {item['id']} youtube={urls}")
+    print(json.dumps({"id": item["id"], "image": image_name, "youtube": [video["url"] for video in valid_videos[:2]], "deployed": args.deploy}))
 
 
 if __name__ == "__main__":

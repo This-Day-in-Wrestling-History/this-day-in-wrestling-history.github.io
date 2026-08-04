@@ -10,5 +10,22 @@
     "videoTitle": "Dudleys vs Dreamer, Sandman & Spike - ECW Heat Wave 1998",
     "url": "https://www.youtube.com/watch?v=7Wrm0_ArV1w",
     "verified": true
+  },
+  "20260804-08-lex-luger-beats-hollywood-hogan": {
+    "videos": [
+      {
+        "videoId": "ivEOEh1lZk4",
+        "videoTitle": "WCW Champion Hollywood Hogan vs. Lex Luger - Nitro 8/4/97",
+        "url": "https://www.youtube.com/watch?v=ivEOEh1lZk4",
+        "verified": true
+      },
+      {
+        "videoId": "XkjNYpCfbd4",
+        "videoTitle": "The Story of Lex Luger's WCW Championship Win on Nitro",
+        "url": "https://www.youtube.com/watch?v=XkjNYpCfbd4",
+        "verified": true
+      }
+    ],
+    "verified": true
   }
 }
