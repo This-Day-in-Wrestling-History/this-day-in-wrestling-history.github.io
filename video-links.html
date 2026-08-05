@@ -707,7 +707,9 @@
           </a>
           <button class="copy-button" type="button" data-copy="${escapeHtml(video.url)}">Copy</button>
         </div>
-      `).join("");
+      `).join("") || (post.videoStatus === "unavailable_after_verification"
+        ? `<div class="video-row"><span class="video-link"><span class="link-title"><strong>No verified free video currently available</strong><code>Checked for an exact direct YouTube watch page</code></span></span></div>`
+        : "");
 
       const sources = post.sources && post.sources.length
         ? `<details><summary>Sources checked</summary><div class="source-list">${post.sources.map(renderSource).join("")}</div></details>`
