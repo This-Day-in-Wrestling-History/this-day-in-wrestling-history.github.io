@@ -3633,48 +3633,144 @@ window.TDWH_VIDEO_POSTS = [
     "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260806-08-hogan-s-last-wwf-match-until-2002",
-    "publishAt": "2026-08-06T08:00:00-06:00",
-    "dateDisplay": "August 6, 1993",
-    "timeDisplay": "8:00 AM MDT",
-    "title": "Hogan’s Last WWF Match Until 2002",
-    "label": "Aug 6 - Hogan WWF finale",
-    "summary": "Hulk Hogan wrestled Yokozuna by disqualification in Sheffield, England, his final WWF match before returning almost nine years later.",
-    "image": "2026-08-06-08-hogan-s-last-wwf-match-until-2002.jpg",
-    "caption": "August 6, 1993: Hulk Hogan wrestled Yokozuna by disqualification in Sheffield, England, his final WWF match before returning almost nine years later. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 6 - Hogan WWF finale. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "id": "20260805-14-danielson-vs-samoa-joe-draw",
+    "publishAt": "2026-08-05T14:00:00-06:00",
+    "dateDisplay": "August 5, 2006",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Danielson vs. Samoa Joe Draw",
+    "label": "Aug 5 - Danielson vs Joe",
+    "summary": "Bryan Danielson and Samoa Joe went sixty minutes for the ROH Championship at Fight of the Century, a match later tied to two major U.S. stars.",
+    "image": "2026-08-05-14-danielson-vs-samoa-joe-draw.jpg",
+    "caption": "August 5, 2006: Bryan Danielson and Samoa Joe went sixty minutes for the ROH Championship at Fight of the Century, a match later tied to two major U.S. stars. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 5 - Danielson vs Joe. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "Bryan Danielson vs Samoa Joe Fight Of The Century",
+        "url": "https://www.youtube.com/watch?v=IMbt5magCog",
+        "provider": "YouTube",
+        "sourceChannel": "Wrestling Recommendations",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
     ],
-    "promotion": "WWF",
+    "promotion": "ROH",
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260806-14-tajiri-wins-light-heavyweight-gold",
-    "publishAt": "2026-08-06T14:00:00-06:00",
-    "dateDisplay": "August 6, 2001",
-    "timeDisplay": "2:00 PM MDT",
-    "title": "Tajiri Wins Light Heavyweight Gold",
-    "label": "Aug 6 - Tajiri title win",
-    "summary": "Tajiri defeated X-Pac on Raw to win the WWF Light Heavyweight Championship, giving him his only reign with that belt.",
-    "image": "2026-08-06-14-tajiri-wins-light-heavyweight-gold.jpg",
-    "caption": "August 6, 2001: Tajiri defeated X-Pac on Raw to win the WWF Light Heavyweight Championship, giving him his only reign with that belt. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 6 - Tajiri title win. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
-    "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+    "id": "20260805-20-roman-reigns-jey-uso-tribal-combat",
+    "publishAt": "2026-08-05T20:00:00-06:00",
+    "dateDisplay": "August 5, 2023",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Roman Reigns vs. Jey Uso: Tribal Combat",
+    "label": "Aug 5 - Reigns vs Uso",
+    "summary": "Roman Reigns retained the Undisputed WWE Universal Championship over Jey Uso in Tribal Combat at SummerSlam after Jimmy Uso turned on Jey.",
+    "image": "2026-08-05-20-roman-reigns-jey-uso-tribal-combat.png",
+    "caption": "August 5, 2023: Roman Reigns survived Jey Uso in Tribal Combat at SummerSlam to retain the Undisputed WWE Universal Championship after Jimmy Uso turned on Jey. Full match in bio: Aug 5 - Reigns vs Uso. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "FULL MATCH: Roman Reigns vs. Jey Uso | Tribal Combat: SummerSlam 2023",
+        "url": "https://www.youtube.com/watch?v=y_e_9la1wc4",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
     ],
-    "promotion": "WWF",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
+    "sources": [
+      "WWE",
+      "Official YouTube watch page"
+    ],
+    "promotion": "WWE",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "imageSelectionType": "original_ai_editorial_illustration",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260805-20-wwe-talent-releases-2011",
+      "title": "WWE Talent Releases 2011",
+      "dateDisplay": "August 5, 2011",
+      "summary": "WWE released several names in one day, including Melina, Chris Masters, Harry Smith and Vladimir Kozlov, marking a notable 2011 roster reset.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
+  },
+  {
+    "id": "20260806-08-cena-vs-daniel-bryan-raw",
+    "publishAt": "2026-08-06T08:00:00-06:00",
+    "dateDisplay": "August 6, 2012",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "John Cena vs. Daniel Bryan on Raw",
+    "label": "Aug 6 - Cena vs Bryan",
+    "summary": "John Cena defeated Daniel Bryan in their first one-on-one Raw match on the road to SummerSlam.",
+    "image": "2026-08-06-08-cena-bryan-raw-2012.png",
+    "caption": "August 6, 2012: John Cena and Daniel Bryan met one-on-one on Raw on the road to SummerSlam. Full match in bio: Aug 6 - Cena vs Bryan. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "John Cena vs. Daniel Bryan: Raw, Aug. 6, 2012",
+        "url": "https://www.youtube.com/watch?v=Rrp-jWLSPIU",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "sources": [
+      "WWE",
+      "Official YouTube watch page"
+    ],
+    "promotion": "WWE",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "imageSelectionType": "original_ai_editorial_illustration",
+    "visualQualityStatus": "upgraded_approved",
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260806-08-hogan-s-last-wwf-match-until-2002",
+      "title": "Hogan’s Last WWF Match Until 2002",
+      "dateDisplay": "August 6, 1993",
+      "summary": "Hulk Hogan wrestled Yokozuna by disqualification in Sheffield, England, his final WWF match before returning almost nine years later.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
+  },
+  {
+    "id": "20260806-14-ronda-rousey-vs-alicia-fox",
+    "publishAt": "2026-08-06T14:00:00-06:00",
+    "dateDisplay": "August 6, 2018",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Ronda Rousey vs. Alicia Fox",
+    "label": "Aug 6 - Rousey vs Fox",
+    "summary": "Ronda Rousey wrestled Alicia Fox in her first Raw singles match as SummerSlam opponent Alexa Bliss loomed.",
+    "image": "2026-08-06-14-ronda-rousey-alicia-fox-raw-2018.png",
+    "caption": "August 6, 2018: Ronda Rousey faced Alicia Fox in her first Raw singles match, with Alexa Bliss’s SummerSlam title defense looming. Watch in bio: Aug 6 - Rousey vs Fox. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "Ronda Rousey vs. Alicia Fox: Raw, Aug. 6, 2018",
+        "url": "https://www.youtube.com/watch?v=r03kcfypaeQ",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "sources": [
+      "WWE",
+      "Official YouTube watch page"
+    ],
+    "promotion": "WWE",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "imageSelectionType": "original_ai_editorial_illustration",
+    "visualQualityStatus": "upgraded_approved",
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260806-14-tajiri-wins-light-heavyweight-gold",
+      "title": "Tajiri Wins Light Heavyweight Gold",
+      "dateDisplay": "August 6, 2001",
+      "summary": "Tajiri defeated X-Pac on Raw to win the WWF Light Heavyweight Championship, giving him his only reign with that belt.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260806-20-william-regal-becomes-raw-gm",
@@ -3706,26 +3802,41 @@ window.TDWH_VIDEO_POSTS = [
     "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260807-08-ddp-and-kanyon-win-wwf-tag-titles",
+    "id": "20260807-08-kurt-angle-vs-sting-tna-title",
     "publishAt": "2026-08-07T08:00:00-06:00",
-    "dateDisplay": "August 7, 2001",
+    "dateDisplay": "August 7, 2011",
     "timeDisplay": "8:00 AM MDT",
-    "title": "DDP and Kanyon Win WWF Tag Titles",
-    "label": "Aug 7 - DDP Kanyon titles",
-    "summary": "Diamond Dallas Page and Kanyon defeated The APA at SmackDown tapings, making WCW wrestlers WWF Tag Team Champions during the Invasion.",
-    "image": "2026-08-07-08-ddp-and-kanyon-win-wwf-tag-titles.jpg",
-    "caption": "August 7, 2001: Diamond Dallas Page and Kanyon defeated The APA at SmackDown tapings, making WCW wrestlers WWF Tag Team Champions during the Invasion. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 7 - DDP Kanyon titles. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
-    "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+    "title": "Kurt Angle vs. Sting: TNA World Title",
+    "label": "Aug 7 - Angle vs Sting",
+    "summary": "Kurt Angle defeated Sting at Hardcore Justice to win the TNA World Heavyweight Championship.",
+    "image": "2026-08-07-08-kurt-angle-sting-hardcore-justice-2011.png",
+    "caption": "August 7, 2011: Kurt Angle defeated Sting at Hardcore Justice to win the TNA World Heavyweight Championship. Full match in bio: Aug 7 - Angle vs Sting. #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "Kurt Angle vs. Sting | TNA World Heavyweight Championship: Hardcore Justice 2011",
+        "url": "https://www.youtube.com/watch?v=qYuIoIT2VTQ",
+        "provider": "YouTube",
+        "sourceChannel": "TNA Wrestling",
+        "matchType": "exact"
+      }
     ],
-    "promotion": "WWF",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
+    "sources": [
+      "TNA Wrestling",
+      "Official YouTube watch page"
+    ],
+    "promotion": "TNA",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "imageSelectionType": "original_ai_editorial_illustration",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260807-08-ddp-and-kanyon-win-wwf-tag-titles",
+      "title": "DDP and Kanyon Win WWF Tag Titles",
+      "dateDisplay": "August 7, 2001",
+      "summary": "Diamond Dallas Page and Kanyon defeated The APA at SmackDown tapings, making WCW wrestlers WWF Tag Team Champions during the Invasion.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260807-14-brothers-of-destruction-win-wcw-gold",
@@ -3757,26 +3868,41 @@ window.TDWH_VIDEO_POSTS = [
     "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260807-20-ron-killings-wins-nwa-world-title",
+    "id": "20260807-20-cody-rollins-nakamura-vs-judgment-day",
     "publishAt": "2026-08-07T20:00:00-06:00",
-    "dateDisplay": "August 7, 2002",
+    "dateDisplay": "August 7, 2023",
     "timeDisplay": "8:00 PM MDT",
-    "title": "Ron Killings Wins NWA World Title",
-    "label": "Aug 7 - Ron Killings NWA title",
-    "summary": "Ron Killings defeated Ken Shamrock to win the NWA World Heavyweight Championship in early TNA history.",
-    "image": "2026-08-07-20-ron-killings-wins-nwa-world-title.jpg",
-    "caption": "August 7, 2002: Ron Killings defeated Ken Shamrock to win the NWA World Heavyweight Championship in early TNA history. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 7 - Ron Killings NWA title. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
-    "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+    "title": "Cody, Rollins & Nakamura vs. The Judgment Day",
+    "label": "Aug 7 - Raw six-man",
+    "summary": "Cody Rhodes, Seth Rollins and Shinsuke Nakamura defeated The Judgment Day on Raw before Nakamura blindsided Rollins.",
+    "image": "2026-08-07-20-cody-rollins-nakamura-judgment-day-raw-2023.png",
+    "caption": "August 7, 2023: Cody Rhodes, Seth Rollins and Shinsuke Nakamura defeated The Judgment Day on Raw, then Nakamura blindsided Rollins. Full match in bio: Aug 7 - Raw six-man. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "Cody Rhodes, Seth Rollins & Shinsuke Nakamura vs. The Judgment Day: Raw, Aug. 7, 2023",
+        "url": "https://www.youtube.com/watch?v=0JfWRWVCwJQ",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
     ],
-    "promotion": "TNA",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
+    "sources": [
+      "WWE",
+      "Official YouTube watch page"
+    ],
+    "promotion": "WWE",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "imageSelectionType": "original_ai_editorial_illustration",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260807-20-ron-killings-wins-nwa-world-title",
+      "title": "Ron Killings Wins NWA World Title",
+      "dateDisplay": "August 7, 2002",
+      "summary": "Ron Killings defeated Ken Shamrock to win the NWA World Heavyweight Championship in early TNA history.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260808-08-wcw-road-wild-1998",
@@ -3806,26 +3932,41 @@ window.TDWH_VIDEO_POSTS = [
     "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260808-14-raw-builds-summerslam-1994",
+    "id": "20260808-14-cena-punk-summerslam-contract-signing",
     "publishAt": "2026-08-08T14:00:00-06:00",
-    "dateDisplay": "August 8, 1994",
+    "dateDisplay": "August 8, 2011",
     "timeDisplay": "2:00 PM MDT",
-    "title": "Raw Builds SummerSlam 1994",
-    "label": "Aug 8 - Raw 1994 build",
-    "summary": "Raw advanced the Diesel vs. Razor Ramon Intercontinental Title program and the Owen Hart family conflict before SummerSlam.",
-    "image": "2026-08-08-14-raw-builds-summerslam-1994.jpg",
-    "caption": "August 8, 1994: Raw advanced the Diesel vs. Razor Ramon Intercontinental Title program and the Owen Hart family conflict before SummerSlam. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 8 - Raw 1994 build. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
-    "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+    "title": "Cena and Punk Sign for SummerSlam",
+    "label": "Aug 8 - Cena Punk signing",
+    "summary": "John Cena and CM Punk signed their SummerSlam contract on Raw, where Triple H named himself special referee.",
+    "image": "2026-08-08-14-cena-punk-contract-signing-2011.png",
+    "caption": "August 8, 2011: John Cena and CM Punk signed their SummerSlam contract on Raw, and Triple H named himself special referee. Watch the segment in bio: Aug 8 - Cena Punk signing. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "John Cena and CM Punk sign for SummerSlam: Raw, Aug. 8, 2011",
+        "url": "https://www.youtube.com/watch?v=d0HBbLiMuj4",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
     ],
-    "promotion": "WWF",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
+    "sources": [
+      "WWE",
+      "Official YouTube watch page"
+    ],
+    "promotion": "WWE",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "imageSelectionType": "original_ai_editorial_illustration",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260808-14-raw-builds-summerslam-1994",
+      "title": "Raw Builds SummerSlam 1994",
+      "dateDisplay": "August 8, 1994",
+      "summary": "Raw advanced the Diesel vs. Razor Ramon Intercontinental Title program and the Owen Hart family conflict before SummerSlam.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260808-20-rollins-targets-the-universal-title",
@@ -3855,26 +3996,41 @@ window.TDWH_VIDEO_POSTS = [
     "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260809-08-hogan-regains-the-wcw-title",
+    "id": "20260809-08-bruno-sammartino-vs-larry-zbyszko",
     "publishAt": "2026-08-09T08:00:00-06:00",
-    "dateDisplay": "August 9, 1997",
+    "dateDisplay": "August 9, 1980",
     "timeDisplay": "8:00 AM MDT",
-    "title": "Hogan Regains the WCW Title",
-    "label": "Aug 9 - Hogan Road Wild",
-    "summary": "Hollywood Hogan defeated Lex Luger at Road Wild to regain the WCW World Heavyweight Championship.",
-    "image": "2026-08-09-08-hogan-regains-the-wcw-title.jpg",
-    "caption": "August 9, 1997: Hollywood Hogan defeated Lex Luger at Road Wild to regain the WCW World Heavyweight Championship. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 9 - Hogan Road Wild. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
-    "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+    "title": "Bruno Sammartino vs. Larry Zbyszko",
+    "label": "Aug 9 - Bruno vs Larry",
+    "summary": "Bruno Sammartino defeated Larry Zbyszko in a steel cage at Showdown at Shea, ending their bitter feud.",
+    "image": "2026-08-09-08-bruno-sammartino-larry-zbyszko-shea-1980.png",
+    "caption": "August 9, 1980: Bruno Sammartino defeated Larry Zbyszko inside a steel cage at Showdown at Shea. Full match in bio: Aug 9 - Bruno vs Larry. #WWF #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "Bruno Sammartino vs. Larry Zbyszko | Steel Cage Match: Showdown at Shea",
+        "url": "https://www.youtube.com/watch?v=9znwZOGAQk0",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
     ],
-    "promotion": "WCW",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
+    "sources": [
+      "WWE",
+      "Official YouTube watch page"
+    ],
+    "promotion": "WWF",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "imageSelectionType": "original_ai_editorial_illustration",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260809-08-hogan-regains-the-wcw-title",
+      "title": "Hogan Regains the WCW Title",
+      "dateDisplay": "August 9, 1997",
+      "summary": "Hollywood Hogan defeated Lex Luger at Road Wild to regain the WCW World Heavyweight Championship.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260809-14-sabu-vs-terry-funk-barbed-wire",
@@ -3940,7 +4096,14 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "The new nWo era hit Sturgis as Hollywood Hogan defeated The Giant for the WCW World Heavyweight Championship.",
     "image": "2026-08-10-08-wcw-hog-wild-1996.jpg",
     "caption": "August 10, 1996: The new nWo era hit Sturgis as Hollywood Hogan defeated The Giant for the WCW World Heavyweight Championship. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 10 - Hog Wild 1996. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH: The Giant vs. Hollywood Hogan | WCW Title Match: Hog Wild 1996",
+        "url": "https://www.youtube.com/watch?v=V6JMAWVD76Y",
+        "sourceChannel": "WCW",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -3949,8 +4112,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260810-14-tna-hard-justice-2008",
@@ -3991,7 +4153,14 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Adam Cole retained the NXT Championship against Johnny Gargano in a two-out-of-three-falls match.",
     "image": "2026-08-10-20-nxt-takeover-toronto-2019.jpg",
     "caption": "August 10, 2019: Adam Cole retained the NXT Championship against Johnny Gargano in a two-out-of-three-falls match. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 10 - TakeOver Toronto 2019. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL EVENT: NXT TakeOver: Toronto 2019 | Cole vs. Gargano; Baszler vs. Yim",
+        "url": "https://www.youtube.com/watch?v=wK8bhsVVxCY",
+        "sourceChannel": "WWE NXT",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4000,30 +4169,44 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260811-08-hbk-returns-with-rick-rude",
+    "id": "20260811-08-cena-calls-out-lesnar",
     "publishAt": "2026-08-11T08:00:00-06:00",
-    "dateDisplay": "August 11, 1997",
+    "dateDisplay": "August 11, 2014",
     "timeDisplay": "8:00 AM MDT",
-    "title": "HBK Returns with Rick Rude",
-    "label": "Aug 11 - HBK Rick Rude",
-    "summary": "Shawn Michaels returned to Raw against Mankind and revealed Ravishing Rick Rude as his insurance policy.",
-    "image": "2026-08-11-08-hbk-returns-with-rick-rude.jpg",
-    "caption": "August 11, 1997: Shawn Michaels returned to Raw against Mankind and revealed Ravishing Rick Rude as his insurance policy. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 11 - HBK Rick Rude. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
-    "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+    "title": "John Cena Calls Out Brock Lesnar",
+    "label": "Aug 11 - Cena calls Lesnar",
+    "summary": "John Cena called out Brock Lesnar on Raw as their WWE World Heavyweight Championship rematch at SummerSlam approached.",
+    "image": "2026-08-11-08-cena-lesnar-raw-2014.png",
+    "caption": "August 11, 2014: John Cena called out Brock Lesnar on Raw before their WWE World Heavyweight Championship rematch at SummerSlam. Watch in bio: Aug 11 - Cena calls Lesnar. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "John Cena calls out Brock Lesnar: Raw, Aug. 11, 2014",
+        "url": "https://www.youtube.com/watch?v=b8ch_Dh-9aU",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
     ],
-    "promotion": "WWF",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
+    "sources": [
+      "WWE",
+      "Official YouTube watch page"
+    ],
+    "promotion": "WWE",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "imageSelectionType": "original_ai_editorial_illustration",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260811-08-hbk-returns-with-rick-rude",
+      "title": "HBK Returns with Rick Rude",
+      "dateDisplay": "August 11, 1997",
+      "summary": "Shawn Michaels returned to Raw against Mankind and revealed Ravishing Rick Rude as his insurance policy.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260811-14-the-fiend-s-in-ring-debut",
@@ -4086,26 +4269,41 @@ window.TDWH_VIDEO_POSTS = [
     "visualQualityStatus": "upgraded_approved"
   },
   {
-    "id": "20260812-08-curt-hennig-and-owen-hart-debut",
+    "id": "20260812-08-cm-punk-traps-heyman",
     "publishAt": "2026-08-12T08:00:00-06:00",
-    "dateDisplay": "August 12, 1988",
+    "dateDisplay": "August 12, 2013",
     "timeDisplay": "8:00 AM MDT",
-    "title": "Curt Hennig and Owen Hart Debut",
-    "label": "Aug 12 - Hennig Owen debuts",
-    "summary": "Curt Hennig and Owen Hart, wrestling as The Blue Blazer, made WWF television debuts on the same date.",
-    "image": "2026-08-12-08-curt-hennig-and-owen-hart-debut.jpg",
-    "caption": "August 12, 1988: Curt Hennig and Owen Hart, wrestling as The Blue Blazer, made WWF television debuts on the same date. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 12 - Hennig Owen debuts. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
-    "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+    "title": "CM Punk Sets a Trap for Paul Heyman",
+    "label": "Aug 12 - Punk's trap",
+    "summary": "CM Punk tried to lure Paul Heyman into a trap on Raw, but Brock Lesnar struck to escalate their SummerSlam fight.",
+    "image": "2026-08-12-08-cm-punk-heyman-lesnar-raw-2013.png",
+    "caption": "August 12, 2013: CM Punk tried to lure Paul Heyman into a trap on Raw, but Brock Lesnar struck to escalate their SummerSlam fight. Watch in bio: Aug 12 - Punk's trap. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "CM Punk sets a trap for Paul Heyman and Brock Lesnar: Raw, Aug. 12, 2013",
+        "url": "https://www.youtube.com/watch?v=7GZAh-lOpNw",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
     ],
-    "promotion": "WWF",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
+    "sources": [
+      "WWE",
+      "Official YouTube watch page"
+    ],
+    "promotion": "WWE",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "imageSelectionType": "original_ai_editorial_illustration",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260812-08-curt-hennig-and-owen-hart-debut",
+      "title": "Curt Hennig and Owen Hart Debut",
+      "dateDisplay": "August 12, 1988",
+      "summary": "Curt Hennig and Owen Hart, wrestling as The Blue Blazer, made WWF television debuts on the same date.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260812-14-raw-sets-up-summerslam-1996",
@@ -4117,7 +4315,14 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Shawn Michaels faced Owen Hart on Raw as WWF built toward Michaels defending against Vader at SummerSlam.",
     "image": "2026-08-12-14-raw-sets-up-summerslam-1996.jpg",
     "caption": "August 12, 1996: Shawn Michaels faced Owen Hart on Raw as WWF built toward Michaels defending against Vader at SummerSlam. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 12 - Raw 1996. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "Shawn Michaels vs. Owen Hart Title-vs-Title: Raw, Aug. 12, 1996",
+        "url": "https://www.youtube.com/watch?v=24fwUcV1yBI",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4126,30 +4331,44 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260812-20-kevin-steen-joins-wwe",
+    "id": "20260812-20-sasha-banks-returns-to-raw",
     "publishAt": "2026-08-12T20:00:00-06:00",
-    "dateDisplay": "August 12, 2014",
+    "dateDisplay": "August 12, 2019",
     "timeDisplay": "8:00 PM MDT",
-    "title": "Kevin Steen Joins WWE",
-    "label": "Aug 12 - Kevin Owens signs",
-    "summary": "WWE announced Kevin Steen as an NXT signing before he became Kevin Owens.",
-    "image": "2026-08-12-20-kevin-steen-joins-wwe.jpg",
-    "caption": "August 12, 2014: WWE announced Kevin Steen as an NXT signing before he became Kevin Owens. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 12 - Kevin Owens signs. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "title": "Sasha Banks Returns to Raw",
+    "label": "Aug 12 - Sasha returns",
+    "summary": "Sasha Banks returned to Raw and attacked Natalya and Becky Lynch, reigniting the Raw Women’s title picture.",
+    "image": "2026-08-12-20-sasha-banks-return-raw-2019.png",
+    "caption": "August 12, 2019: Sasha Banks returned to Raw and attacked Natalya and Becky Lynch, reigniting the Raw Women’s title picture. Watch in bio: Aug 12 - Sasha returns. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "Sasha Banks returns to Raw: Raw, Aug. 12, 2019",
+        "url": "https://www.youtube.com/watch?v=7Vx8LNVFOpY",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "WWE",
+      "Official YouTube watch page"
     ],
     "promotion": "WWE",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "imageSelectionType": "original_ai_editorial_illustration",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260812-20-kevin-steen-joins-wwe",
+      "title": "Kevin Steen Joins WWE",
+      "dateDisplay": "August 12, 2014",
+      "summary": "WWE announced Kevin Steen as an NXT signing before he became Kevin Owens.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260813-08-ecw-hardcore-heaven-1994",
@@ -4161,7 +4380,14 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "The first ECW Hardcore Heaven featured Terry Funk and Cactus Jack going to a no contest and the famous chair-throwing scene.",
     "image": "2026-08-13-08-ecw-hardcore-heaven-1994.jpg",
     "caption": "August 13, 1994: The first ECW Hardcore Heaven featured Terry Funk and Cactus Jack going to a no contest and the famous chair-throwing scene. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 13 - Hardcore Heaven 1994. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "STOP THE CHAIRS",
+        "url": "https://www.youtube.com/watch?v=SIueUiSYuzo",
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4170,8 +4396,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260813-14-wcw-new-blood-rising",
@@ -4212,7 +4437,14 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Jim “The Anvil” Neidhart, Hart Foundation powerhouse and WWE Hall of Famer, died on this date in 2018.",
     "image": "2026-08-13-20-jim-neidhart-remembered.jpg",
     "caption": "August 13, 2018: Jim “The Anvil” Neidhart, Hart Foundation powerhouse and WWE Hall of Famer, died on this date in 2018. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 13 - Jim Neidhart. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Wikimedia portrait; formatted locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "Celebrating the life and career of Jim ‘The Anvil’ Neidhart",
+        "url": "https://www.youtube.com/watch?v=oqUTdSDB5oY",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4220,8 +4452,7 @@ window.TDWH_VIDEO_POSTS = [
     "promotion": "WWE",
     "imageSource": "Local Wikimedia portrait source: portrait-jim-neidhart.jpg",
     "imageSelectionType": "person_portrait",
-    "visualQualityStatus": "upgraded_approved",
-    "videoStatus": "unavailable_after_verification"
+    "visualQualityStatus": "upgraded_approved"
   },
   {
     "id": "20260814-08-summerslam-2011",
@@ -4233,7 +4464,14 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "CM Punk defeated John Cena to become undisputed WWE Champion before Alberto Del Rio cashed in Money in the Bank.",
     "image": "2026-08-14-08-summerslam-2011.jpg",
     "caption": "August 14, 2011: CM Punk defeated John Cena to become undisputed WWE Champion before Alberto Del Rio cashed in Money in the Bank. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 14 - SummerSlam 2011. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH - Orton vs. Christian - World Heavyweight Title No Holds Barred Match: SummerSlam 2011",
+        "url": "https://www.youtube.com/watch?v=6i6Zd49Bw_0",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4242,8 +4480,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260814-14-akira-tozawa-wins-cruiserweight-title",
@@ -4384,26 +4621,41 @@ window.TDWH_VIDEO_POSTS = [
     "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260816-08-first-live-smackdown",
+    "id": "20260816-08-sheamus-vs-zack-ryder",
     "publishAt": "2026-08-16T08:00:00-06:00",
-    "dateDisplay": "August 16, 2001",
+    "dateDisplay": "August 16, 2010",
     "timeDisplay": "8:00 AM MDT",
-    "title": "First Live SmackDown",
-    "label": "Aug 16 - Live SmackDown",
-    "summary": "WWE presented the first live SmackDown, introducing the fist stage and a new presentation for the UPN era.",
-    "image": "2026-08-16-08-first-live-smackdown.jpg",
-    "caption": "August 16, 2001: WWE presented the first live SmackDown, introducing the fist stage and a new presentation for the UPN era. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 16 - Live SmackDown. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "title": "Sheamus vs. Zack Ryder: WWE Title",
+    "label": "Aug 16 - Sheamus vs Ryder",
+    "summary": "Sheamus retained the WWE Championship against Zack Ryder in eleven seconds on Raw.",
+    "image": "2026-08-16-08-sheamus-zack-ryder-raw-2010.png",
+    "caption": "August 16, 2010: Sheamus retained the WWE Championship against Zack Ryder in just eleven seconds on Raw. Full match in bio: Aug 16 - Sheamus vs Ryder. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "Sheamus vs. Zack Ryder | WWE Championship Match: Raw, Aug. 16, 2010",
+        "url": "https://www.youtube.com/watch?v=QtP4bbql1BA",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "WWE",
+      "Official YouTube watch page"
     ],
     "promotion": "WWE",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "imageSelectionType": "original_ai_editorial_illustration",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260816-08-first-live-smackdown",
+      "title": "First Live SmackDown",
+      "dateDisplay": "August 16, 2001",
+      "summary": "WWE presented the first live SmackDown, introducing the fist stage and a new presentation for the UPN era.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260816-14-orton-is-kicked-out-of-evolution",
@@ -4415,7 +4667,14 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "One night after winning the world title, Randy Orton was turned on by Evolution on Raw.",
     "image": "2026-08-16-14-orton-is-kicked-out-of-evolution.jpg",
     "caption": "August 16, 2004: One night after winning the world title, Randy Orton was turned on by Evolution on Raw. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 16 - Orton Evolution. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "Evolution turns on Randy Orton: Raw, Aug. 16, 2004",
+        "url": "https://www.youtube.com/watch?v=bOV_2JVJlao",
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4424,8 +4683,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260816-20-tna-hard-justice-2009",
@@ -4455,26 +4713,41 @@ window.TDWH_VIDEO_POSTS = [
     "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260817-08-ecw-hardcore-heaven-1997",
+    "id": "20260817-08-undertaker-crashes-lesnar-homecoming",
     "publishAt": "2026-08-17T08:00:00-06:00",
-    "dateDisplay": "August 17, 1997",
+    "dateDisplay": "August 17, 2015",
     "timeDisplay": "8:00 AM MDT",
-    "title": "ECW Hardcore Heaven 1997",
-    "label": "Aug 17 - Hardcore Heaven 1997",
-    "summary": "Shane Douglas defeated Terry Funk and Sabu to win the ECW World Heavyweight Championship.",
-    "image": "2026-08-17-08-ecw-hardcore-heaven-1997.jpg",
-    "caption": "August 17, 1997: Shane Douglas defeated Terry Funk and Sabu to win the ECW World Heavyweight Championship. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 17 - Hardcore Heaven 1997. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
-    "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+    "title": "Undertaker Crashes Lesnar’s Homecoming",
+    "label": "Aug 17 - Undertaker Lesnar",
+    "summary": "The Undertaker crashed Brock Lesnar’s Raw homecoming before their SummerSlam rematch.",
+    "image": "2026-08-17-08-undertaker-lesnar-raw-2015.png",
+    "caption": "August 17, 2015: The Undertaker crashed Brock Lesnar’s Raw homecoming before their SummerSlam rematch. Watch in bio: Aug 17 - Undertaker Lesnar. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "The Undertaker crashes Brock Lesnar's homecoming: Raw, Aug. 17, 2015",
+        "url": "https://www.youtube.com/watch?v=lb4r4KTkfyc",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
     ],
-    "promotion": "ECW",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
+    "sources": [
+      "WWE",
+      "Official YouTube watch page"
+    ],
+    "promotion": "WWE",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "imageSelectionType": "original_ai_editorial_illustration",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260817-08-ecw-hardcore-heaven-1997",
+      "title": "ECW Hardcore Heaven 1997",
+      "dateDisplay": "August 17, 1997",
+      "summary": "Shane Douglas defeated Terry Funk and Sabu to win the ECW World Heavyweight Championship.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260817-14-summerslam-2008-hell-in-a-cell",
@@ -4513,7 +4786,14 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Brock Lesnar dominated John Cena at SummerSlam 2014 to win the WWE World Heavyweight Championship.",
     "image": "2026-08-17-20-suplex-city-begins.jpg",
     "caption": "August 17, 2014: Brock Lesnar dominated John Cena at SummerSlam 2014 to win the WWE World Heavyweight Championship. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 17 - Suplex City. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH - John Cena vs. Brock Lesnar - WWE Title Match: SummerSlam 2014",
+        "url": "https://www.youtube.com/watch?v=7tVUA3DzhF4",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4522,8 +4802,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260818-08-shockmaster-debuts",
@@ -4591,7 +4870,20 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Daniel Bryan defeated John Cena at SummerSlam 2013 before Randy Orton cashed in Money in the Bank.",
     "image": "2026-08-18-20-daniel-bryan-wins-then-loses.jpg",
     "caption": "August 18, 2013: Daniel Bryan defeated John Cena at SummerSlam 2013 before Randy Orton cashed in Money in the Bank. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 18 - Bryan Orton cash-in. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH - John Cena vs. Daniel Bryan – WWE Title Match: SummerSlam 2013",
+        "url": "https://www.youtube.com/watch?v=2oR_1WBmkHM",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      },
+      {
+        "title": "Triple H attacks Daniel Bryan and sets up Randy Orton: SummerSlam 2013",
+        "url": "https://www.youtube.com/watch?v=Y3WF7hA1tD8",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4600,8 +4892,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260819-08-summerslam-2001",
@@ -4633,26 +4924,41 @@ window.TDWH_VIDEO_POSTS = [
     "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260819-14-hardcore-title-24-7-rule-ends",
+    "id": "20260819-14-jeff-hardy-vs-rob-van-dam-ladder-match",
     "publishAt": "2026-08-19T14:00:00-06:00",
-    "dateDisplay": "August 19, 2002",
+    "dateDisplay": "August 19, 2001",
     "timeDisplay": "2:00 PM MDT",
-    "title": "Hardcore Title 24/7 Rule Ends",
-    "label": "Aug 19 - Hardcore Title ends",
-    "summary": "WWE discontinued the 24/7 rule for the Hardcore Championship, shortly before the title was unified.",
-    "image": "2026-08-19-14-hardcore-title-24-7-rule-ends.jpg",
-    "caption": "August 19, 2002: WWE discontinued the 24/7 rule for the Hardcore Championship, shortly before the title was unified. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 19 - Hardcore Title ends. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
-    "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+    "title": "Jeff Hardy vs. Rob Van Dam: Hardcore Ladder Match",
+    "label": "Aug 19 - Hardy vs RVD",
+    "summary": "Jeff Hardy defeated Rob Van Dam in a ladder match at SummerSlam to win the WWF Hardcore Championship.",
+    "image": "2026-08-19-14-jeff-hardy-rob-van-dam-ladder-match.png",
+    "caption": "August 19, 2001: Jeff Hardy defeated Rob Van Dam in a ladder match at SummerSlam to win the WWF Hardcore Championship. Full match in bio: Aug 19 - Hardy vs RVD. #WWF #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "FULL MATCH: Jeff Hardy vs. Rob Van Dam | Hardcore Title Ladder Match: SummerSlam 2001",
+        "url": "https://www.youtube.com/watch?v=Q_F3EHER8o8",
+        "provider": "YouTube",
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
     ],
-    "promotion": "WWE",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
+    "sources": [
+      "WWE Vault",
+      "Official YouTube watch page"
+    ],
+    "promotion": "WWF",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "imageSelectionType": "original_ai_editorial_illustration",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260819-14-hardcore-title-24-7-rule-ends",
+      "title": "Hardcore Title 24/7 Rule Ends",
+      "dateDisplay": "August 19, 2002",
+      "summary": "WWE discontinued the 24/7 rule for the Hardcore Championship, shortly before the title was unified.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260819-20-summerslam-2018",
@@ -4664,7 +4970,20 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Roman Reigns defeated Brock Lesnar for the Universal Championship and Ronda Rousey won the Raw Women’s Title.",
     "image": "2026-08-19-20-summerslam-2018.jpg",
     "caption": "August 19, 2018: Roman Reigns defeated Brock Lesnar for the Universal Championship and Ronda Rousey won the Raw Women’s Title. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 19 - SummerSlam 2018. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH - Brock Lesnar vs. Roman Reigns - Universal Title Match: SummerSlam 2018",
+        "url": "https://www.youtube.com/watch?v=nSNkwIvlWJU",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      },
+      {
+        "title": "FULL MATCH - Alexa Bliss vs. Ronda Rousey - Raw Women’s Title Match: SummerSlam 2018",
+        "url": "https://www.youtube.com/watch?v=PZTeJWQu0SE",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4673,8 +4992,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260820-08-austin-appreciation-night",
@@ -4686,7 +5004,14 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Kurt Angle drove a milk truck to Raw and doused The Alliance during Austin Appreciation Night.",
     "image": "2026-08-20-08-austin-appreciation-night.jpg",
     "caption": "August 20, 2001: Kurt Angle drove a milk truck to Raw and doused The Alliance during Austin Appreciation Night. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 20 - Milk truck. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL SEGMENT: Kurt Angle enrages ‘Stone Cold’ and The Alliance with a milk bash: Raw, Aug. 20, 2001",
+        "url": "https://www.youtube.com/watch?v=TQbwPZRFEcA",
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4695,8 +5020,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260820-14-summerslam-2006",
@@ -4708,7 +5032,14 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Edge retained the WWE Championship against John Cena in Boston at SummerSlam.",
     "image": "2026-08-20-14-summerslam-2006.jpg",
     "caption": "August 20, 2006: Edge retained the WWE Championship against John Cena in Boston at SummerSlam. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 20 - SummerSlam 2006. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH - D-Generation X vs. Mr. McMahon & Shane McMahon: SummerSlam 2006",
+        "url": "https://www.youtube.com/watch?v=H_3os9D7NYI",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4717,8 +5048,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260820-20-takeover-brooklyn-ii",
@@ -4748,26 +5078,41 @@ window.TDWH_VIDEO_POSTS = [
     "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260821-08-lita-wins-the-women-s-title",
+    "id": "20260821-08-john-cena-vs-chris-jericho",
     "publishAt": "2026-08-21T08:00:00-06:00",
-    "dateDisplay": "August 21, 2000",
+    "dateDisplay": "August 21, 2005",
     "timeDisplay": "8:00 AM MDT",
-    "title": "Lita Wins the Women’s Title",
-    "label": "Aug 21 - Lita title win",
-    "summary": "Lita defeated Stephanie McMahon-Helmsley to win the WWE Women’s Championship in a Raw main event.",
-    "image": "2026-08-21-08-lita-wins-the-women-s-title.jpg",
-    "caption": "August 21, 2000: Lita defeated Stephanie McMahon-Helmsley to win the WWE Women’s Championship in a Raw main event. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 21 - Lita title win. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
-    "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+    "title": "John Cena vs. Chris Jericho: WWE Title",
+    "label": "Aug 21 - Cena vs Jericho",
+    "summary": "John Cena retained the WWE Championship against Chris Jericho at SummerSlam.",
+    "image": "2026-08-21-08-cena-jericho-summerslam-2005.png",
+    "caption": "August 21, 2005: John Cena retained the WWE Championship against Chris Jericho at SummerSlam. Full match in bio: Aug 21 - Cena vs Jericho. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "FULL MATCH: John Cena vs. Chris Jericho — WWE Title Match: SummerSlam 2005",
+        "url": "https://www.youtube.com/watch?v=m36vzeTh7k0",
+        "provider": "YouTube",
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
     ],
-    "promotion": "WWF",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
+    "sources": [
+      "WWE Vault",
+      "Official YouTube watch page"
+    ],
+    "promotion": "WWE",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "imageSelectionType": "original_ai_editorial_illustration",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260821-08-lita-wins-the-women-s-title",
+      "title": "Lita Wins the Women’s Title",
+      "dateDisplay": "August 21, 2000",
+      "summary": "Lita defeated Stephanie McMahon-Helmsley to win the WWE Women’s Championship in a Raw main event.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260821-14-hogan-vs-michaels",
@@ -4862,7 +5207,14 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Bayley defeated Sasha Banks at NXT TakeOver: Brooklyn in a landmark NXT Women’s Championship match.",
     "image": "2026-08-22-14-bayley-vs-sasha-at-takeover.jpg",
     "caption": "August 22, 2015: Bayley defeated Sasha Banks at NXT TakeOver: Brooklyn in a landmark NXT Women’s Championship match. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 22 - Bayley Sasha. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH: Sasha Banks vs. Bayley — NXT Women’s Title Match: NXT TakeOver: Brooklyn",
+        "url": "https://www.youtube.com/watch?v=-qA9E1CHe_M",
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4871,29 +5223,44 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260822-20-the-usos-birthday",
+    "id": "20260822-20-jushin-liger-wwe-debut",
     "publishAt": "2026-08-22T20:00:00-06:00",
-    "dateDisplay": "August 22, 1985",
+    "dateDisplay": "August 22, 2015",
     "timeDisplay": "8:00 PM MDT",
-    "title": "The Usos Birthday",
-    "label": "Aug 22 - The Usos",
-    "summary": "Jimmy and Jey Uso were born, later becoming one of WWE’s defining tag teams of the modern era.",
-    "image": "2026-08-22-20-the-usos-birthday.jpg",
-    "caption": "August 22, 1985: Jimmy and Jey Uso were born, later becoming one of WWE’s defining tag teams of the modern era. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 22 - The Usos. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Wikimedia portrait; formatted locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
-    "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+    "title": "Jushin Thunder Liger’s WWE Debut",
+    "label": "Aug 22 - Liger WWE debut",
+    "summary": "Jushin “Thunder” Liger made his WWE debut and defeated Tyler Breeze at NXT TakeOver: Brooklyn.",
+    "image": "2026-08-22-20-jushin-liger-wwe-debut-2015.png",
+    "caption": "August 22, 2015: Jushin “Thunder” Liger made his WWE debut and defeated Tyler Breeze at NXT TakeOver: Brooklyn. Watch in bio: Aug 22 - Liger WWE debut. #NXT #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "FULL EVENT: NXT TakeOver: Brooklyn – Bálor vs. Owens, Bayley vs. Banks, Jushin Liger vs. Breeze",
+        "url": "https://www.youtube.com/watch?v=mfItWOx0wbY",
+        "provider": "YouTube",
+        "sourceChannel": "WWE NXT",
+        "matchType": "event_exact"
+      }
     ],
-    "promotion": "WWE",
-    "imageSource": "Local Wikimedia portrait source: portrait-the-usos.jpg",
-    "imageSelectionType": "person_portrait",
+    "sources": [
+      "WWE NXT",
+      "Official YouTube watch page"
+    ],
+    "promotion": "NXT",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "imageSelectionType": "original_ai_editorial_illustration",
     "visualQualityStatus": "upgraded_approved",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260822-20-the-usos-birthday",
+      "title": "The Usos Birthday",
+      "dateDisplay": "August 22, 1985",
+      "summary": "Jimmy and Jey Uso were born, later becoming one of WWE’s defining tag teams of the modern era.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260823-08-summerslam-2009-punk-wins-the-tlc-match",
@@ -4956,13 +5323,19 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-08-23-20-roman-reigns-returns-at-summerslam.jpg",
     "imageSource": "Wikipedia/Wikimedia page: SummerSlam_(2020)",
     "caption": "August 23, 2020: Roman Reigns returned after The Fiend defeated Braun Strowman for the Universal Championship, attacking both men and beginning his path toward the Tribal Chief era. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 23 - Roman Reigns Returns at SummerSlam. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "Roman Reigns returns at SummerSlam 2020",
+        "url": "https://www.youtube.com/watch?v=OgaAgf8hU-8",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/shows/summerslam/2020",
       "https://www.cagematch.net/?id=1&nr=270280"
     ],
-    "promotion": "WWE",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWE"
   },
   {
     "id": "20260824-08-rocky-johnson-is-born",
@@ -4999,32 +5372,56 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-08-24-14-vince-mcmahon-is-born.jpg",
     "imageSource": "Wikipedia/Wikimedia page: Vince_McMahon",
     "caption": "August 24, 1945: Vince McMahon was born in Pinehurst, North Carolina. His national expansion of the WWF transformed the promotion and permanently changed the wrestling business. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 24 - Vince McMahon Is Born. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "Triple H & Stephanie lead the WWE Universe in ‘Happy Birthday’ to Mr. McMahon: Raw, Aug. 24, 2015",
+        "url": "https://www.youtube.com/watch?v=K_ko4byGqWs",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/superstars/mr-mcmahon",
       "https://thehistoryofwwe.com/"
     ],
-    "promotion": "WWE",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWE"
   },
   {
-    "id": "20260824-20-funaki-is-born",
+    "id": "20260824-20-mankind-vs-kane-hell-in-a-cell",
     "publishAt": "2026-08-24T20:00:00-06:00",
-    "dateDisplay": "August 24, 1968",
+    "dateDisplay": "August 24, 1998",
     "timeDisplay": "8:00 PM MDT",
-    "title": "Funaki Is Born",
-    "label": "Aug 24 - Funaki Is Born",
-    "summary": "Shoichi Funaki was born in Tokyo. He became a familiar WWF and WWE personality through Kaientai, a Cruiserweight Championship reign and a long tenure that extended behind the scenes.",
-    "image": "2026-08-24-20-funaki-is-born.jpg",
-    "imageSource": "Wikipedia/Wikimedia page: Shoichi_Funaki",
-    "caption": "August 24, 1968: Shoichi Funaki was born in Tokyo. He became a familiar WWF and WWE personality through Kaientai, a Cruiserweight Championship reign and a long tenure that extended behind the scenes. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 24 - Funaki Is Born. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
-    "sources": [
-      "https://www.wwe.com/superstars/funaki",
-      "https://www.cagematch.net/?id=2&nr=110"
+    "title": "Mankind vs. Kane: Hell in a Cell",
+    "label": "Aug 24 - Mankind vs Kane",
+    "summary": "Mankind and Kane fought to a no contest inside Hell in a Cell on Raw, with Steve Austin’s interference ending the match.",
+    "image": "2026-08-24-20-mankind-kane-hell-in-a-cell-1998.png",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "caption": "August 24, 1998: Mankind and Kane fought to a no contest inside Hell in a Cell on Raw when Steve Austin intervened. Full match in bio: Aug 24 - Mankind vs Kane. #WWF #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "FULL MATCH - Mankind vs. Kane – Hell in a Cell Match: Raw, Aug. 24, 1998",
+        "url": "https://www.youtube.com/watch?v=CL1w12camMQ",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
     ],
-    "promotion": "WWE",
-    "videoStatus": "unavailable_after_verification"
+    "sources": [
+      "WWE",
+      "Official YouTube watch page"
+    ],
+    "promotion": "WWF",
+    "imageSelectionType": "original_ai_editorial_illustration",
+    "visualQualityStatus": "upgraded_approved",
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260824-20-funaki-is-born",
+      "title": "Funaki Is Born",
+      "dateDisplay": "August 24, 1968",
+      "summary": "Shoichi Funaki was born in Tokyo. He became a familiar WWF and WWE personality through Kaientai, a Cruiserweight Championship reign and a long tenure that extended behind the scenes.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260825-08-brock-lesnar-wins-the-wwe-championship",
@@ -5153,23 +5550,41 @@ window.TDWH_VIDEO_POSTS = [
     "promotion": "WWE"
   },
   {
-    "id": "20260826-20-mysterio-returns-against-chavo",
+    "id": "20260826-20-batista-vs-great-khali",
     "publishAt": "2026-08-26T20:00:00-06:00",
     "dateDisplay": "August 26, 2007",
     "timeDisplay": "8:00 PM MDT",
-    "title": "Mysterio Returns Against Chavo",
-    "label": "Aug 26 - Mysterio Returns Against Chavo",
-    "summary": "Rey Mysterio returned from knee surgery and defeated Chavo Guerrero at SummerSlam 2007, nearly a year after Guerrero had injured him in storyline.",
-    "image": "2026-08-26-20-mysterio-returns-against-chavo.jpg",
-    "imageSource": "Wikipedia/Wikimedia page: SummerSlam_(2007)",
-    "caption": "August 26, 2007: Rey Mysterio returned from knee surgery and defeated Chavo Guerrero at SummerSlam 2007, nearly a year after Guerrero had injured him in storyline. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 26 - Mysterio Returns Against Chavo. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "title": "Batista vs. The Great Khali: World Heavyweight Title",
+    "label": "Aug 26 - Batista vs Khali",
+    "summary": "Batista defeated The Great Khali by disqualification at SummerSlam, but Khali retained the World Heavyweight Championship.",
+    "image": "2026-08-26-20-batista-great-khali-summerslam-2007.png",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "caption": "August 26, 2007: Batista beat The Great Khali by disqualification at SummerSlam, but Khali retained the World Heavyweight Championship. Full match in bio: Aug 26 - Batista vs Khali. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "FULL MATCH - The Great Khali vs. Batista - World Heavyweight Title Match: SummerSlam 2007",
+        "url": "https://www.youtube.com/watch?v=L9dwkl4WUCk",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
-      "https://www.wwe.com/shows/summerslam/2007",
-      "https://www.cagematch.net/?id=1&nr=13122"
+      "WWE",
+      "Official YouTube watch page"
     ],
     "promotion": "WWE",
-    "videoStatus": "unavailable_after_verification"
+    "imageSelectionType": "original_ai_editorial_illustration",
+    "visualQualityStatus": "upgraded_approved",
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260826-20-mysterio-returns-against-chavo",
+      "title": "Mysterio Returns Against Chavo",
+      "dateDisplay": "August 26, 2007",
+      "summary": "Rey Mysterio returned from knee surgery and defeated Chavo Guerrero at SummerSlam 2007, nearly a year after Guerrero had injured him in storyline.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260827-08-the-first-official-tlc-match",
@@ -5182,13 +5597,19 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-08-27-08-the-first-official-tlc-match.jpg",
     "imageSource": "Wikipedia/Wikimedia page: SummerSlam_(2000)",
     "caption": "August 27, 2000: Edge and Christian retained the WWF Tag Team Championship against The Hardy Boyz and The Dudley Boyz in the first match officially promoted as Tables, Ladders and Chairs. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 27 - The First Official TLC Match. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. #WWF #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH: Hardy Boyz vs. Dudley Boyz vs. Edge & Christian — TLC: SummerSlam 2000",
+        "url": "https://www.youtube.com/watch?v=6LTEb3gvRNU",
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/shows/summerslam/2000",
       "https://thehistoryofwwe.com/wwf-results-2000/"
     ],
-    "promotion": "WWF",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWF"
   },
   {
     "id": "20260827-14-the-rock-retains-in-a-triple-threat",
@@ -5255,13 +5676,19 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-08-28-08-the-mega-maniacs-defeat-savage-and-zeus.jpg",
     "imageSource": "Wikipedia/Wikimedia page: SummerSlam_(1989)",
     "caption": "August 28, 1989: Hulk Hogan and Brutus Beefcake defeated Randy Savage and Zeus in the SummerSlam 1989 main event, extending the rivalry built around the film No Holds Barred. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 28 - The Mega-Maniacs Defeat Savage and Zeu. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. #WWF #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH: Hulk Hogan & Brutus Beefcake vs. Randy Savage & Zeus: SummerSlam 1989",
+        "url": "https://www.youtube.com/watch?v=OXZo-Fs3NPU",
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/shows/summerslam/1989",
       "https://thehistoryofwwe.com/wwf-results-1989/"
     ],
-    "promotion": "WWF",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWF"
   },
   {
     "id": "20260828-14-warrior-regains-the-intercontinental-title",
@@ -5298,13 +5725,19 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-08-28-20-the-brain-busters-retain.jpg",
     "imageSource": "Wikipedia/Wikimedia page: SummerSlam_(1989)",
     "caption": "August 28, 1989: Arn Anderson and Tully Blanchard defeated The Hart Foundation to retain the WWF Tag Team Championship at SummerSlam 1989. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 28 - The Brain Busters Retain. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWF #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL EVENT: SummerSlam 1989",
+        "url": "https://www.youtube.com/watch?v=9CYO_4qQNLY",
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/shows/summerslam/1989",
       "https://www.cagematch.net/?id=1&nr=1767"
     ],
-    "promotion": "WWF",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWF"
   },
   {
     "id": "20260829-08-the-first-summerslam",
@@ -5443,13 +5876,19 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-08-30-20-roman-reigns-wins-at-payback.jpg",
     "imageSource": "Wikipedia/Wikimedia page: Payback_(2020)",
     "caption": "August 30, 2020: Roman Reigns defeated The Fiend and Braun Strowman in a no-holds-barred triple threat at Payback 2020 to win the Universal Championship. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 30 - Roman Reigns Wins at Payback. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH: The Fiend vs. Roman Reigns vs. Braun Strowman — Universal Title: Payback 2020",
+        "url": "https://www.youtube.com/watch?v=YftANX45C6Q",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/shows/wwepayback/2020",
       "https://www.cagematch.net/?id=1&nr=286620"
     ],
-    "promotion": "WWE",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWE"
   },
   {
     "id": "20260831-08-walter-and-tyler-bate-headline-cardiff",
@@ -5486,32 +5925,56 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-08-31-14-jeff-hardy-is-born.jpg",
     "imageSource": "Wikipedia/Wikimedia page: Jeff_Hardy",
     "caption": "August 31, 1977: Jeff Hardy was born in Cameron, North Carolina. His career spans landmark ladder matches, multiple tag title reigns and world championships in WWE and TNA. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 31 - Jeff Hardy Is Born. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "Superstars imitate Jeff Hardy for his birthday",
+        "url": "https://www.youtube.com/watch?v=_zh35c8JPlE",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/superstars/jeff-hardy",
       "https://www.cagematch.net/?id=2&nr=897"
     ],
-    "promotion": "WWE",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWE"
   },
   {
-    "id": "20260831-20-mickie-james-is-born",
+    "id": "20260831-20-cesaro-vs-ilja-dragunov",
     "publishAt": "2026-08-31T20:00:00-06:00",
-    "dateDisplay": "August 31, 1979",
+    "dateDisplay": "August 31, 2019",
     "timeDisplay": "8:00 PM MDT",
-    "title": "Mickie James Is Born",
-    "label": "Aug 31 - Mickie James Is Born",
-    "summary": "Mickie James was born in Richmond, Virginia. She became a multiple-time WWE Women's Champion and later a central figure in TNA's Knockouts division.",
-    "image": "2026-08-31-20-mickie-james-is-born.jpg",
-    "imageSource": "Wikipedia/Wikimedia page: Mickie_James",
-    "caption": "August 31, 1979: Mickie James was born in Richmond, Virginia. She became a multiple-time WWE Women's Champion and later a central figure in TNA's Knockouts division. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 31 - Mickie James Is Born. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
-    "sources": [
-      "https://www.wwe.com/superstars/mickie-james",
-      "https://www.cagematch.net/?id=2&nr=919"
+    "title": "Cesaro vs. Ilja Dragunov",
+    "label": "Aug 31 - Cesaro vs Ilja",
+    "summary": "Cesaro faced Ilja Dragunov at NXT UK TakeOver: Cardiff in a hard-hitting showcase match.",
+    "image": "2026-08-31-20-cesaro-ilja-dragunov-cardiff-2019.png",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "caption": "August 31, 2019: Cesaro and Ilja Dragunov delivered a hard-hitting showcase at NXT UK TakeOver: Cardiff. Watch in bio: Aug 31 - Cesaro vs Ilja. #NXTUK #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "A never-ending Cesaro Swing leaves Dragunov dazed: NXT UK TakeOver: Cardiff",
+        "url": "https://www.youtube.com/watch?v=qej8W8u9jCU",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "highlight_exact"
+      }
     ],
-    "promotion": "WWE",
-    "videoStatus": "unavailable_after_verification"
+    "sources": [
+      "WWE",
+      "Official YouTube watch page"
+    ],
+    "promotion": "NXT UK",
+    "imageSelectionType": "original_ai_editorial_illustration",
+    "visualQualityStatus": "upgraded_approved",
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260831-20-mickie-james-is-born",
+      "title": "Mickie James Is Born",
+      "dateDisplay": "August 31, 1979",
+      "summary": "Mickie James was born in Richmond, Virginia. She became a multiple-time WWE Women's Champion and later a central figure in TNA's Knockouts division.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260901-08-bam-bam-bigelow-is-born",
@@ -5538,23 +6001,41 @@ window.TDWH_VIDEO_POSTS = [
     "promotion": "WWF"
   },
   {
-    "id": "20260901-14-the-patriot-pins-bret-hart",
+    "id": "20260901-14-ethan-page-vs-joe-hendry",
     "publishAt": "2026-09-01T14:00:00-06:00",
-    "dateDisplay": "September 1, 1997",
+    "dateDisplay": "September 1, 2024",
     "timeDisplay": "2:00 PM MDT",
-    "title": "The Patriot Pins Bret Hart",
-    "label": "Sep 1 - The Patriot Pins Bret Hart",
-    "summary": "The Patriot defeated WWF Champion Bret Hart in a non-title match on Raw, earning momentum toward their championship match at Ground Zero.",
-    "image": "2026-09-01-14-the-patriot-pins-bret-hart.jpg",
-    "imageSource": "Wikipedia/Wikimedia page: The_Patriot_(wrestler)",
-    "caption": "September 1, 1997: The Patriot defeated WWF Champion Bret Hart in a non-title match on Raw, earning momentum toward their championship match at Ground Zero. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Sep 1 - The Patriot Pins Bret Hart. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWF #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
-    "sources": [
-      "https://thehistoryofwwe.com/wwf-results-1997/",
-      "https://www.cagematch.net/?id=1&nr=3557"
+    "title": "Ethan Page vs. Joe Hendry: NXT Title",
+    "label": "Sep 1 - Page vs Hendry",
+    "summary": "Ethan Page retained the NXT Championship against Joe Hendry at NXT No Mercy.",
+    "image": "2026-09-01-14-ethan-page-joe-hendry-no-mercy-2024.png",
+    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
+    "caption": "September 1, 2024: Ethan Page retained the NXT Championship against Joe Hendry at NXT No Mercy. Watch in bio: Sep 1 - Page vs Hendry. #NXT #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "Ethan Page vs. Joe Hendry - NXT Title Match: No Mercy 2024 highlights",
+        "url": "https://www.youtube.com/watch?v=rOBPHEkKzyU",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "highlight_exact"
+      }
     ],
-    "promotion": "WWF",
-    "videoStatus": "unavailable_after_verification"
+    "sources": [
+      "WWE",
+      "Official YouTube watch page"
+    ],
+    "promotion": "NXT",
+    "imageSelectionType": "original_ai_editorial_illustration",
+    "visualQualityStatus": "upgraded_approved",
+    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260901-14-the-patriot-pins-bret-hart",
+      "title": "The Patriot Pins Bret Hart",
+      "dateDisplay": "September 1, 1997",
+      "summary": "The Patriot defeated WWF Champion Bret Hart in a non-title match on Raw, earning momentum toward their championship match at Ground Zero.",
+      "status": "unavailable_after_verification"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260901-20-all-in-proves-the-market-for-an-alternative",
@@ -5567,13 +6048,19 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-09-01-20-all-in-proves-the-market-for-an-alternative.jpg",
     "imageSource": "Wikipedia/Wikimedia page: All_In_(2018)",
     "caption": "September 1, 2018: The independently promoted All In sold out the Sears Centre and demonstrated substantial demand for major wrestling outside WWE, helping set the stage for AEW. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Sep 1 - All In Proves the Market for an Altern. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. #Independent #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "Backstage At All In",
+        "url": "https://www.youtube.com/watch?v=CSQdnl4n6CY",
+        "sourceChannel": "Being The Elite",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.cagematch.net/?id=1&nr=200792",
       "https://www.njpw1972.com/34752"
     ],
-    "promotion": "Independent",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "Independent"
   },
   {
     "id": "20260902-08-triple-h-is-awarded-the-world-heavyweight-title",

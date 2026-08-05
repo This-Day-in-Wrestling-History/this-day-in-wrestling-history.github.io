@@ -424,24 +424,6 @@
     "verified": true,
     "status": "verified"
   },
-  "20260805-20-wwe-talent-releases-2011": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "Focused recovery search found contemporary articles and later references confirming the August 5, 2011 releases, but no public direct YouTube watch page whose title and context genuinely cover that exact release event."
-  },
-  "20260806-08-hogan-s-last-wwf-match-until-2002": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "Held for date review: the matching King of the Ring 1993 footage is from June 13, 1993, not August 6, so it cannot safely support this day-in-history slot."
-  },
-  "20260806-14-tajiri-wins-light-heavyweight-gold": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
   "20260806-20-william-regal-becomes-raw-gm": {
     "videos": [
       {
@@ -455,12 +437,6 @@
     ],
     "verified": true,
     "status": "verified"
-  },
-  "20260807-08-ddp-and-kanyon-win-wwf-tag-titles": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260807-14-brothers-of-destruction-win-wcw-gold": {
     "videos": [
@@ -476,29 +452,19 @@
     "verified": true,
     "status": "verified"
   },
-  "20260807-20-ron-killings-wins-nwa-world-title": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
-  "20260808-14-raw-builds-summerslam-1994": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
-  "20260809-08-hogan-regains-the-wcw-title": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
   "20260810-08-wcw-hog-wild-1996": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "V6JMAWVD76Y",
+        "videoTitle": "FULL MATCH: The Giant vs. Hollywood Hogan | WCW Title Match: Hog Wild 1996",
+        "url": "https://www.youtube.com/watch?v=V6JMAWVD76Y",
+        "verified": true,
+        "sourceChannel": "WCW",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260810-14-tna-hard-justice-2008": {
     "videos": [
@@ -515,16 +481,18 @@
     "status": "verified"
   },
   "20260810-20-nxt-takeover-toronto-2019": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
-  "20260811-08-hbk-returns-with-rick-rude": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "wK8bhsVVxCY",
+        "videoTitle": "FULL EVENT: NXT TakeOver: Toronto 2019 | Cole vs. Gargano; Baszler vs. Yim",
+        "url": "https://www.youtube.com/watch?v=wK8bhsVVxCY",
+        "verified": true,
+        "sourceChannel": "WWE NXT",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260811-20-hulk-hogan-birthday": {
     "videos": [
@@ -540,29 +508,33 @@
     "verified": true,
     "status": "verified"
   },
-  "20260812-08-curt-hennig-and-owen-hart-debut": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
   "20260812-14-raw-sets-up-summerslam-1996": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
-  "20260812-20-kevin-steen-joins-wwe": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "24fwUcV1yBI",
+        "videoTitle": "Shawn Michaels vs. Owen Hart Title-vs-Title: Raw, Aug. 12, 1996",
+        "url": "https://www.youtube.com/watch?v=24fwUcV1yBI",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260813-08-ecw-hardcore-heaven-1994": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "SIueUiSYuzo",
+        "videoTitle": "STOP THE CHAIRS",
+        "url": "https://www.youtube.com/watch?v=SIueUiSYuzo",
+        "verified": true,
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260813-14-wcw-new-blood-rising": {
     "videos": [
@@ -579,16 +551,32 @@
     "status": "verified"
   },
   "20260813-20-jim-neidhart-remembered": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "oqUTdSDB5oY",
+        "videoTitle": "Celebrating the life and career of Jim ‘The Anvil’ Neidhart",
+        "url": "https://www.youtube.com/watch?v=oqUTdSDB5oY",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260814-08-summerslam-2011": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "6i6Zd49Bw_0",
+        "videoTitle": "FULL MATCH - Orton vs. Christian - World Heavyweight Title No Holds Barred Match: SummerSlam 2011",
+        "url": "https://www.youtube.com/watch?v=6i6Zd49Bw_0",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260814-20-kofi-kingston-birthday": {
     "videos": [
@@ -618,29 +606,33 @@
     "verified": true,
     "status": "verified"
   },
-  "20260816-08-first-live-smackdown": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
   "20260816-14-orton-is-kicked-out-of-evolution": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
-  "20260817-08-ecw-hardcore-heaven-1997": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "bOV_2JVJlao",
+        "videoTitle": "Evolution turns on Randy Orton: Raw, Aug. 16, 2004",
+        "url": "https://www.youtube.com/watch?v=bOV_2JVJlao",
+        "verified": true,
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260817-20-suplex-city-begins": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "7tVUA3DzhF4",
+        "videoTitle": "FULL MATCH - John Cena vs. Brock Lesnar - WWE Title Match: SummerSlam 2014",
+        "url": "https://www.youtube.com/watch?v=7tVUA3DzhF4",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260818-14-summerslam-1996": {
     "videos": [
@@ -657,10 +649,26 @@
     "status": "verified"
   },
   "20260818-20-daniel-bryan-wins-then-loses": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "2oR_1WBmkHM",
+        "videoTitle": "FULL MATCH - John Cena vs. Daniel Bryan – WWE Title Match: SummerSlam 2013",
+        "url": "https://www.youtube.com/watch?v=2oR_1WBmkHM",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      },
+      {
+        "videoId": "Y3WF7hA1tD8",
+        "videoTitle": "Triple H attacks Daniel Bryan and sets up Randy Orton: SummerSlam 2013",
+        "url": "https://www.youtube.com/watch?v=Y3WF7hA1tD8",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260819-08-summerslam-2001": {
     "videos": [
@@ -676,35 +684,55 @@
     "verified": true,
     "status": "verified"
   },
-  "20260819-14-hardcore-title-24-7-rule-ends": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
   "20260819-20-summerslam-2018": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "nSNkwIvlWJU",
+        "videoTitle": "FULL MATCH - Brock Lesnar vs. Roman Reigns - Universal Title Match: SummerSlam 2018",
+        "url": "https://www.youtube.com/watch?v=nSNkwIvlWJU",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      },
+      {
+        "videoId": "PZTeJWQu0SE",
+        "videoTitle": "FULL MATCH - Alexa Bliss vs. Ronda Rousey - Raw Women’s Title Match: SummerSlam 2018",
+        "url": "https://www.youtube.com/watch?v=PZTeJWQu0SE",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260820-08-austin-appreciation-night": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "TQbwPZRFEcA",
+        "videoTitle": "FULL SEGMENT: Kurt Angle enrages ‘Stone Cold’ and The Alliance with a milk bash: Raw, Aug. 20, 2001",
+        "url": "https://www.youtube.com/watch?v=TQbwPZRFEcA",
+        "verified": true,
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260820-14-summerslam-2006": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
-  "20260821-08-lita-wins-the-women-s-title": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "H_3os9D7NYI",
+        "videoTitle": "FULL MATCH - D-Generation X vs. Mr. McMahon & Shane McMahon: SummerSlam 2006",
+        "url": "https://www.youtube.com/watch?v=H_3os9D7NYI",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260822-08-summerslam-1999": {
     "videos": [
@@ -721,16 +749,18 @@
     "status": "verified"
   },
   "20260822-14-bayley-vs-sasha-at-takeover": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
-  "20260822-20-the-usos-birthday": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "-qA9E1CHe_M",
+        "videoTitle": "FULL MATCH: Sasha Banks vs. Bayley — NXT Women’s Title Match: NXT TakeOver: Brooklyn",
+        "url": "https://www.youtube.com/watch?v=-qA9E1CHe_M",
+        "verified": true,
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260823-14-undertaker-defeats-brock-lesnar": {
     "videos": [
@@ -747,22 +777,32 @@
     "status": "verified"
   },
   "20260823-20-roman-reigns-returns-at-summerslam": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "OgaAgf8hU-8",
+        "videoTitle": "Roman Reigns returns at SummerSlam 2020",
+        "url": "https://www.youtube.com/watch?v=OgaAgf8hU-8",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260824-14-vince-mcmahon-is-born": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
-  "20260824-20-funaki-is-born": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "K_ko4byGqWs",
+        "videoTitle": "Triple H & Stephanie lead the WWE Universe in ‘Happy Birthday’ to Mr. McMahon: Raw, Aug. 24, 2015",
+        "url": "https://www.youtube.com/watch?v=K_ko4byGqWs",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260825-14-michaels-returns-against-triple-h": {
     "videos": [
@@ -806,17 +846,19 @@
     "verified": true,
     "status": "verified"
   },
-  "20260826-20-mysterio-returns-against-chavo": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
   "20260827-08-the-first-official-tlc-match": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "6LTEb3gvRNU",
+        "videoTitle": "FULL MATCH: Hardy Boyz vs. Dudley Boyz vs. Edge & Christian — TLC: SummerSlam 2000",
+        "url": "https://www.youtube.com/watch?v=6LTEb3gvRNU",
+        "verified": true,
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260827-14-the-rock-retains-in-a-triple-threat": {
     "videos": [
@@ -833,16 +875,32 @@
     "status": "verified"
   },
   "20260828-08-the-mega-maniacs-defeat-savage-and-zeus": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "OXZo-Fs3NPU",
+        "videoTitle": "FULL MATCH: Hulk Hogan & Brutus Beefcake vs. Randy Savage & Zeus: SummerSlam 1989",
+        "url": "https://www.youtube.com/watch?v=OXZo-Fs3NPU",
+        "verified": true,
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260828-20-the-brain-busters-retain": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "9CYO_4qQNLY",
+        "videoTitle": "FULL EVENT: SummerSlam 1989",
+        "url": "https://www.youtube.com/watch?v=9CYO_4qQNLY",
+        "verified": true,
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260829-08-the-first-summerslam": {
     "videos": [
@@ -887,34 +945,46 @@
     "status": "verified"
   },
   "20260830-20-roman-reigns-wins-at-payback": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "YftANX45C6Q",
+        "videoTitle": "FULL MATCH: The Fiend vs. Roman Reigns vs. Braun Strowman — Universal Title: Payback 2020",
+        "url": "https://www.youtube.com/watch?v=YftANX45C6Q",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260831-14-jeff-hardy-is-born": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
-  "20260831-20-mickie-james-is-born": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
-  },
-  "20260901-14-the-patriot-pins-bret-hart": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "_zh35c8JPlE",
+        "videoTitle": "Superstars imitate Jeff Hardy for his birthday",
+        "url": "https://www.youtube.com/watch?v=_zh35c8JPlE",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260901-20-all-in-proves-the-market-for-an-alternative": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "CSQdnl4n6CY",
+        "videoTitle": "Backstage At All In",
+        "url": "https://www.youtube.com/watch?v=CSQdnl4n6CY",
+        "verified": true,
+        "sourceChannel": "Being The Elite",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260902-08-triple-h-is-awarded-the-world-heavyweight-title": {
     "videos": [
@@ -957,5 +1027,290 @@
     ],
     "verified": true,
     "status": "verified"
+  },
+  "20260805-20-roman-reigns-jey-uso-tribal-combat": {
+    "videos": [
+      {
+        "videoId": "y_e_9la1wc4",
+        "videoTitle": "FULL MATCH: Roman Reigns vs. Jey Uso | Tribal Combat: SummerSlam 2023",
+        "url": "https://www.youtube.com/watch?v=y_e_9la1wc4",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260805-20-wwe-talent-releases-2011"
+  },
+  "20260806-08-cena-vs-daniel-bryan-raw": {
+    "videos": [
+      {
+        "videoId": "Rrp-jWLSPIU",
+        "videoTitle": "John Cena vs. Daniel Bryan: Raw, Aug. 6, 2012",
+        "url": "https://www.youtube.com/watch?v=Rrp-jWLSPIU",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260806-08-hogan-s-last-wwf-match-until-2002"
+  },
+  "20260806-14-ronda-rousey-vs-alicia-fox": {
+    "videos": [
+      {
+        "videoId": "r03kcfypaeQ",
+        "videoTitle": "Ronda Rousey vs. Alicia Fox: Raw, Aug. 6, 2018",
+        "url": "https://www.youtube.com/watch?v=r03kcfypaeQ",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260806-14-tajiri-wins-light-heavyweight-gold"
+  },
+  "20260807-08-kurt-angle-vs-sting-tna-title": {
+    "videos": [
+      {
+        "videoId": "qYuIoIT2VTQ",
+        "videoTitle": "Kurt Angle vs. Sting | TNA World Heavyweight Championship: Hardcore Justice 2011",
+        "url": "https://www.youtube.com/watch?v=qYuIoIT2VTQ",
+        "verified": true,
+        "sourceChannel": "TNA Wrestling",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260807-08-ddp-and-kanyon-win-wwf-tag-titles"
+  },
+  "20260807-20-cody-rollins-nakamura-vs-judgment-day": {
+    "videos": [
+      {
+        "videoId": "0JfWRWVCwJQ",
+        "videoTitle": "Cody Rhodes, Seth Rollins & Shinsuke Nakamura vs. The Judgment Day: Raw, Aug. 7, 2023",
+        "url": "https://www.youtube.com/watch?v=0JfWRWVCwJQ",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260807-20-ron-killings-wins-nwa-world-title"
+  },
+  "20260808-14-cena-punk-summerslam-contract-signing": {
+    "videos": [
+      {
+        "videoId": "d0HBbLiMuj4",
+        "videoTitle": "John Cena and CM Punk sign for SummerSlam: Raw, Aug. 8, 2011",
+        "url": "https://www.youtube.com/watch?v=d0HBbLiMuj4",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260808-14-raw-builds-summerslam-1994"
+  },
+  "20260809-08-bruno-sammartino-vs-larry-zbyszko": {
+    "videos": [
+      {
+        "videoId": "9znwZOGAQk0",
+        "videoTitle": "Bruno Sammartino vs. Larry Zbyszko | Steel Cage Match: Showdown at Shea",
+        "url": "https://www.youtube.com/watch?v=9znwZOGAQk0",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260809-08-hogan-regains-the-wcw-title"
+  },
+  "20260811-08-cena-calls-out-lesnar": {
+    "videos": [
+      {
+        "videoId": "b8ch_Dh-9aU",
+        "videoTitle": "John Cena calls out Brock Lesnar: Raw, Aug. 11, 2014",
+        "url": "https://www.youtube.com/watch?v=b8ch_Dh-9aU",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260811-08-hbk-returns-with-rick-rude"
+  },
+  "20260812-08-cm-punk-traps-heyman": {
+    "videos": [
+      {
+        "videoId": "7GZAh-lOpNw",
+        "videoTitle": "CM Punk sets a trap for Paul Heyman and Brock Lesnar: Raw, Aug. 12, 2013",
+        "url": "https://www.youtube.com/watch?v=7GZAh-lOpNw",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260812-08-curt-hennig-and-owen-hart-debut"
+  },
+  "20260812-20-sasha-banks-returns-to-raw": {
+    "videos": [
+      {
+        "videoId": "7Vx8LNVFOpY",
+        "videoTitle": "Sasha Banks returns to Raw: Raw, Aug. 12, 2019",
+        "url": "https://www.youtube.com/watch?v=7Vx8LNVFOpY",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260812-20-kevin-steen-joins-wwe"
+  },
+  "20260816-08-sheamus-vs-zack-ryder": {
+    "videos": [
+      {
+        "videoId": "QtP4bbql1BA",
+        "videoTitle": "Sheamus vs. Zack Ryder | WWE Championship Match: Raw, Aug. 16, 2010",
+        "url": "https://www.youtube.com/watch?v=QtP4bbql1BA",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260816-08-first-live-smackdown"
+  },
+  "20260817-08-undertaker-crashes-lesnar-homecoming": {
+    "videos": [
+      {
+        "videoId": "lb4r4KTkfyc",
+        "videoTitle": "The Undertaker crashes Brock Lesnar's homecoming: Raw, Aug. 17, 2015",
+        "url": "https://www.youtube.com/watch?v=lb4r4KTkfyc",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260817-08-ecw-hardcore-heaven-1997"
+  },
+  "20260819-14-jeff-hardy-vs-rob-van-dam-ladder-match": {
+    "videos": [
+      {
+        "videoId": "Q_F3EHER8o8",
+        "videoTitle": "FULL MATCH: Jeff Hardy vs. Rob Van Dam | Hardcore Title Ladder Match: SummerSlam 2001",
+        "url": "https://www.youtube.com/watch?v=Q_F3EHER8o8",
+        "verified": true,
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260819-14-hardcore-title-24-7-rule-ends"
+  },
+  "20260821-08-john-cena-vs-chris-jericho": {
+    "videos": [
+      {
+        "videoId": "m36vzeTh7k0",
+        "videoTitle": "FULL MATCH: John Cena vs. Chris Jericho — WWE Title Match: SummerSlam 2005",
+        "url": "https://www.youtube.com/watch?v=m36vzeTh7k0",
+        "verified": true,
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260821-08-lita-wins-the-women-s-title"
+  },
+  "20260822-20-jushin-liger-wwe-debut": {
+    "videos": [
+      {
+        "videoId": "mfItWOx0wbY",
+        "videoTitle": "FULL EVENT: NXT TakeOver: Brooklyn – Bálor vs. Owens, Bayley vs. Banks, Jushin Liger vs. Breeze",
+        "url": "https://www.youtube.com/watch?v=mfItWOx0wbY",
+        "verified": true,
+        "sourceChannel": "WWE NXT",
+        "matchType": "event_exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260822-20-the-usos-birthday"
+  },
+  "20260824-20-mankind-vs-kane-hell-in-a-cell": {
+    "videos": [
+      {
+        "videoId": "CL1w12camMQ",
+        "videoTitle": "FULL MATCH - Mankind vs. Kane – Hell in a Cell Match: Raw, Aug. 24, 1998",
+        "url": "https://www.youtube.com/watch?v=CL1w12camMQ",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260824-20-funaki-is-born"
+  },
+  "20260826-20-batista-vs-great-khali": {
+    "videos": [
+      {
+        "videoId": "L9dwkl4WUCk",
+        "videoTitle": "FULL MATCH - The Great Khali vs. Batista - World Heavyweight Title Match: SummerSlam 2007",
+        "url": "https://www.youtube.com/watch?v=L9dwkl4WUCk",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260826-20-mysterio-returns-against-chavo"
+  },
+  "20260831-20-cesaro-vs-ilja-dragunov": {
+    "videos": [
+      {
+        "videoId": "qej8W8u9jCU",
+        "videoTitle": "A never-ending Cesaro Swing leaves Dragunov dazed: NXT UK TakeOver: Cardiff",
+        "url": "https://www.youtube.com/watch?v=qej8W8u9jCU",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "highlight_exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260831-20-mickie-james-is-born"
+  },
+  "20260901-14-ethan-page-vs-joe-hendry": {
+    "videos": [
+      {
+        "videoId": "rOBPHEkKzyU",
+        "videoTitle": "Ethan Page vs. Joe Hendry - NXT Title Match: No Mercy 2024 highlights",
+        "url": "https://www.youtube.com/watch?v=rOBPHEkKzyU",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "highlight_exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified",
+    "replacementOf": "20260901-14-the-patriot-pins-bret-hart"
   }
 }
