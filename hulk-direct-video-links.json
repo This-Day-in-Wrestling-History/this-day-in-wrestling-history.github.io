@@ -44,5 +44,39 @@
       }
     ],
     "verified": true
+  },
+  "20260804-20-frankie-kazarian-birthday": {
+    "videos": [
+      {
+        "videoId": "Vw0nF-yPOxQ",
+        "videoTitle": "Frankie Kazarian RELINQUISHES X-Division Championship for Option C | IMPACT Oct. 20, 2022",
+        "url": "https://www.youtube.com/watch?v=Vw0nF-yPOxQ",
+        "verified": true
+      },
+      {
+        "videoId": "TMovZTglOJY",
+        "videoTitle": "X-Division Eras COLLIDE! Frankie Kazarian vs. Mike Bailey | The Best of Bound For Glory",
+        "url": "https://www.youtube.com/watch?v=TMovZTglOJY",
+        "verified": true
+      }
+    ],
+    "verified": true
+  },
+  "20260805-08-j-crown-tournament-final": {
+    "videos": [
+      {
+        "videoId": "nPG9ukVQGq4",
+        "videoTitle": "The History of the J Crown Championship",
+        "url": "https://www.youtube.com/watch?v=nPG9ukVQGq4",
+        "verified": true
+      },
+      {
+        "videoId": "IdQLG30G5Uo",
+        "videoTitle": "The 8 Titles of the J-CROWN Championship",
+        "url": "https://www.youtube.com/watch?v=IdQLG30G5Uo",
+        "verified": true
+      }
+    ],
+    "verified": true
   }
 }

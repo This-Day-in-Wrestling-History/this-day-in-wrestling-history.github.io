@@ -3599,5 +3599,35 @@ window.TDWH_VIDEO_POSTS = [
     ],
     "promotion": "WWE/WCW/ECW/TNA",
     "imageSelectionType": "person_portrait"
+  },
+  {
+    "id": "20260805-08-j-crown-tournament-final",
+    "publishAt": "2026-08-05T08:00:00-06:00",
+    "dateDisplay": "August 5, 1996",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "J-Crown Tournament Final",
+    "label": "Aug 5 - J-Crown",
+    "summary": "The Great Sasuke defeated Ultimo Dragon to unify eight junior heavyweight titles, including the WWF Light Heavyweight Championship, into the J-Crown.",
+    "image": "2026-08-05-08-j-crown-tournament-final.jpg",
+    "caption": "August 5, 1996: The Great Sasuke defeated Ultimo Dragon to unify eight junior heavyweight titles, including the WWF Light Heavyweight Championship, into the J-Crown. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 5 - J-Crown. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: YouTube thumbnail; branded locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "videos": [
+      {
+        "title": "The History of the J Crown Championship",
+        "url": "https://www.youtube.com/watch?v=nPG9ukVQGq4",
+        "provider": "YouTube"
+      },
+      {
+        "title": "The 8 Titles of the J-CROWN Championship",
+        "url": "https://www.youtube.com/watch?v=IdQLG30G5Uo",
+        "provider": "YouTube"
+      }
+    ],
+    "sources": [
+      "TJR Wrestling",
+      "Cagematch/The History of WWE"
+    ],
+    "promotion": "WWF",
+    "imageSource": "YouTube thumbnail",
+    "imageSelectionType": "youtube_thumbnail_or_moment_photo"
   }
 ];
