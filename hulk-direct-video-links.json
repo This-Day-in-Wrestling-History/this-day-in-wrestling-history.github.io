@@ -411,16 +411,24 @@
     "status": "verified"
   },
   "20260805-14-danielson-vs-samoa-joe-draw": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "videos": [
+      {
+        "videoId": "IMbt5magCog",
+        "videoTitle": "Bryan Danielson vs Samoa Joe Fight Of The Century",
+        "url": "https://www.youtube.com/watch?v=IMbt5magCog",
+        "verified": true,
+        "sourceChannel": "Wrestling Recommendations",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260805-20-wwe-talent-releases-2011": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
+    "reason": "Focused recovery search found contemporary articles and later references confirming the August 5, 2011 releases, but no public direct YouTube watch page whose title and context genuinely cover that exact release event."
   },
   "20260806-08-hogan-s-last-wwf-match-until-2002": {
     "videos": [],

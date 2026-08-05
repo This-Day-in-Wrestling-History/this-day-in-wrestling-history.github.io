@@ -3642,7 +3642,15 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Bryan Danielson and Samoa Joe went sixty minutes for the ROH Championship at Fight of the Century, a match later tied to two major U.S. stars.",
     "image": "2026-08-05-14-danielson-vs-samoa-joe-draw.jpg",
     "caption": "August 5, 2006: Bryan Danielson and Samoa Joe went sixty minutes for the ROH Championship at Fight of the Century, a match later tied to two major U.S. stars. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 5 - Danielson vs Joe. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "Bryan Danielson vs Samoa Joe Fight Of The Century",
+        "url": "https://www.youtube.com/watch?v=IMbt5magCog",
+        "provider": "YouTube",
+        "sourceChannel": "Wrestling Recommendations",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -3651,8 +3659,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260805-20-wwe-talent-releases-2011",
