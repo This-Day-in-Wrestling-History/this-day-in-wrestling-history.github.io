@@ -57,10 +57,10 @@ def main():
         and video.get("videoTitle")
         and re.fullmatch(r"https://www\.youtube\.com/watch\?v=[A-Za-z0-9_-]{11}", video.get("url", ""))
     ]
-    unavailable = post.get("videoStatus") == "unavailable_after_verification"
-    if (not direct or not direct.get("verified") or not valid_videos) and not unavailable:
-        log(f"BLOCKED {post['id']} missing verified direct YouTube URL or audited unavailable status")
-        raise SystemExit(f"Missing verified direct YouTube URL or audited unavailable status for {post['id']}")
+    if not direct or not direct.get("verified") or not valid_videos:
+        reason = (direct or {}).get("reason") or "missing verified matching direct YouTube watch URL"
+        log(f"SKIPPED {post['id']} reason={reason}")
+        raise SystemExit(f"Skipped {post['id']}: {reason}")
     rows = load_site_data()
     item = {key: value for key, value in post.items() if key not in {"imageFile", "imageSelectionRule"}}
     source_image = Path(post["imageFile"])
@@ -71,8 +71,7 @@ def main():
         {"title": video["videoTitle"], "url": video["url"], "provider": "YouTube"}
         for video in valid_videos[:2]
     ]
-    if unavailable and not valid_videos:
-        item["videoStatus"] = "unavailable_after_verification"
+    item.pop("videoStatus", None)
     rows = [row for row in rows if row.get("id") != item["id"]]
     rows.append(item)
     save_site_data(rows)
@@ -81,7 +80,7 @@ def main():
     html = re.sub(r'video-links-data\.js\?v=[^"\']+', f"video-links-data.js?v={stamp}", html)
     HTML.write_text(html, encoding="utf-8")
     urls = ",".join(video["url"] for video in valid_videos[:2])
-    video_note = urls or "unavailable_after_verification"
+    video_note = urls
     log(f"PREPARED {item['id']} image={image_name} youtube={video_note}")
     if args.deploy:
         subprocess.run(["git", "add", "video-links-data.js", "video-links.html", image_name, "hulk-direct-video-links.json", "scripts/sync_due_hulk_post.py"], cwd=REPO, check=True)

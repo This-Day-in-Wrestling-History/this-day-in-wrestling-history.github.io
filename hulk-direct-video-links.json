@@ -414,372 +414,540 @@
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260805-20-wwe-talent-releases-2011": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260806-08-hogan-s-last-wwf-match-until-2002": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "Held for date review: the matching King of the Ring 1993 footage is from June 13, 1993, not August 6, so it cannot safely support this day-in-history slot."
   },
   "20260806-14-tajiri-wins-light-heavyweight-gold": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260806-20-william-regal-becomes-raw-gm": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "uKLip7hjUgw",
+        "videoTitle": "The Rise & Fall of King William Regal",
+        "url": "https://www.youtube.com/watch?v=uKLip7hjUgw",
+        "verified": true,
+        "sourceChannel": "Wrestling Bios",
+        "matchType": "related"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260807-08-ddp-and-kanyon-win-wwf-tag-titles": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260807-14-brothers-of-destruction-win-wcw-gold": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "q9SRzID0PZA",
+        "videoTitle": "The Brothers of Destruction vs. The Two-Man Power Trip: Backlash 2001",
+        "url": "https://www.youtube.com/watch?v=q9SRzID0PZA",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "related"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260807-20-ron-killings-wins-nwa-world-title": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260808-14-raw-builds-summerslam-1994": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260809-08-hogan-regains-the-wcw-title": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260810-08-wcw-hog-wild-1996": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260810-14-tna-hard-justice-2008": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "HuW9LwGIt5o",
+        "videoTitle": "Hard Justice 2008",
+        "url": "https://www.youtube.com/watch?v=HuW9LwGIt5o",
+        "verified": true,
+        "sourceChannel": "TNA Wrestling",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260810-20-nxt-takeover-toronto-2019": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260811-08-hbk-returns-with-rick-rude": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260811-20-hulk-hogan-birthday": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "yvbV1XHEGic",
+        "videoTitle": "The New World Order and WWE Legends wish Hulk Hogan a happy birthday",
+        "url": "https://www.youtube.com/watch?v=yvbV1XHEGic",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260812-08-curt-hennig-and-owen-hart-debut": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260812-14-raw-sets-up-summerslam-1996": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260812-20-kevin-steen-joins-wwe": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260813-08-ecw-hardcore-heaven-1994": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260813-14-wcw-new-blood-rising": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "TPVW2VtMrKg",
+        "videoTitle": "FULL MATCH: Booker T vs. Jeff Jarrett | WCW Title Match: WCW New Blood Rising 2000",
+        "url": "https://www.youtube.com/watch?v=TPVW2VtMrKg",
+        "verified": true,
+        "sourceChannel": "WCW",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260813-20-jim-neidhart-remembered": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260814-08-summerslam-2011": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260814-20-kofi-kingston-birthday": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "vw9G5xqzPGo",
+        "videoTitle": "Kofi Kingston's 5 greatest moments",
+        "url": "https://www.youtube.com/watch?v=vw9G5xqzPGo",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "related"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260815-20-orton-vs-sheamus-at-summerslam": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "ZBAedBk68lE",
+        "videoTitle": "FULL MATCH: Sheamus vs. Randy Orton — WWE Title Match: SummerSlam 2010",
+        "url": "https://www.youtube.com/watch?v=ZBAedBk68lE",
+        "verified": true,
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260816-08-first-live-smackdown": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260816-14-orton-is-kicked-out-of-evolution": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260817-08-ecw-hardcore-heaven-1997": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260817-20-suplex-city-begins": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260818-14-summerslam-1996": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "w8vV8jmF-qc",
+        "videoTitle": "FULL MATCH - Shawn Michaels vs. Vader - WWE Title Match: SummerSlam 1996",
+        "url": "https://www.youtube.com/watch?v=w8vV8jmF-qc",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260818-20-daniel-bryan-wins-then-loses": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260819-08-summerslam-2001": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "_xt3OPdEbkc",
+        "videoTitle": "FULL MATCH: Booker T vs. The Rock – WCW Title Match: SummerSlam 2001",
+        "url": "https://www.youtube.com/watch?v=_xt3OPdEbkc",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260819-14-hardcore-title-24-7-rule-ends": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260819-20-summerslam-2018": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260820-08-austin-appreciation-night": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260820-14-summerslam-2006": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260821-08-lita-wins-the-women-s-title": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260822-08-summerslam-1999": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "5YF2guK9k2Q",
+        "videoTitle": "FULL MATCH: Stone Cold Steve Austin vs. Mankind vs. Triple H | WWE Title Match: SummerSlam 1999",
+        "url": "https://www.youtube.com/watch?v=5YF2guK9k2Q",
+        "verified": true,
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260822-14-bayley-vs-sasha-at-takeover": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260822-20-the-usos-birthday": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260823-14-undertaker-defeats-brock-lesnar": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "sBBFSuHATmw",
+        "videoTitle": "FULL MATCH - Brock Lesnar vs. The Undertaker: SummerSlam 2015",
+        "url": "https://www.youtube.com/watch?v=sBBFSuHATmw",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260823-20-roman-reigns-returns-at-summerslam": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260824-14-vince-mcmahon-is-born": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260824-20-funaki-is-born": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260825-14-michaels-returns-against-triple-h": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "jphS4xGOBFQ",
+        "videoTitle": "FULL MATCH: Shawn Michaels vs. Triple H | Unsanctioned Street Fight: SummerSlam 2002",
+        "url": "https://www.youtube.com/watch?v=jphS4xGOBFQ",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260825-20-mysterio-and-angle-open-summerslam": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "5hnuVRUiqlk",
+        "videoTitle": "FULL MATCH: Rey Mysterio vs. Kurt Angle: SummerSlam 2002",
+        "url": "https://www.youtube.com/watch?v=5hnuVRUiqlk",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260826-08-cena-retains-against-randy-orton": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "l58XSxWK8P4",
+        "videoTitle": "FULL MATCH - John Cena vs. Randy Orton - WWE Title Match: SummerSlam 2007",
+        "url": "https://www.youtube.com/watch?v=l58XSxWK8P4",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260826-20-mysterio-returns-against-chavo": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260827-08-the-first-official-tlc-match": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260827-14-the-rock-retains-in-a-triple-threat": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "fBrFoGNfR50",
+        "videoTitle": "FULL MATCH: The Rock vs. Triple H vs. Kurt Angle | WWE Title Triple Threat Match: SummerSlam 2000",
+        "url": "https://www.youtube.com/watch?v=fBrFoGNfR50",
+        "verified": true,
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260828-08-the-mega-maniacs-defeat-savage-and-zeus": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260828-20-the-brain-busters-retain": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260829-08-the-first-summerslam": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "gIqFvkW7ObY",
+        "videoTitle": "Honky Tonk Man - Why I Jobbed to Ultimate Warrior at SummerSlam",
+        "url": "https://www.youtube.com/watch?v=gIqFvkW7ObY",
+        "verified": true,
+        "sourceChannel": "Title Match Wrestling",
+        "matchType": "related"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260829-14-warrior-ends-honky-tonk-man-s-reign": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "gIqFvkW7ObY",
+        "videoTitle": "Honky Tonk Man - Why I Jobbed to Ultimate Warrior at SummerSlam",
+        "url": "https://www.youtube.com/watch?v=gIqFvkW7ObY",
+        "verified": true,
+        "sourceChannel": "Title Match Wrestling",
+        "matchType": "related"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260830-08-austin-retains-against-undertaker": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "cbKuGjpmOYU",
+        "videoTitle": "FULL MATCH: Stone Cold Steve Austin vs. Undertaker - WWE Title Match: SummerSlam 1998",
+        "url": "https://www.youtube.com/watch?v=cbKuGjpmOYU",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260830-20-roman-reigns-wins-at-payback": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260831-14-jeff-hardy-is-born": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260831-20-mickie-james-is-born": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260901-14-the-patriot-pins-bret-hart": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260901-20-all-in-proves-the-market-for-an-alternative": {
     "videos": [],
     "verified": false,
     "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "reason": "No trustworthy direct YouTube watch page was found after broader searches by subject, promotion, event, and year across official and credible public channels."
   },
   "20260902-08-triple-h-is-awarded-the-world-heavyweight-title": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "UBfxm82M6uo",
+        "videoTitle": "Eric Bischoff awards Triple H with the World Heavyweight Championship: Raw, Sept. 2, 2002",
+        "url": "https://www.youtube.com/watch?v=UBfxm82M6uo",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260903-08-roman-reigns-survives-clash-at-the-castle": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "u-RchV1TXzM",
+        "videoTitle": "Roman Reigns vs. Drew McIntyre – Road to WWE Clash at the Castle 2022: WWE Playlist",
+        "url": "https://www.youtube.com/watch?v=u-RchV1TXzM",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "related"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   },
   "20260903-14-gunther-and-sheamus-deliver-a-classic": {
-    "videos": [],
-    "verified": false,
-    "status": "unavailable_after_verification",
-    "reason": "No exact, trustworthy direct YouTube watch page was confirmed after title, date, event/person, and channel review."
+    "videos": [
+      {
+        "videoId": "J1OpYq5L6gk",
+        "videoTitle": "FULL MATCH: Gunther vs. Sheamus | Intercontinental Championship Match: Clash at the Castle 2022",
+        "url": "https://www.youtube.com/watch?v=J1OpYq5L6gk",
+        "verified": true,
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
   }
 }

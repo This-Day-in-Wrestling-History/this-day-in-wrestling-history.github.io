@@ -3730,7 +3730,15 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "After Vince McMahon returned to Raw, William Regal won a battle royal to become Raw General Manager.",
     "image": "2026-08-06-20-william-regal-becomes-raw-gm.jpg",
     "caption": "August 6, 2007: After Vince McMahon returned to Raw, William Regal won a battle royal to become Raw General Manager. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 6 - Regal Raw GM. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "The Rise & Fall of King William Regal",
+        "url": "https://www.youtube.com/watch?v=uKLip7hjUgw",
+        "provider": "YouTube",
+        "sourceChannel": "Wrestling Bios",
+        "matchType": "related"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -3739,8 +3747,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260807-08-ddp-and-kanyon-win-wwf-tag-titles",
@@ -3774,7 +3781,15 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Kane and The Undertaker defeated Sean O’Haire and Chuck Palumbo to win the WCW Tag Team Championship.",
     "image": "2026-08-07-14-brothers-of-destruction-win-wcw-gold.jpg",
     "caption": "August 7, 2001: Kane and The Undertaker defeated Sean O’Haire and Chuck Palumbo to win the WCW Tag Team Championship. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 7 - BOD WCW tag titles. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "The Brothers of Destruction vs. The Two-Man Power Trip: Backlash 2001",
+        "url": "https://www.youtube.com/watch?v=q9SRzID0PZA",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "related"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -3783,8 +3798,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260807-20-ron-killings-wins-nwa-world-title",
@@ -3992,7 +4006,15 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Samoa Joe retained the TNA World Heavyweight Championship against Booker T in a steel cage weapons match.",
     "image": "2026-08-10-14-tna-hard-justice-2008.jpg",
     "caption": "August 10, 2008: Samoa Joe retained the TNA World Heavyweight Championship against Booker T in a steel cage weapons match. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 10 - Hard Justice 2008. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "Hard Justice 2008",
+        "url": "https://www.youtube.com/watch?v=HuW9LwGIt5o",
+        "provider": "YouTube",
+        "sourceChannel": "TNA Wrestling",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4001,8 +4023,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260810-20-nxt-takeover-toronto-2019",
@@ -4090,7 +4111,15 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Hulk Hogan was born, a central figure in the national expansion era, the WrestleMania boom and WCW’s nWo period.",
     "image": "2026-08-11-20-hulk-hogan-birthday.jpg",
     "caption": "August 11, 1953: Hulk Hogan was born, a central figure in the national expansion era, the WrestleMania boom and WCW’s nWo period. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 11 - Hulk Hogan. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Wikimedia portrait; formatted locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "The New World Order and WWE Legends wish Hulk Hogan a happy birthday",
+        "url": "https://www.youtube.com/watch?v=yvbV1XHEGic",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4098,8 +4127,7 @@ window.TDWH_VIDEO_POSTS = [
     "promotion": "WWE",
     "imageSource": "Local Wikimedia portrait source: portrait-hulk-hogan.jpg",
     "imageSelectionType": "person_portrait",
-    "visualQualityStatus": "upgraded_approved",
-    "videoStatus": "unavailable_after_verification"
+    "visualQualityStatus": "upgraded_approved"
   },
   {
     "id": "20260812-08-curt-hennig-and-owen-hart-debut",
@@ -4199,7 +4227,15 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "WCW New Blood Rising featured Booker T retaining the WCW World Heavyweight Championship against Jeff Jarrett.",
     "image": "2026-08-13-14-wcw-new-blood-rising.jpg",
     "caption": "August 13, 2000: WCW New Blood Rising featured Booker T retaining the WCW World Heavyweight Championship against Jeff Jarrett. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 13 - New Blood Rising. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH: Booker T vs. Jeff Jarrett | WCW Title Match: WCW New Blood Rising 2000",
+        "url": "https://www.youtube.com/watch?v=TPVW2VtMrKg",
+        "provider": "YouTube",
+        "sourceChannel": "WCW",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4208,8 +4244,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260813-20-jim-neidhart-remembered",
@@ -4291,7 +4326,15 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Kofi Kingston was born, later becoming a tag-team cornerstone and WWE Champion at WrestleMania 35.",
     "image": "2026-08-14-20-kofi-kingston-birthday.jpg",
     "caption": "August 14, 1981: Kofi Kingston was born, later becoming a tag-team cornerstone and WWE Champion at WrestleMania 35. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 14 - Kofi Kingston. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Wikimedia portrait; formatted locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "Kofi Kingston's 5 greatest moments",
+        "url": "https://www.youtube.com/watch?v=vw9G5xqzPGo",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "related"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4299,8 +4342,7 @@ window.TDWH_VIDEO_POSTS = [
     "promotion": "WWE",
     "imageSource": "Local Wikimedia portrait source: portrait-kofi-kingston.jpg",
     "imageSelectionType": "person_portrait",
-    "visualQualityStatus": "upgraded_approved",
-    "videoStatus": "unavailable_after_verification"
+    "visualQualityStatus": "upgraded_approved"
   },
   {
     "id": "20260815-08-summerslam-2010",
@@ -4366,7 +4408,15 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Sheamus defended the WWE Championship against Randy Orton by disqualification at SummerSlam 2010.",
     "image": "2026-08-15-20-orton-vs-sheamus-at-summerslam.jpg",
     "caption": "August 15, 2010: Sheamus defended the WWE Championship against Randy Orton by disqualification at SummerSlam 2010. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 15 - Orton Sheamus. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH: Sheamus vs. Randy Orton — WWE Title Match: SummerSlam 2010",
+        "url": "https://www.youtube.com/watch?v=ZBAedBk68lE",
+        "provider": "YouTube",
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4375,8 +4425,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260816-08-first-live-smackdown",
@@ -4557,7 +4606,15 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Shawn Michaels defeated Vader at SummerSlam after a chaotic WWF Championship main event.",
     "image": "2026-08-18-14-summerslam-1996.jpg",
     "caption": "August 18, 1996: Shawn Michaels defeated Vader at SummerSlam after a chaotic WWF Championship main event. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 18 - SummerSlam 1996. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH - Shawn Michaels vs. Vader - WWE Title Match: SummerSlam 1996",
+        "url": "https://www.youtube.com/watch?v=w8vV8jmF-qc",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4566,8 +4623,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260818-20-daniel-bryan-wins-then-loses",
@@ -4601,7 +4657,15 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "The Rock defeated Booker T for the WCW Championship at SummerSlam during the Invasion angle.",
     "image": "2026-08-19-08-summerslam-2001.jpg",
     "caption": "August 19, 2001: The Rock defeated Booker T for the WCW Championship at SummerSlam during the Invasion angle. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 19 - SummerSlam 2001. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH: Booker T vs. The Rock – WCW Title Match: SummerSlam 2001",
+        "url": "https://www.youtube.com/watch?v=_xt3OPdEbkc",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4610,8 +4674,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260819-14-hardcore-title-24-7-rule-ends",
@@ -4814,7 +4877,15 @@ window.TDWH_VIDEO_POSTS = [
     "summary": "Mankind defeated Steve Austin and Triple H to win the WWF Championship in a triple threat main event.",
     "image": "2026-08-22-08-summerslam-1999.jpg",
     "caption": "August 22, 1999: Mankind defeated Steve Austin and Triple H to win the WWF Championship in a triple threat main event. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 22 - SummerSlam 1999. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH: Stone Cold Steve Austin vs. Mankind vs. Triple H | WWE Title Match: SummerSlam 1999",
+        "url": "https://www.youtube.com/watch?v=5YF2guK9k2Q",
+        "provider": "YouTube",
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "TJR Wrestling",
       "Cagematch/The History of WWE"
@@ -4823,8 +4894,7 @@ window.TDWH_VIDEO_POSTS = [
     "imageSource": "Original locally designed wrestling-history date artwork",
     "imageSelectionType": "original_rights_clean_date_card",
     "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
+    "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
     "id": "20260822-14-bayley-vs-sasha-at-takeover",
@@ -4904,13 +4974,20 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-08-23-14-undertaker-defeats-brock-lesnar.jpg",
     "imageSource": "Wikipedia/Wikimedia page: SummerSlam_(2015)",
     "caption": "August 23, 2015: The Undertaker defeated Brock Lesnar at SummerSlam 2015 after a disputed finish involving the timekeeper and a submission that the referee did not see. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 23 - Undertaker Defeats Brock Lesnar. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH - Brock Lesnar vs. The Undertaker: SummerSlam 2015",
+        "url": "https://www.youtube.com/watch?v=sBBFSuHATmw",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/shows/summerslam/2015",
       "https://thehistoryofwwe.com/wwe-results-2015/"
     ],
-    "promotion": "WWE",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWE"
   },
   {
     "id": "20260823-20-roman-reigns-returns-at-summerslam",
@@ -5028,13 +5105,20 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-08-25-14-michaels-returns-against-triple-h.jpg",
     "imageSource": "Wikipedia/Wikimedia page: SummerSlam_(2002)",
     "caption": "August 25, 2002: Shawn Michaels wrestled his first major singles match in more than four years, defeating Triple H in an unsanctioned street fight at SummerSlam 2002. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 25 - Michaels Returns Against Triple H. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH: Shawn Michaels vs. Triple H | Unsanctioned Street Fight: SummerSlam 2002",
+        "url": "https://www.youtube.com/watch?v=jphS4xGOBFQ",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/shows/summerslam/2002",
       "https://www.cagematch.net/?id=1&nr=2301"
     ],
-    "promotion": "WWE",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWE"
   },
   {
     "id": "20260825-20-mysterio-and-angle-open-summerslam",
@@ -5047,13 +5131,20 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-08-25-20-mysterio-and-angle-open-summerslam.jpg",
     "imageSource": "Wikipedia/Wikimedia page: SummerSlam_(2002)",
     "caption": "August 25, 2002: Rey Mysterio and Kurt Angle opened SummerSlam 2002 with a fast-paced match that immediately established Mysterio on a major WWE pay-per-view stage. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 25 - Mysterio and Angle Open SummerSlam. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH: Rey Mysterio vs. Kurt Angle: SummerSlam 2002",
+        "url": "https://www.youtube.com/watch?v=5hnuVRUiqlk",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/shows/summerslam/2002",
       "https://www.cagematch.net/?id=1&nr=2301"
     ],
-    "promotion": "WWE",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWE"
   },
   {
     "id": "20260826-08-cena-retains-against-randy-orton",
@@ -5066,13 +5157,20 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-08-26-08-cena-retains-against-randy-orton.jpg",
     "imageSource": "Wikipedia/Wikimedia page: SummerSlam_(2007)",
     "caption": "August 26, 2007: John Cena defeated Randy Orton at SummerSlam 2007 to retain the WWE Championship in the first pay-per-view singles match of their defining rivalry. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 26 - Cena Retains Against Randy Orton. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH - John Cena vs. Randy Orton - WWE Title Match: SummerSlam 2007",
+        "url": "https://www.youtube.com/watch?v=l58XSxWK8P4",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/shows/summerslam/2007",
       "https://thehistoryofwwe.com/wwe-results-2007/"
     ],
-    "promotion": "WWE",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWE"
   },
   {
     "id": "20260826-14-triple-h-returns-to-the-ring",
@@ -5147,13 +5245,20 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-08-27-14-the-rock-retains-in-a-triple-threat.jpg",
     "imageSource": "Wikipedia/Wikimedia page: SummerSlam_(2000)",
     "caption": "August 27, 2000: The Rock retained the WWF Championship against Triple H and Kurt Angle at SummerSlam 2000 after Angle suffered a legitimate concussion early in the match. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 27 - The Rock Retains in a Triple Threat. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. #WWF #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH: The Rock vs. Triple H vs. Kurt Angle | WWE Title Triple Threat Match: SummerSlam 2000",
+        "url": "https://www.youtube.com/watch?v=fBrFoGNfR50",
+        "provider": "YouTube",
+        "sourceChannel": "WWE Vault",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/shows/summerslam/2000",
       "https://www.cagematch.net/?id=1&nr=2175"
     ],
-    "promotion": "WWF",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWF"
   },
   {
     "id": "20260827-20-steve-blackman-sends-shane-falling",
@@ -5256,13 +5361,20 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-08-29-08-the-first-summerslam.jpg",
     "imageSource": "Wikipedia/Wikimedia page: SummerSlam_(1988)",
     "caption": "August 29, 1988: The WWF presented the inaugural SummerSlam at Madison Square Garden, establishing a second major annual pay-per-view alongside WrestleMania. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 29 - The First SummerSlam. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWF #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "Honky Tonk Man - Why I Jobbed to Ultimate Warrior at SummerSlam",
+        "url": "https://www.youtube.com/watch?v=gIqFvkW7ObY",
+        "provider": "YouTube",
+        "sourceChannel": "Title Match Wrestling",
+        "matchType": "related"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/shows/summerslam/1988",
       "https://thehistoryofwwe.com/wwf-results-1988/"
     ],
-    "promotion": "WWF",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWF"
   },
   {
     "id": "20260829-14-warrior-ends-honky-tonk-man-s-reign",
@@ -5275,13 +5387,20 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-08-29-14-warrior-ends-honky-tonk-man-s-reign.jpg",
     "imageSource": "Wikipedia/Wikimedia page: SummerSlam_(1988)",
     "caption": "August 29, 1988: The Ultimate Warrior defeated The Honky Tonk Man in roughly half a minute to win the WWF Intercontinental Championship at the first SummerSlam. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 29 - Warrior Ends Honky Tonk Man's Reign. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. #WWF #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "Honky Tonk Man - Why I Jobbed to Ultimate Warrior at SummerSlam",
+        "url": "https://www.youtube.com/watch?v=gIqFvkW7ObY",
+        "provider": "YouTube",
+        "sourceChannel": "Title Match Wrestling",
+        "matchType": "related"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/shows/summerslam/1988",
       "https://www.cagematch.net/?id=1&nr=1765"
     ],
-    "promotion": "WWF",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWF"
   },
   {
     "id": "20260829-20-british-bulldog-wins-at-wembley",
@@ -5318,13 +5437,20 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-08-30-08-austin-retains-against-undertaker.jpg",
     "imageSource": "Wikipedia/Wikimedia page: SummerSlam_(1998)",
     "caption": "August 30, 1998: Steve Austin defeated The Undertaker to retain the WWF Championship in the Highway to Hell main event of SummerSlam 1998 at Madison Square Garden. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Aug 30 - Austin Retains Against Undertaker. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWF #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH: Stone Cold Steve Austin vs. Undertaker - WWE Title Match: SummerSlam 1998",
+        "url": "https://www.youtube.com/watch?v=cbKuGjpmOYU",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/shows/summerslam/1998",
       "https://thehistoryofwwe.com/wwf-results-1998/"
     ],
-    "promotion": "WWF",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWF"
   },
   {
     "id": "20260830-14-triple-h-wins-the-ladder-match",
@@ -5504,13 +5630,20 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-09-02-08-triple-h-is-awarded-the-world-heavyweight-title.jpg",
     "imageSource": "Wikipedia/Wikimedia page: World_Heavyweight_Championship_(WWE,_2002–2013)",
     "caption": "September 2, 2002: Eric Bischoff introduced the World Heavyweight Championship on Raw and awarded it to Triple H after Brock Lesnar became exclusive to SmackDown. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Sep 2 - Triple H Is Awarded the World Heavywei. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "Eric Bischoff awards Triple H with the World Heavyweight Championship: Raw, Sept. 2, 2002",
+        "url": "https://www.youtube.com/watch?v=UBfxm82M6uo",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/classics/titlehistory/worldheavyweight",
       "https://thehistoryofwwe.com/wwe-results-2002/"
     ],
-    "promotion": "WWE",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWE"
   },
   {
     "id": "20260902-14-the-giant-joins-the-nwo",
@@ -5574,13 +5707,20 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-09-03-08-roman-reigns-survives-clash-at-the-castle.jpg",
     "imageSource": "Wikipedia/Wikimedia page: Clash_at_the_Castle_(2022)",
     "caption": "September 3, 2022: Roman Reigns defeated Drew McIntyre in Cardiff to retain the Undisputed WWE Universal Championship after interference from Solo Sikoa. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Sep 3 - Roman Reigns Survives Clash at the Cas. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "Roman Reigns vs. Drew McIntyre – Road to WWE Clash at the Castle 2022: WWE Playlist",
+        "url": "https://www.youtube.com/watch?v=u-RchV1TXzM",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "related"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/shows/clash-at-the-castle/2022",
       "https://www.cagematch.net/?id=1&nr=343588"
     ],
-    "promotion": "WWE",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWE"
   },
   {
     "id": "20260903-14-gunther-and-sheamus-deliver-a-classic",
@@ -5593,13 +5733,20 @@ window.TDWH_VIDEO_POSTS = [
     "image": "2026-09-03-14-gunther-and-sheamus-deliver-a-classic.jpg",
     "imageSource": "Wikipedia/Wikimedia page: Clash_at_the_Castle_(2022)",
     "caption": "September 3, 2022: Gunther defeated Sheamus to retain the Intercontinental Championship at Clash at the Castle in a match widely praised for its physical intensity. The moment matters because it helped define a championship lineage, rivalry, performer, or major event in modern wrestling history. It remains useful context for fans tracing how WWF/WWE, WCW, ECW, TNA and the wider industry changed after 1984. Video links in bio: Sep 3 - Gunther and Sheamus Deliver a Classic. Sources checked: WWE/The History of WWE or Cagematch. Image: event poster or wrestler photograph via Wikipedia/Wikimedia; branded locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
+    "videos": [
+      {
+        "title": "FULL MATCH: Gunther vs. Sheamus | Intercontinental Championship Match: Clash at the Castle 2022",
+        "url": "https://www.youtube.com/watch?v=J1OpYq5L6gk",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "exact"
+      }
+    ],
     "sources": [
       "https://www.wwe.com/shows/clash-at-the-castle/2022",
       "https://www.cagematch.net/?id=1&nr=343588"
     ],
-    "promotion": "WWE",
-    "videoStatus": "unavailable_after_verification"
+    "promotion": "WWE"
   },
   {
     "id": "20260903-20-dominik-mysterio-turns-on-rey-and-edge",
