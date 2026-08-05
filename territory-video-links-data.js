@@ -3041,5 +3041,35 @@ window.TDWH_VIDEO_POSTS = [
       "https://www.kayfabememories.com/Regions/awa/awa45.htm",
       "https://www.youtube.com/watch?v=k83BoSPpyUg"
     ]
+  },
+  {
+    "id": "2026-08-05-1400-fabulous-moolah-vs-doris-kent",
+    "publishAt": "2026-08-05T14:00:00-06:00",
+    "calendarDate": "2026-08-05",
+    "dateDisplay": "August 5, 1971",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Fabulous Moolah vs. Doris Kent",
+    "label": "August 5 - Moolah vs. Doris Kent",
+    "era": "1947-1973",
+    "promotion": "WWWF",
+    "location": "Washington, District of Columbia",
+    "summary": "Women's Champion Fabulous Moolah defeated Doris Kent in Washington, D.C., a title defense that documents Moolah's role as the central touring women's champion on WWWF cards of the period.",
+    "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-participant-portraits/2026-08-05-1400-fabulous-moolah.jpg",
+    "videos": [
+      {
+        "title": "The History of WWE: 1971 WWWF results archive",
+        "url": "https://thehistoryofwwe.com/wwwf-results-1971/",
+        "provider": "Archive"
+      },
+      {
+        "title": "Official Wrestling Museum: WWWF live-event results 1970-1979",
+        "url": "https://wweppvresultz.weebly.com/wwwf-live-event-results-1970-1979.html",
+        "provider": "Archive"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwwf-results-1971/",
+      "https://wweppvresultz.weebly.com/wwwf-live-event-results-1970-1979.html"
+    ]
   }
 ];
