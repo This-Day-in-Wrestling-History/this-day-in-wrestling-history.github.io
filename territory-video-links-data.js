@@ -3005,5 +3005,41 @@ window.TDWH_VIDEO_POSTS = [
       "https://www.prowrestlinghistory.com/memphis/jarrett/1980.html",
       "https://www.onlineworldofwrestling.com/profiles_old/d/dutch-mantell.html"
     ]
+  },
+  {
+    "id": "2026-08-05-0800-piper-and-rick-martel-win-the-pacific-northwest-tag-team-title",
+    "publishAt": "2026-08-05T08:00:00-06:00",
+    "calendarDate": "2026-08-05",
+    "dateDisplay": "August 5, 1980",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Piper and Rick Martel win the Pacific Northwest Tag Team Title",
+    "label": "August 5 - Piper & Martel PNW Tag Titles",
+    "era": "1974-1988/89",
+    "promotion": "Pacific Northwest Wrestling",
+    "location": "Portland, Oregon",
+    "summary": "Roddy Piper and Rick Martel defeated Buddy Rose and Ed Wiskowski in Portland to win the vacant NWA Pacific Northwest Tag Team Championship, putting the territory's tag belts back into play against Rose's heel machine.",
+    "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-youtube-thumbnails/2026-08-05-0800-k83BoSPpyUg.jpg",
+    "videos": [
+      {
+        "title": "Sheepherders v Piper/Martel  -Tag Title 2/3",
+        "url": "https://www.youtube.com/watch?v=k83BoSPpyUg",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Wrestling-Titles.com: NWA Pacific Northwest Tag Team Title",
+        "url": "https://www.wrestling-titles.com/us/pnw/nwa/pnw-t.html",
+        "provider": "Archive"
+      },
+      {
+        "title": "Kayfabe Memories: Pacific Northwest results context",
+        "url": "https://www.kayfabememories.com/Regions/awa/awa45.htm",
+        "provider": "Archive"
+      }
+    ],
+    "sources": [
+      "https://www.wrestling-titles.com/us/pnw/nwa/pnw-t.html",
+      "https://www.kayfabememories.com/Regions/awa/awa45.htm",
+      "https://www.youtube.com/watch?v=k83BoSPpyUg"
+    ]
   }
 ];
