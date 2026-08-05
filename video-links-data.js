@@ -3633,57 +3633,6 @@ window.TDWH_VIDEO_POSTS = [
     "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260805-14-danielson-vs-samoa-joe-draw",
-    "publishAt": "2026-08-05T14:00:00-06:00",
-    "dateDisplay": "August 5, 2006",
-    "timeDisplay": "2:00 PM MDT",
-    "title": "Danielson vs. Samoa Joe Draw",
-    "label": "Aug 5 - Danielson vs Joe",
-    "summary": "Bryan Danielson and Samoa Joe went sixty minutes for the ROH Championship at Fight of the Century, a match later tied to two major U.S. stars.",
-    "image": "2026-08-05-14-danielson-vs-samoa-joe-draw.jpg",
-    "caption": "August 5, 2006: Bryan Danielson and Samoa Joe went sixty minutes for the ROH Championship at Fight of the Century, a match later tied to two major U.S. stars. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 5 - Danielson vs Joe. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [
-      {
-        "title": "Bryan Danielson vs Samoa Joe Fight Of The Century",
-        "url": "https://www.youtube.com/watch?v=IMbt5magCog",
-        "provider": "YouTube",
-        "sourceChannel": "Wrestling Recommendations",
-        "matchType": "exact"
-      }
-    ],
-    "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
-    ],
-    "promotion": "ROH",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account"
-  },
-  {
-    "id": "20260805-20-wwe-talent-releases-2011",
-    "publishAt": "2026-08-05T20:00:00-06:00",
-    "dateDisplay": "August 5, 2011",
-    "timeDisplay": "8:00 PM MDT",
-    "title": "WWE Talent Releases 2011",
-    "label": "Aug 5 - WWE releases",
-    "summary": "WWE released several names in one day, including Melina, Chris Masters, Harry Smith and Vladimir Kozlov, marking a notable 2011 roster reset.",
-    "image": "2026-08-05-20-wwe-talent-releases-2011.jpg",
-    "caption": "August 5, 2011: WWE released several names in one day, including Melina, Chris Masters, Harry Smith and Vladimir Kozlov, marking a notable 2011 roster reset. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 5 - WWE releases. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [],
-    "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
-    ],
-    "promotion": "WWE",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account",
-    "videoStatus": "unavailable_after_verification"
-  },
-  {
     "id": "20260806-08-hogan-s-last-wwf-match-until-2002",
     "publishAt": "2026-08-06T08:00:00-06:00",
     "dateDisplay": "August 6, 1993",
