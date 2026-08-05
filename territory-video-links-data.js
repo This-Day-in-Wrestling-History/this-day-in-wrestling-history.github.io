@@ -2975,5 +2975,35 @@ window.TDWH_VIDEO_POSTS = [
       "https://thehistoryofwwe.com/wwwf-results-1972/",
       "https://wweppvresultz.weebly.com/wwwf-live-event-results-1970-1979.html"
     ]
+  },
+  {
+    "id": "2026-08-04-2000-austin-idol-and-dutch-mantel-win-the-cwa-tag-team-championship",
+    "publishAt": "2026-08-04T20:00:00-06:00",
+    "calendarDate": "2026-08-04",
+    "dateDisplay": "August 4, 1980",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Austin Idol and Dutch Mantel win the CWA Tag Team Championship",
+    "label": "August 4 - Idol & Mantel CWA Tag Titles",
+    "era": "1974-1988/89",
+    "promotion": "Continental Wrestling Association",
+    "location": "Mid-South Coliseum, Memphis, Tennessee",
+    "summary": "Austin Idol and Dutch Mantel defeated Jerry Jarrett and Tojo Yamamoto in a no-disqualification match to win the CWA World Tag Team Championship, with Mantel pinning Yamamoto on a Memphis card already loaded with major title movement.",
+    "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-youtube-thumbnails/2026-08-04-2000-1QRZcrj-RBo.jpg",
+    "videos": [
+      {
+        "title": "Pro Wrestling History: Memphis 1980 results archive",
+        "url": "https://www.prowrestlinghistory.com/memphis/jarrett/1980.html",
+        "provider": "Archive"
+      },
+      {
+        "title": "Online World of Wrestling: Dutch Mantell profile",
+        "url": "https://www.onlineworldofwrestling.com/profiles_old/d/dutch-mantell.html",
+        "provider": "Archive"
+      }
+    ],
+    "sources": [
+      "https://www.prowrestlinghistory.com/memphis/jarrett/1980.html",
+      "https://www.onlineworldofwrestling.com/profiles_old/d/dutch-mantell.html"
+    ]
   }
 ];
