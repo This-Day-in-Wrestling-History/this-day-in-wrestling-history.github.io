@@ -3675,9 +3675,7 @@ window.TDWH_VIDEO_POSTS = [
       {
         "title": "FULL MATCH: Roman Reigns vs. Jey Uso | Tribal Combat: SummerSlam 2023",
         "url": "https://www.youtube.com/watch?v=y_e_9la1wc4",
-        "provider": "YouTube",
-        "sourceChannel": "WWE",
-        "matchType": "exact"
+        "provider": "YouTube"
       }
     ],
     "sources": [
