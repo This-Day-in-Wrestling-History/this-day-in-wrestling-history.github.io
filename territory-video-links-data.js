@@ -3071,5 +3071,35 @@ window.TDWH_VIDEO_POSTS = [
       "https://thehistoryofwwe.com/wwwf-results-1971/",
       "https://wweppvresultz.weebly.com/wwwf-live-event-results-1970-1979.html"
     ]
+  },
+  {
+    "id": "2026-08-05-2000-stan-hansen-vs-chief-jay-strongbow",
+    "publishAt": "2026-08-05T20:00:00-06:00",
+    "calendarDate": "2026-08-05",
+    "dateDisplay": "August 5, 1976",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Stan Hansen vs. Chief Jay Strongbow",
+    "label": "August 5 - Hansen vs. Strongbow",
+    "era": "1974-1988/89",
+    "promotion": "WWWF",
+    "location": "Manchester, New Hampshire",
+    "summary": "Stan Hansen defeated Chief Jay Strongbow by disqualification in Manchester after Billy White Wolf interfered, a finish that kept Hansen's hard-hitting WWWF issue alive against an established territory favorite.",
+    "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-participant-portraits/2026-08-05-2000-stan-hansen.jpg",
+    "videos": [
+      {
+        "title": "The History of WWE: 1976 WWWF results archive",
+        "url": "https://thehistoryofwwe.com/wwwf-results-1976/",
+        "provider": "Archive"
+      },
+      {
+        "title": "Official Wrestling Museum: WWWF live-event results 1970-1979",
+        "url": "https://wweppvresultz.weebly.com/wwwf-live-event-results-1970-1979.html",
+        "provider": "Archive"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwwf-results-1976/",
+      "https://wweppvresultz.weebly.com/wwwf-live-event-results-1970-1979.html"
+    ]
   }
 ];
