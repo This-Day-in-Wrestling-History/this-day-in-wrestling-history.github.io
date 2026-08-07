@@ -3168,5 +3168,36 @@ window.TDWH_VIDEO_POSTS = [
       "https://www.onlineworldofwrestling.com/profiles_old/s/stan-stasiak.html",
       "https://en.wikipedia.org/wiki/Stan_Stasiak"
     ]
+  },
+  {
+    "id": "2026-08-07-1400-morales-and-strongbow-vs--the-graham-brothers",
+    "publishAt": "2026-08-07T14:00:00-06:00",
+    "calendarDate": "2026-08-07",
+    "dateDisplay": "August 7, 1971",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Morales and Strongbow vs. the Graham Brothers",
+    "label": "August 7 - Morales & Strongbow vs. Grahams",
+    "era": "1947-1973",
+    "promotion": "WWWF",
+    "location": "Philadelphia, Pennsylvania",
+    "summary": "Pedro Morales and Chief Jay Strongbow defeated WWWF Tag Team Champions Tarzan Tyler and Luke Graham two falls to none in Philadelphia; the disqualification finish kept the belts with Tyler and Graham while keeping two top babyfaces in the program.",
+    "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-archival-participant-portraits/2026-08-07-1400-pedro-morales.jpg",
+    "videos": [
+      {
+        "title": "The History of WWE: 1971 WWWF results archive",
+        "url": "https://thehistoryofwwe.com/wwwf-results-1971/",
+        "provider": "Archive"
+      },
+      {
+        "title": "Official Wrestling Museum: WWWF live-event results 1970-1979",
+        "url": "https://wweppvresultz.weebly.com/wwwf-live-event-results-1970-1979.html",
+        "provider": "Archive"
+      }
+    ],
+    "sources": [
+      "https://thehistoryofwwe.com/wwwf-results-1971/",
+      "https://wweppvresultz.weebly.com/wwwf-live-event-results-1970-1979.html",
+      "https://en.wikipedia.org/wiki/Pedro_Morales"
+    ]
   }
 ];
