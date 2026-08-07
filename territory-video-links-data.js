@@ -3101,5 +3101,41 @@ window.TDWH_VIDEO_POSTS = [
       "https://thehistoryofwwe.com/wwwf-results-1976/",
       "https://wweppvresultz.weebly.com/wwwf-live-event-results-1970-1979.html"
     ]
+  },
+  {
+    "id": "2026-08-06-2000-steve-armstrong-and-johnny-rich-regain-the-nwa-southeastern-tag-team-c",
+    "publishAt": "2026-08-06T20:00:00-06:00",
+    "calendarDate": "2026-08-06",
+    "dateDisplay": "August 6, 1984",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Steve Armstrong and Johnny Rich regain the NWA Southeastern Tag Team Championship",
+    "label": "August 6 - Rat Patrol Southeastern Tag Title",
+    "era": "1974-1988/89",
+    "promotion": "Southeastern Championship Wrestling",
+    "location": "Birmingham, Alabama",
+    "summary": "Steve Armstrong and Johnny Rich regained the NWA Southeastern Tag Team Championship from Arn Anderson and Jerry Stubbs in Birmingham, an early documented Rat Patrol title moment in the Southeastern territory.",
+    "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-matching-youtube-thumbnails/2026-08-06-2000-mp8YDpX2Z6o.jpg",
+    "videos": [
+      {
+        "title": "'Bullet' Bob Armstrong & Steve Armstrong Vs. Jimmy Golden & Mr. Fantasy",
+        "url": "https://www.youtube.com/watch?v=mp8YDpX2Z6o",
+        "provider": "YouTube"
+      },
+      {
+        "title": "Wrestling-Titles.com: NWA Southeastern Tag Team Title",
+        "url": "https://www.wrestling-titles.com/us/al/secw/se-t.html",
+        "provider": "Archive"
+      },
+      {
+        "title": "Online World of Wrestling: Steve Armstrong profile",
+        "url": "https://www.onlineworldofwrestling.com/profile/steve-armstrong/",
+        "provider": "Archive"
+      }
+    ],
+    "sources": [
+      "https://www.wrestling-titles.com/us/al/secw/se-t.html",
+      "https://www.onlineworldofwrestling.com/profile/steve-armstrong/",
+      "https://www.youtube.com/watch?v=mp8YDpX2Z6o"
+    ]
   }
 ];
