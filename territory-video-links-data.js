@@ -3137,5 +3137,36 @@ window.TDWH_VIDEO_POSTS = [
       "https://www.onlineworldofwrestling.com/profile/steve-armstrong/",
       "https://www.youtube.com/watch?v=mp8YDpX2Z6o"
     ]
+  },
+  {
+    "id": "2026-08-07-0800-stan-stasiak-wins-the-texas-brass-knuckles-title",
+    "publishAt": "2026-08-07T08:00:00-06:00",
+    "calendarDate": "2026-08-07",
+    "dateDisplay": "August 7, 1980",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Stan Stasiak wins the Texas Brass Knuckles Title",
+    "label": "August 7 - Stasiak Texas Brass Knuckles Title",
+    "era": "1974-1988/89",
+    "promotion": "NWA Western States Sports",
+    "location": "Amarillo, Texas",
+    "summary": "Stan Stasiak won a 10-man battle royal in Amarillo for the vacant Texas Brass Knuckles Title, putting the veteran heavyweight at the center of Western States Sports' hard-edged title scene.",
+    "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-participant-portraits/2026-08-07-0800-stan-stasiak.jpg",
+    "videos": [
+      {
+        "title": "Wrestling-Titles.com: Texas Brass Knuckles Title history",
+        "url": "https://www.wrestling-titles.com/us/tx/w/nwa/sw-bk.html",
+        "provider": "Archive"
+      },
+      {
+        "title": "Online World of Wrestling: Stan Stasiak profile",
+        "url": "https://www.onlineworldofwrestling.com/profiles_old/s/stan-stasiak.html",
+        "provider": "Archive"
+      }
+    ],
+    "sources": [
+      "https://www.wrestling-titles.com/us/tx/w/nwa/sw-bk.html",
+      "https://www.onlineworldofwrestling.com/profiles_old/s/stan-stasiak.html",
+      "https://en.wikipedia.org/wiki/Stan_Stasiak"
+    ]
   }
 ];
