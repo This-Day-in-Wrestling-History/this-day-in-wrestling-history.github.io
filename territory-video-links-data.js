@@ -3199,5 +3199,36 @@ window.TDWH_VIDEO_POSTS = [
       "https://wweppvresultz.weebly.com/wwwf-live-event-results-1970-1979.html",
       "https://en.wikipedia.org/wiki/Pedro_Morales"
     ]
+  },
+  {
+    "id": "2026-08-07-2000-mid-atlantic-championship-wrestling-television",
+    "publishAt": "2026-08-07T20:00:00-06:00",
+    "calendarDate": "2026-08-07",
+    "dateDisplay": "August 7, 1982",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Mid-Atlantic Championship Wrestling television",
+    "label": "August 7 - Mid-Atlantic TV 1982",
+    "era": "1974-1988/89",
+    "promotion": "Jim Crockett Promotions",
+    "location": "Charlotte, North Carolina television studio",
+    "summary": "The August 7, 1982 episode of Mid-Atlantic Championship Wrestling aired after being taped August 4 at the WPCQ-TV studios in Charlotte. The program featured Tim Horner and Jay Youngblood against The Ninja and Matt Borne, plus a highlighted Ric Flair message from the champion's side of the territory.",
+    "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-archival-participant-portraits/2026-08-07-2000-ric-flair.jpg",
+    "videos": [
+      {
+        "title": "Mid-Atlantic Gateway: MACW TV 08/07/82",
+        "url": "https://www.midatlanticgateway.com/2020/04/tv-macw-820807.html",
+        "provider": "Archive"
+      },
+      {
+        "title": "Prime Video: Mid-Atlantic Championship Wrestling August 7, 1982",
+        "url": "https://www.primevideo.com/-/id/detail/0LLELI03G4FVJLJL74IUURGIB9",
+        "provider": "Archive"
+      }
+    ],
+    "sources": [
+      "https://www.midatlanticgateway.com/2020/04/tv-macw-820807.html",
+      "https://www.primevideo.com/-/id/detail/0LLELI03G4FVJLJL74IUURGIB9",
+      "https://en.wikipedia.org/wiki/Ric_Flair"
+    ]
   }
 ];
