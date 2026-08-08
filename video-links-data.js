@@ -4104,85 +4104,95 @@ window.TDWH_VIDEO_POSTS = [
     "publishAt": "2026-08-10T08:00:00-06:00",
     "dateDisplay": "August 10, 1996",
     "timeDisplay": "8:00 AM MDT",
-    "title": "WCW Hog Wild 1996",
-    "label": "Aug 10 - Hog Wild 1996",
-    "summary": "The new nWo era hit Sturgis as Hollywood Hogan defeated The Giant for the WCW World Heavyweight Championship.",
-    "image": "2026-08-10-08-wcw-hog-wild-1996.jpg",
-    "caption": "August 10, 1996: The new nWo era hit Sturgis as Hollywood Hogan defeated The Giant for the WCW World Heavyweight Championship. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 10 - Hog Wild 1996. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "title": "Hog Wild 1996: The nWo Claims Big Gold",
+    "label": "Aug 10 - Hogan, Giant & Big Gold",
+    "summary": "After defeating The Giant for the WCW World Heavyweight Championship at Hog Wild, Hollywood Hogan spray-painted nWo across the Big Gold belt—the faction's first marking of WCW's top prize.",
+    "image": "08-00-hog-wild-nwo-title-spraypaint.png",
+    "caption": "August 10, 1996: Hollywood Hogan beat The Giant for the WCW World Heavyweight Championship — then made the bigger statement.\n\nFor the first time, the nWo spray-painted its name across Big Gold and declared WCW's top prize their own.\n\nThe title win mattered. The paint changed everything.\n\nFull match and context: link in bio.\n\n#WCW #nWo #HollywoodHogan #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Original illustrated close-up of Hollywood Hogan in black gear holding the WCW Big Gold championship belt, with black nWo spray paint across the faceplate, inside a wrestling ring under arena lights.",
     "videos": [
       {
         "title": "FULL MATCH: The Giant vs. Hollywood Hogan | WCW Title Match: Hog Wild 1996",
         "url": "https://www.youtube.com/watch?v=V6JMAWVD76Y",
-        "sourceChannel": "WCW",
-        "matchType": "exact"
+        "provider": "YouTube",
+        "matchType": "verified_exact"
       }
     ],
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "WCW Hog Wild 1996 broadcast",
+      "Official YouTube watch page"
     ],
     "promotion": "WCW",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account"
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "user_approved_original_event_specific_illustration",
+    "visualQualityStatus": "user_approved_portrait_asset_meta_4x5_crop_verified",
+    "visualRightsStatus": "Original account-created artwork; no third-party image material used"
   },
   {
-    "id": "20260810-14-tna-hard-justice-2008",
+    "id": "20260810-14-kane-mankind-wwf-tag-titles",
     "publishAt": "2026-08-10T14:00:00-06:00",
-    "dateDisplay": "August 10, 2008",
+    "dateDisplay": "August 10, 1998",
     "timeDisplay": "2:00 PM MDT",
-    "title": "TNA Hard Justice 2008",
-    "label": "Aug 10 - Hard Justice 2008",
-    "summary": "Samoa Joe retained the TNA World Heavyweight Championship against Booker T in a steel cage weapons match.",
-    "image": "2026-08-10-14-tna-hard-justice-2008.jpg",
-    "caption": "August 10, 2008: Samoa Joe retained the TNA World Heavyweight Championship against Booker T in a steel cage weapons match. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 10 - Hard Justice 2008. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "title": "Kane and Mankind Reclaim the WWF Tag Team Titles",
+    "label": "Aug 10 - Kane & Mankind Regain WWF Tag Titles",
+    "summary": "At Raw Is War, Kane and Mankind, with Paul Bearer in their corner, regained the WWF Tag Team Championship in a Four Corners match after Kane chokeslammed and pinned The Undertaker.",
+    "image": "14-00-kane-mankind-wwf-tag-titles.png",
+    "caption": "August 10, 1998: Kane and Mankind — with Paul Bearer in their corner — walked into Raw Is War’s Four Corners tag match and walked out WWF Tag Team Champions again.\n\nKane chokeslammed The Undertaker, then covered him to reclaim the titles. Four teams, one chaotic Attitude Era finish, and two of the most iconic tag belts of the era.\n\nFull match: link in bio.\n\n#Kane #Mankind #PaulBearer #WWF #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Original illustrated portrait of Kane and Mankind holding matching late-1990s WWF Tag Team Championship belts, with their manager Paul Bearer behind them in a red-lit wrestling arena.",
     "videos": [
       {
-        "title": "Hard Justice 2008",
-        "url": "https://www.youtube.com/watch?v=HuW9LwGIt5o",
+        "title": "Kane & Mankind vs. Stone Cold & Undertaker vs. The Rock & D’Lo Brown vs. New Age Outlaws",
+        "url": "https://www.youtube.com/watch?v=daSPUC-yqnc",
         "provider": "YouTube",
-        "sourceChannel": "TNA Wrestling",
-        "matchType": "exact"
+        "matchType": "verified_exact"
       }
     ],
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "WWF Raw Is War, August 10, 1998",
+      "Official YouTube watch page"
     ],
-    "promotion": "TNA",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account"
+    "promotion": "WWF",
+    "replacesHeldTopic": {
+      "id": "20260810-14-tna-hard-justice-2008",
+      "reason": "User-approved August 10 replacement: exact title-change moment."
+    },
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "user_approved_original_event_specific_illustration",
+    "visualQualityStatus": "user_approved_portrait_asset_meta_4x5_crop_verified",
+    "visualRightsStatus": "Original account-created artwork; no third-party image material used"
   },
   {
-    "id": "20260810-20-nxt-takeover-toronto-2019",
+    "id": "20260810-20-luger-bret-us-title",
     "publishAt": "2026-08-10T20:00:00-06:00",
-    "dateDisplay": "August 10, 2019",
+    "dateDisplay": "August 10, 1998",
     "timeDisplay": "8:00 PM MDT",
-    "title": "NXT TakeOver Toronto 2019",
-    "label": "Aug 10 - TakeOver Toronto 2019",
-    "summary": "Adam Cole retained the NXT Championship against Johnny Gargano in a two-out-of-three-falls match.",
-    "image": "2026-08-10-20-nxt-takeover-toronto-2019.jpg",
-    "caption": "August 10, 2019: Adam Cole retained the NXT Championship against Johnny Gargano in a two-out-of-three-falls match. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 10 - TakeOver Toronto 2019. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "title": "Lex Luger Makes Bret Hart Submit for the U.S. Title",
+    "label": "Aug 10 - Luger Makes Bret Submit",
+    "summary": "On WCW Monday Nitro, Lex Luger ducked Bret Hart's taped-knuckles shot, applied the Torture Rack, and made Hart submit to win the WCW United States Heavyweight Championship.",
+    "image": "20-00-luger-bret-torture-rack.png",
+    "caption": "August 10, 1998: Bret Hart reached for the taped knuckles — but Lex Luger ducked the swing.\n\nSeconds later, Bret was across Luger’s shoulders in the Torture Rack, tapping out as Luger won a record-tying fifth WCW United States Championship.\n\nA pure Monday Nitro title-change finish.\n\nFull match: link in bio.\n\n#LexLuger #BretHart #WCW #MondayNitro #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Original illustrated action scene of Lex Luger in long black jeans applying the Torture Rack to Bret Hart in pink-and-black gear during a 1998 WCW Nitro ring match, with the U.S. Championship belt nearby.",
     "videos": [
       {
-        "title": "FULL EVENT: NXT TakeOver: Toronto 2019 | Cole vs. Gargano; Baszler vs. Yim",
-        "url": "https://www.youtube.com/watch?v=wK8bhsVVxCY",
-        "sourceChannel": "WWE NXT",
-        "matchType": "exact"
+        "title": "FULL EPISODE: Lex Luger vs. Bret Hart; Goldberg vs. Meng: WCW Monday Nitro, Aug. 10, 1998",
+        "url": "https://www.youtube.com/watch?v=5l2aKdNVSPU",
+        "provider": "YouTube",
+        "matchType": "verified_exact"
       }
     ],
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "WCW Monday Nitro, August 10, 1998",
+      "Official YouTube watch page"
     ],
-    "promotion": "NXT",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account"
+    "promotion": "WCW",
+    "replacesHeldTopic": {
+      "id": "20260810-20-nxt-takeover-toronto-2019",
+      "reason": "User-approved August 10 replacement: exact title-change moment."
+    },
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "user_approved_original_event_specific_illustration",
+    "visualQualityStatus": "user_approved_portrait_asset_meta_4x5_crop_verified",
+    "visualRightsStatus": "Original account-created artwork; no third-party image material used"
   },
   {
     "id": "20260811-08-cena-calls-out-lesnar",
