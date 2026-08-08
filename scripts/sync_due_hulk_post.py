@@ -59,8 +59,37 @@ def save_site_data(rows):
 
 
 def same_public_entry(existing, candidate):
-    keys = ("id", "publishAt", "title", "caption", "image", "videos")
+    keys = ("id", "publishAt", "title", "caption", "altText", "image", "videos", "videoStatus")
     return bool(existing) and all(existing.get(key) == candidate.get(key) for key in keys)
+
+
+def video_provider(video):
+    if video.get("provider"):
+        return video["provider"]
+    if re.fullmatch(r"https://www\.youtube\.com/watch\?v=[A-Za-z0-9_-]{11}", video.get("url", "")):
+        return "YouTube"
+    return "Video"
+
+
+def video_match_status(video):
+    if video.get("matchStatus"):
+        return video["matchStatus"]
+    if video.get("matchType"):
+        return f"verified_{video['matchType']}"
+    if video_provider(video) == "YouTube":
+        return "verified_exact_youtube_watch"
+    return ""
+
+
+def is_verified_matching_destination(video):
+    url = video.get("url", "")
+    return bool(
+        video.get("verified")
+        and video.get("videoTitle")
+        and video_provider(video)
+        and video_match_status(video).startswith("verified_")
+        and re.fullmatch(r"https://[^\s]+", url)
+    )
 
 
 def stage_changed_paths(image_name):
@@ -90,16 +119,11 @@ def main():
         direct_videos = direct.get("videos", []) if direct else []
         if direct and not direct_videos and direct.get("url"):
             direct_videos = [direct]
-        valid_videos = [
-            video
-            for video in direct_videos
-            if video.get("verified")
-            and video.get("videoTitle")
-            and re.fullmatch(r"https://www\.youtube\.com/watch\?v=[A-Za-z0-9_-]{11}", video.get("url", ""))
-        ]
-        if not direct or not direct.get("verified") or not valid_videos:
-            reason = (direct or {}).get("reason") or "missing verified matching direct YouTube watch URL"
-            raise ValueError(f"Skipped {post['id']}: {reason}")
+        valid_videos = [video for video in direct_videos if is_verified_matching_destination(video)]
+        if not direct or direct.get("status") == "unresolved" or not direct.get("verified") or not valid_videos:
+            reason = (direct or {}).get("reason") or "no verified matching video destination"
+            log(f"UNRESOLVED {post['id']} reason={reason}")
+            raise ValueError(f"Unresolved {post['id']}: {reason}")
 
         source_image = Path(post["imageFile"])
         if not source_image.is_file():
@@ -108,10 +132,14 @@ def main():
         item = {key: value for key, value in post.items() if key not in {"imageFile", "imageSelectionRule"}}
         item["image"] = image_name
         item["videos"] = [
-            {"title": video["videoTitle"], "url": video["url"], "provider": "YouTube"}
+            {
+                "title": video["videoTitle"],
+                "url": video["url"],
+                "provider": video_provider(video),
+                "matchType": video_match_status(video),
+            }
             for video in valid_videos[:2]
         ]
-        item.pop("videoStatus", None)
 
         rows = load_site_data()
         existing = next((row for row in rows if row.get("id") == item["id"]), None)
@@ -121,28 +149,34 @@ def main():
             return
 
         shutil.copy2(source_image, REPO / image_name)
-        rows = [row for row in rows if row.get("id") != item["id"]]
+        replaced_id = (post.get("replacesHeldTopic") or {}).get("id")
+        rows = [
+            row
+            for row in rows
+            if row.get("id") not in {item["id"], replaced_id}
+        ]
         rows.append(item)
         save_site_data(rows)
         stamp = datetime.now(ZONE).strftime("%Y%m%d%H%M%S")
         html = HTML.read_text(encoding="utf-8")
         html = re.sub(r'video-links-data\.js\?v=[^"\']+', f"video-links-data.js?v={stamp}", html)
         HTML.write_text(html, encoding="utf-8")
-        urls = ",".join(video["url"] for video in valid_videos[:2])
-        log(f"PREPARED {item['id']} image={image_name} youtube={urls}")
+        links = ",".join(video["url"] for video in valid_videos[:2])
+        log(f"PREPARED {item['id']} image={image_name} links={links}")
 
         if args.deploy:
             stage_changed_paths(image_name)
             if subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=REPO).returncode != 0:
                 run_git("commit", "-m", f"Publish Hulk website entry {item['id']}")
                 run_git("push", "origin", "main")
-                log(f"DEPLOYED {item['id']} youtube={urls}")
+                log(f"DEPLOYED {item['id']} links={links}")
         print(
             json.dumps(
                 {
                     "id": item["id"],
                     "image": image_name,
-                    "youtube": [video["url"] for video in valid_videos[:2]],
+                    "links": [video["url"] for video in valid_videos[:2]],
+                    "notificationRequired": bool((direct or {}).get("notificationRequired")),
                     "status": "prepared",
                     "deployed": args.deploy,
                 }

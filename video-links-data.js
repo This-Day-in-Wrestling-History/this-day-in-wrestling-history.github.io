@@ -3994,39 +3994,40 @@ window.TDWH_VIDEO_POSTS = [
     "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260809-08-bruno-sammartino-vs-larry-zbyszko",
+    "id": "20260809-08-brothers-of-destruction-wcw-tag-titles",
     "publishAt": "2026-08-09T08:00:00-06:00",
-    "dateDisplay": "August 9, 1980",
+    "dateDisplay": "August 9, 2001",
     "timeDisplay": "8:00 AM MDT",
-    "title": "Bruno Sammartino vs. Larry Zbyszko",
-    "label": "Aug 9 - Bruno vs Larry",
-    "summary": "Bruno Sammartino defeated Larry Zbyszko in a steel cage at Showdown at Shea, ending their bitter feud.",
-    "image": "2026-08-09-08-bruno-sammartino-larry-zbyszko-shea-1980.png",
-    "caption": "August 9, 1980: Bruno Sammartino defeated Larry Zbyszko inside a steel cage at Showdown at Shea. Full match in bio: Aug 9 - Bruno vs Larry. #WWF #WrestlingHistory #ThisDayInWrestlingHistory",
+    "title": "Brothers of Destruction Win the WCW Tag Team Championship",
+    "label": "Aug 9 - Brothers of Destruction WCW Tag Titles",
+    "summary": "The Undertaker and Kane defeated Chuck Palumbo and Sean O'Haire on SmackDown to win the WCW Tag Team Championship. The double chokeslam made the title change unforgettable.",
+    "image": "2026-08-09-08-brothers-of-destruction-double-chokeslam.png",
+    "imageFit": "contain",
+    "caption": "August 9, 2001 — The Undertaker and Kane captured the WCW Tag Team Championship, defeating Chuck Palumbo and Sean O'Haire on SmackDown. The Brothers of Destruction made the title change unforgettable with a double chokeslam. Watch the match on the site — link in bio. #WWE #Undertaker #Kane #WCW #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Illustrated 2001 SmackDown action scene of The Undertaker and Kane delivering simultaneous double chokeslams to Chuck Palumbo and Sean O'Haire.",
     "videos": [
       {
-        "title": "Bruno Sammartino vs. Larry Zbyszko | Steel Cage Match: Showdown at Shea",
-        "url": "https://www.youtube.com/watch?v=9znwZOGAQk0",
-        "provider": "YouTube",
-        "sourceChannel": "WWE",
-        "matchType": "exact"
+        "title": "Chuck Palumbo & Sean O'Haire vs. The Brothers of Destruction — WCW Tag Team Championship Match",
+        "url": "https://www.wwe.com/videos/chuck-palumbo-sean-o-haire-vs-the-brothers-of-destruction-wcw-tag-team-championship-match-smackdown-august-9-2001",
+        "provider": "WWE.com",
+        "matchType": "verified_exact_official_match_page"
       }
     ],
+    "videoStatus": "official_non_youtube_match_page_available",
+    "videoAlertStatus": "user_notified_no_verified_exact_youtube_link",
     "sources": [
-      "WWE",
-      "Official YouTube watch page"
+      "WWE.com official match page"
     ],
-    "promotion": "WWF",
-    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
-    "imageSelectionType": "original_ai_editorial_illustration",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "promotion": "WWE",
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "user_approved_original_event_specific_illustration",
+    "visualQualityStatus": "user_approved_portrait_asset_meta_4x5_crop_verified",
+    "visualRightsStatus": "Original account-created artwork; no third-party image material used",
     "replacesHeldTopic": {
-      "id": "20260809-08-hogan-regains-the-wcw-title",
-      "title": "Hogan Regains the WCW Title",
-      "dateDisplay": "August 9, 1997",
-      "summary": "Hollywood Hogan defeated Lex Luger at Road Wild to regain the WCW World Heavyweight Championship.",
-      "status": "unavailable_after_verification"
+      "id": "20260809-08-bruno-sammartino-vs-larry-zbyszko",
+      "title": "Bruno Sammartino vs. Larry Zbyszko",
+      "dateDisplay": "August 9, 1980",
+      "status": "outside_current_1985_to_2005_window"
     },
     "contentStatus": "approved_replacement"
   },
@@ -4035,54 +4036,68 @@ window.TDWH_VIDEO_POSTS = [
     "publishAt": "2026-08-09T14:00:00-06:00",
     "dateDisplay": "August 9, 1997",
     "timeDisplay": "2:00 PM MDT",
-    "title": "Sabu vs. Terry Funk Barbed Wire",
-    "label": "Aug 9 - Sabu Funk barbed wire",
-    "summary": "Sabu defeated Terry Funk in ECW’s infamous barbed-wire World Title match, a bout Paul Heyman never repeated.",
-    "image": "2026-08-09-14-sabu-vs-terry-funk-barbed-wire.jpg",
-    "caption": "August 9, 1997: Sabu defeated Terry Funk in ECW’s infamous barbed-wire World Title match, a bout Paul Heyman never repeated. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 9 - Sabu Funk barbed wire. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "title": "Sabu vs. Terry Funk: Born to Be Wired",
+    "label": "Aug 9 - Sabu vs Terry Funk",
+    "summary": "Sabu defeated Terry Funk in ECW's no-rope barbed-wire match at Born to Be Wired to become ECW World Heavyweight Champion. By the finish, both men were trapped in the wire.",
+    "image": "2026-08-09-14-sabu-terry-funk-barbed-wire-approved.png",
+    "imageFit": "contain",
+    "caption": "August 9, 1997 — Sabu defeated Terry Funk in ECW's no-rope barbed-wire match at Born to Be Wired to become ECW World Heavyweight Champion. By the finish, both men were trapped in the wire. Watch the match on the site — link in bio. #ECW #Sabu #TerryFunk #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Black-and-white illustrated late-match scene of Sabu tangled in barbed wire as he struggles beside Terry Funk in ECW's 1997 no-rope barbed-wire championship match.",
     "videos": [
       {
-        "title": "Terry Funk vs. Sabu - ECW Born to Be Wired 1997",
+        "title": "Terry Funk vs. Sabu — ECW Born to Be Wired 1997 (match excerpt/review)",
         "url": "https://www.youtube.com/watch?v=G0n3lBRlpUY",
-        "provider": "YouTube"
+        "provider": "YouTube",
+        "matchType": "verified_match_specific_third_party_excerpt_review"
+      },
+      {
+        "title": "ECW Born to Be Wired — exact commercial release",
+        "url": "https://rfvideo.com/products/ecw-born-to-be-wired",
+        "provider": "RF Video",
+        "matchType": "verified_exact_commercial_source"
       }
     ],
+    "videoStatus": "match_specific_youtube_excerpt_plus_exact_commercial_source",
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "WWE.com",
+      "RF Video commercial listing"
     ],
     "promotion": "ECW",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account"
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "user_approved_original_event_specific_illustration",
+    "visualQualityStatus": "user_approved_portrait_asset_meta_4x5_crop_verified",
+    "visualRightsStatus": "Original account-created artwork; no third-party image material used"
   },
   {
     "id": "20260809-20-chris-jericho-debuts-in-wwf",
     "publishAt": "2026-08-09T20:00:00-06:00",
     "dateDisplay": "August 9, 1999",
     "timeDisplay": "8:00 PM MDT",
-    "title": "Chris Jericho Debuts in WWF",
+    "title": "Chris Jericho's WWF Debut",
     "label": "Aug 9 - Jericho debut",
-    "summary": "The Millennium countdown hit zero on Raw and Chris Jericho interrupted The Rock for one of the era’s most memorable debuts.",
-    "image": "2026-08-09-20-chris-jericho-debuts-in-wwf.jpg",
-    "caption": "August 9, 1999: The Millennium countdown hit zero on Raw and Chris Jericho interrupted The Rock for one of the era’s most memorable debuts. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 9 - Jericho debut. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "summary": "The Millennium countdown hit zero on Raw Is War, Chris Jericho appeared on the stage, and The Rock had a new problem. It remains one of the Attitude Era's most memorable debuts.",
+    "image": "2026-08-09-20-chris-jericho-wwf-debut-approved.png",
+    "imageFit": "contain",
+    "caption": "August 9, 1999 — the Millennium countdown hit zero, Chris Jericho appeared on the Raw Is War stage, and The Rock had a new problem. One of the most unforgettable debuts of the Attitude Era. Watch the full segment on the site — link in bio. #WWE #ChrisJericho #TheRock #Y2J #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Illustrated 1999 Raw Is War scene: The Rock stands in the ring holding a microphone while Chris Jericho, in a sparkling silver jacket, stands on the ramp with his back to the ring and arms spread beneath a 00:00:00 countdown clock.",
     "videos": [
       {
         "title": "Chris Jericho's WWE Debut",
         "url": "https://www.youtube.com/watch?v=DGsBRImD0po",
-        "provider": "YouTube"
+        "provider": "YouTube",
+        "matchType": "verified_exact_segment"
       }
     ],
+    "videoStatus": "verified_exact_youtube_segment",
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "WWE.com",
+      "Official YouTube watch page"
     ],
     "promotion": "WWF",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account"
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "user_approved_original_event_specific_illustration",
+    "visualQualityStatus": "user_approved_portrait_asset_meta_4x5_crop_verified",
+    "visualRightsStatus": "Original account-created artwork; no third-party image material used"
   },
   {
     "id": "20260810-08-wcw-hog-wild-1996",

@@ -288,6 +288,10 @@
       object-fit: cover;
     }
 
+    .poster.poster-contain {
+      object-fit: contain;
+    }
+
     h2 {
       margin: 0;
       font-size: 1.32rem;
@@ -553,7 +557,9 @@
             <option value="all">All sources</option>
             <option value="YouTube">YouTube</option>
             <option value="WWE">WWE</option>
+            <option value="WWE.com">WWE.com</option>
             <option value="Dailymotion">Dailymotion</option>
+            <option value="RF Video">RF Video</option>
           </select>
         </div>
       </div>
@@ -568,7 +574,7 @@
     </footer>
   </main>
 
-  <script src="video-links-data.js?v=20260805203411"></script>
+  <script src="video-links-data.js?v=20260808133253"></script>
   <script src="video-link-title-overrides.js"></script>
   <script>
     const postList = document.querySelector("#postList");
@@ -707,16 +713,17 @@
           </a>
           <button class="copy-button" type="button" data-copy="${escapeHtml(video.url)}">Copy</button>
         </div>
-      `).join("") || (post.videoStatus === "unavailable_after_verification"
-        ? `<div class="video-row"><span class="video-link"><span class="link-title"><strong>No verified free video currently available</strong><code>Checked for an exact direct YouTube watch page</code></span></span></div>`
+      `).join("") || (["unavailable_after_verification", "unresolved"].includes(post.videoStatus)
+        ? `<div class="video-row"><span class="video-link"><span class="link-title"><strong>No verified matching video currently available</strong><code>${escapeHtml(post.videoResolutionReason || "Checked for an exact matching destination")}</code></span></span></div>`
         : "");
 
       const sources = post.sources && post.sources.length
         ? `<details><summary>Sources checked</summary><div class="source-list">${post.sources.map(renderSource).join("")}</div></details>`
         : "";
 
+      const imageClass = post.imageFit === "contain" ? "poster poster-contain" : "poster";
       const image = post.image
-        ? `<img class="poster" src="${escapeHtml(post.image)}" alt="${escapeHtml(post.title)} post image">`
+        ? `<img class="${imageClass}" src="${escapeHtml(post.image)}" alt="${escapeHtml(post.altText || `${post.title} post image`)}">`
         : `<div class="poster" role="img" aria-label="${escapeHtml(post.title)}"></div>`;
 
       return `

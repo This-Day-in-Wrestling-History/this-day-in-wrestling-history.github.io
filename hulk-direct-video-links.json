@@ -86,11 +86,15 @@
         "videoId": "DGsBRImD0po",
         "videoTitle": "Chris Jericho's WWE Debut",
         "url": "https://www.youtube.com/watch?v=DGsBRImD0po",
-        "verified": true
+        "provider": "YouTube",
+        "verified": true,
+        "matchStatus": "verified_exact_segment"
       }
     ],
     "verified": true,
-    "status": "verified"
+    "status": "resolved",
+    "youtubeStatus": "verified",
+    "notificationRequired": false
   },
   "20260818-08-shockmaster-debuts": {
     "videos": [
@@ -168,13 +172,24 @@
     "videos": [
       {
         "videoId": "G0n3lBRlpUY",
-        "videoTitle": "Terry Funk vs. Sabu - ECW Born to Be Wired 1997",
+        "videoTitle": "Terry Funk vs. Sabu — ECW Born to Be Wired 1997 (match excerpt/review)",
         "url": "https://www.youtube.com/watch?v=G0n3lBRlpUY",
-        "verified": true
+        "provider": "YouTube",
+        "verified": true,
+        "matchStatus": "verified_match_specific_third_party_excerpt_review"
+      },
+      {
+        "videoTitle": "ECW Born to Be Wired — exact commercial release",
+        "url": "https://rfvideo.com/products/ecw-born-to-be-wired",
+        "provider": "RF Video",
+        "verified": true,
+        "matchStatus": "verified_exact_commercial_source"
       }
     ],
     "verified": true,
-    "status": "verified"
+    "status": "resolved",
+    "youtubeStatus": "verified_match_specific_third_party",
+    "notificationRequired": false
   },
   "20260811-14-the-fiend-s-in-ring-debut": {
     "videos": [
@@ -1118,20 +1133,23 @@
     "status": "verified",
     "replacementOf": "20260808-14-raw-builds-summerslam-1994"
   },
-  "20260809-08-bruno-sammartino-vs-larry-zbyszko": {
+  "20260809-08-brothers-of-destruction-wcw-tag-titles": {
     "videos": [
       {
-        "videoId": "9znwZOGAQk0",
-        "videoTitle": "Bruno Sammartino vs. Larry Zbyszko | Steel Cage Match: Showdown at Shea",
-        "url": "https://www.youtube.com/watch?v=9znwZOGAQk0",
+        "videoTitle": "Chuck Palumbo & Sean O'Haire vs. The Brothers of Destruction — WCW Tag Team Championship Match",
+        "url": "https://www.wwe.com/videos/chuck-palumbo-sean-o-haire-vs-the-brothers-of-destruction-wcw-tag-team-championship-match-smackdown-august-9-2001",
+        "provider": "WWE.com",
         "verified": true,
-        "sourceChannel": "WWE",
-        "matchType": "exact"
+        "matchStatus": "verified_exact_official_match_page"
       }
     ],
     "verified": true,
-    "status": "verified",
-    "replacementOf": "20260809-08-hogan-regains-the-wcw-title"
+    "status": "resolved",
+    "youtubeStatus": "unavailable_after_verification",
+    "notificationRequired": true,
+    "notificationStatus": "user_notified_2026-08-08",
+    "reason": "No verified exact YouTube watch URL; the official WWE match page is available.",
+    "replacementOf": "20260809-08-bruno-sammartino-vs-larry-zbyszko"
   },
   "20260811-08-cena-calls-out-lesnar": {
     "videos": [
