@@ -3230,5 +3230,35 @@ window.TDWH_VIDEO_POSTS = [
       "https://www.primevideo.com/-/id/detail/0LLELI03G4FVJLJL74IUURGIB9",
       "https://en.wikipedia.org/wiki/Ric_Flair"
     ]
+  },
+  {
+    "id": "2026-08-09-0800-bruno-sammartino-vs--larry-zbyszko--steel-cage",
+    "publishAt": "2026-08-09T08:00:00-06:00",
+    "calendarDate": "2026-08-09",
+    "dateDisplay": "August 9, 1980",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Bruno Sammartino vs. Larry Zbyszko, steel cage",
+    "label": "August 9 - Bruno vs. Zbyszko at Shea",
+    "era": "1974-1988/89",
+    "promotion": "WWF",
+    "location": "Shea Stadium, Queens, New York",
+    "summary": "Bruno Sammartino defeated Larry Zbyszko in a steel cage at Showdown at Shea, the decisive payoff to their teacher-versus-student feud in front of the enormous Shea Stadium audience.",
+    "image": "territory-content/aug02-aug31-2026-production/feed-assets/selected-youtube-thumbnails/2026-08-09-0800-hv3V1dFTsPs.jpg",
+    "videos": [
+      {
+        "title": "WWE: Bruno Sammartino vs. Larry Zbyszko cage match at Showdown at Shea",
+        "url": "https://www.wwe.com/videos/bruno-sammartino-vs-larry-zbyszko-cage-match-showdown-at-shea-august-9-1980",
+        "provider": "Archive"
+      },
+      {
+        "title": "The History of WWE: 1980 WWF results archive",
+        "url": "https://thehistoryofwwe.com/wwf-results-1980/",
+        "provider": "Archive"
+      }
+    ],
+    "sources": [
+      "https://www.wwe.com/videos/bruno-sammartino-vs-larry-zbyszko-cage-match-showdown-at-shea-august-9-1980",
+      "https://thehistoryofwwe.com/wwf-results-1980/"
+    ]
   }
 ];
