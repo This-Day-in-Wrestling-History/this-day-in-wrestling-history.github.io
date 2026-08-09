@@ -540,37 +540,8 @@
   "20260813-08-ecw-hardcore-heaven-1994": {
     "videos": [
       {
-        "videoId": "SIueUiSYuzo",
-        "videoTitle": "STOP THE CHAIRS",
-        "url": "https://www.youtube.com/watch?v=SIueUiSYuzo",
-        "verified": true,
-        "sourceChannel": "WWE Vault",
-        "matchType": "exact"
-      }
-    ],
-    "verified": true,
-    "status": "verified"
-  },
-  "20260813-14-wcw-new-blood-rising": {
-    "videos": [
-      {
-        "videoId": "TPVW2VtMrKg",
-        "videoTitle": "FULL MATCH: Booker T vs. Jeff Jarrett | WCW Title Match: WCW New Blood Rising 2000",
-        "url": "https://www.youtube.com/watch?v=TPVW2VtMrKg",
-        "verified": true,
-        "sourceChannel": "WCW",
-        "matchType": "exact"
-      }
-    ],
-    "verified": true,
-    "status": "verified"
-  },
-  "20260813-20-jim-neidhart-remembered": {
-    "videos": [
-      {
-        "videoId": "oqUTdSDB5oY",
-        "videoTitle": "Celebrating the life and career of Jim ‘The Anvil’ Neidhart",
-        "url": "https://www.youtube.com/watch?v=oqUTdSDB5oY",
+        "videoTitle": "The ECW fans throw chairs into the ring: Hardcore Heaven 1994",
+        "url": "https://www.wwe.com/videos/the-ecw-fans-throw-chairs-into-the-ring-hardcore-heaven-1994",
         "verified": true,
         "sourceChannel": "WWE",
         "matchType": "exact"
@@ -578,6 +549,27 @@
     ],
     "verified": true,
     "status": "verified"
+  },
+  "20260813-14-bret-hart-regains-wcw-us-title": {
+    "videos": [
+      {
+        "videoId": "rd38LyH2wPI",
+        "videoTitle": "FULL EPISODE: Bret Hart challenges Lex Luger for U.S. Title: WCW Thunder, Aug. 13, 1998",
+        "url": "https://www.youtube.com/watch?v=rd38LyH2wPI",
+        "verified": true,
+        "sourceChannel": "WCW on YouTube",
+        "matchType": "exact"
+      }
+    ],
+    "verified": true,
+    "status": "verified"
+  },
+  "20260813-20-dusty-rhodes-summerslam-build": {
+    "videos": [],
+    "verified": false,
+    "status": "unresolved",
+    "reason": "No verified exact August 13, 1989 SummerSlam Report clip is available. Do not attach a generic Dusty Rhodes video.",
+    "notificationRequired": false
   },
   "20260814-08-summerslam-2011": {
     "videos": [

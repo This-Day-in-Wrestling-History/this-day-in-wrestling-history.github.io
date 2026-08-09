@@ -4414,84 +4414,90 @@ window.TDWH_VIDEO_POSTS = [
     "publishAt": "2026-08-13T08:00:00-06:00",
     "dateDisplay": "August 13, 1994",
     "timeDisplay": "8:00 AM MDT",
-    "title": "ECW Hardcore Heaven 1994",
-    "label": "Aug 13 - Hardcore Heaven 1994",
-    "summary": "The first ECW Hardcore Heaven featured Terry Funk and Cactus Jack going to a no contest and the famous chair-throwing scene.",
-    "image": "2026-08-13-08-ecw-hardcore-heaven-1994.jpg",
-    "caption": "August 13, 1994: The first ECW Hardcore Heaven featured Terry Funk and Cactus Jack going to a no contest and the famous chair-throwing scene. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 13 - Hardcore Heaven 1994. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "title": "ECW Hardcore Heaven 1994 Chair Storm",
+    "label": "Aug 13 - ECW Chair Storm",
+    "summary": "At the first ECW Hardcore Heaven, Cactus Jack and Terry Funk's match went to a no contest after Public Enemy interfered. ECW Arena fans then threw folding chairs into the ring in one of the promotion's defining early images.",
+    "image": "08-00-ecw-hardcore-heaven-chair-storm.png",
+    "imageFit": "contain",
+    "caption": "August 13, 1994: The first ECW Hardcore Heaven gave us one of the promotion's defining images.\n\nCactus Jack and Terry Funk's match fell apart after Public Enemy interfered—then the ECW Arena crowd buried the ring in a storm of folding chairs.\n\nWatch the exact moment: link in bio.\n\n#ECW #CactusJack #TerryFunk #HardcoreHeaven #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Original illustrated 1994 ECW Arena scene: Cactus Jack and Terry Funk stand on opposite sides of a wrestling ring while dozens of folding metal chairs fly through the air and cover the canvas, with a packed crowd roaring behind them.",
     "videos": [
       {
-        "title": "STOP THE CHAIRS",
-        "url": "https://www.youtube.com/watch?v=SIueUiSYuzo",
-        "sourceChannel": "WWE Vault",
-        "matchType": "exact"
+        "title": "The ECW fans throw chairs into the ring: Hardcore Heaven 1994",
+        "url": "https://www.wwe.com/videos/the-ecw-fans-throw-chairs-into-the-ring-hardcore-heaven-1994",
+        "provider": "WWE",
+        "matchType": "verified_exact"
       }
     ],
+    "videoStatus": "verified_exact_official_match_moment",
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "ECW Hardcore Heaven, August 13, 1994",
+      "https://www.wwe.com/videos/the-ecw-fans-throw-chairs-into-the-ring-hardcore-heaven-1994"
     ],
     "promotion": "ECW",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account"
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "user_approved_original_event_specific_illustration",
+    "visualQualityStatus": "user_approved_portrait_asset_meta_4x5_crop_verified",
+    "visualRightsStatus": "Original account-created artwork; no third-party image material used",
+    "contentStatus": "approved_replacement"
   },
   {
-    "id": "20260813-14-wcw-new-blood-rising",
+    "id": "20260813-14-bret-hart-regains-wcw-us-title",
     "publishAt": "2026-08-13T14:00:00-06:00",
-    "dateDisplay": "August 13, 2000",
+    "dateDisplay": "August 13, 1998",
     "timeDisplay": "2:00 PM MDT",
-    "title": "WCW New Blood Rising",
-    "label": "Aug 13 - New Blood Rising",
-    "summary": "WCW New Blood Rising featured Booker T retaining the WCW World Heavyweight Championship against Jeff Jarrett.",
-    "image": "2026-08-13-14-wcw-new-blood-rising.jpg",
-    "caption": "August 13, 2000: WCW New Blood Rising featured Booker T retaining the WCW World Heavyweight Championship against Jeff Jarrett. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 13 - New Blood Rising. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "title": "Bret Hart Regains the WCW United States Championship",
+    "label": "Aug 13 - Bret regains U.S. Title",
+    "summary": "Bret Hart defeated Lex Luger with the Sharpshooter to regain the WCW United States Championship on the Thunder broadcast that aired August 13. The match was recorded in Fargo two days earlier.",
+    "image": "14-00-bret-hart-regains-wcw-us-title.png",
+    "imageFit": "contain",
+    "caption": "August 13, 1998: Bret Hart made Lex Luger submit to the Sharpshooter and regained the WCW United States Championship.\n\nOne date note for the history books: the match was taped August 11 in Fargo, then aired on *WCW Thunder* on August 13.\n\nWatch the full episode: link in bio.\n\n#BretHart #LexLuger #WCWThunder #WCWUnitedStatesChampionship #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Original illustrated 1998 WCW ring scene of Bret Hart in black-and-hot-pink gear stepping in to apply the Sharpshooter to Lex Luger, whose black-jean-clad legs are raised above him. A referee watches beside them in front of a packed arena crowd.",
     "videos": [
       {
-        "title": "FULL MATCH: Booker T vs. Jeff Jarrett | WCW Title Match: WCW New Blood Rising 2000",
-        "url": "https://www.youtube.com/watch?v=TPVW2VtMrKg",
+        "title": "FULL EPISODE: Bret Hart challenges Lex Luger for U.S. Title: WCW Thunder, Aug. 13, 1998",
+        "url": "https://www.youtube.com/watch?v=rd38LyH2wPI",
         "provider": "YouTube",
-        "sourceChannel": "WCW",
-        "matchType": "exact"
+        "matchType": "verified_exact"
       }
     ],
+    "videoStatus": "verified_exact_official_full_episode",
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "WCW Thunder, August 13, 1998 (taped August 11, 1998)",
+      "https://www.youtube.com/watch?v=rd38LyH2wPI"
     ],
     "promotion": "WCW",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account"
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "user_approved_original_event_specific_illustration",
+    "visualQualityStatus": "user_approved_portrait_asset_meta_4x5_crop_verified",
+    "visualRightsStatus": "Original account-created artwork; no third-party image material used",
+    "contentStatus": "approved_replacement"
   },
   {
-    "id": "20260813-20-jim-neidhart-remembered",
+    "id": "20260813-20-dusty-rhodes-summerslam-build",
     "publishAt": "2026-08-13T20:00:00-06:00",
-    "dateDisplay": "August 13, 2018",
+    "dateDisplay": "August 13, 1989",
     "timeDisplay": "8:00 PM MDT",
-    "title": "Jim Neidhart Remembered",
-    "label": "Aug 13 - Jim Neidhart",
-    "summary": "Jim “The Anvil” Neidhart, Hart Foundation powerhouse and WWE Hall of Famer, died on this date in 2018.",
-    "image": "2026-08-13-20-jim-neidhart-remembered.jpg",
-    "caption": "August 13, 2018: Jim “The Anvil” Neidhart, Hart Foundation powerhouse and WWE Hall of Famer, died on this date in 2018. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 13 - Jim Neidhart. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Wikimedia portrait; formatted locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [
-      {
-        "title": "Celebrating the life and career of Jim ‘The Anvil’ Neidhart",
-        "url": "https://www.youtube.com/watch?v=oqUTdSDB5oY",
-        "sourceChannel": "WWE",
-        "matchType": "exact"
-      }
-    ],
+    "title": "Dusty Rhodes in WWF's 1989 SummerSlam Build",
+    "label": "Aug 13 - Dusty SummerSlam build",
+    "summary": "The August 13, 1989 WWF Wrestling Challenge broadcast included the SummerSlam Report as Dusty Rhodes' rivalry with Honky Tonk Man headed toward SummerSlam. It was a promotional appearance, not Dusty's WWF in-ring debut.",
+    "image": "20-00-dusty-rhodes-summerslam-build.png",
+    "imageFit": "contain",
+    "caption": "August 13, 1989: In WWF's SummerSlam build, \"The American Dream\" Dusty Rhodes set his sights on Honky Tonk Man.\n\nThat day's *Wrestling Challenge* featured the SummerSlam Report—not a Dusty match—as their rivalry moved toward SummerSlam.\n\n#DustyRhodes #HonkyTonkMan #WWF #SummerSlam1989 #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Original editorial illustration of Dusty Rhodes joyfully dancing in a wrestling ring, with one leg lifted. He wears black trunks and knee pads with bright yellow polka dots; his bare torso and distinctive side birthmark are visible. This is a stylized era portrait, not a recreation of a specific broadcast frame.",
+    "videos": [],
+    "videoStatus": "unresolved",
+    "videoResolutionReason": "No verified exact August 13, 1989 SummerSlam Report clip is available. No generic Dusty Rhodes link has been substituted.",
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "https://wwfoldschool.com/wwf-wrestling-challenge-1989/",
+      "https://www.blogofdoom.com/2017/02/13/wwf-wrestling-challenge-august-13th-1989/"
     ],
-    "promotion": "WWE",
-    "imageSource": "Local Wikimedia portrait source: portrait-jim-neidhart.jpg",
-    "imageSelectionType": "person_portrait",
-    "visualQualityStatus": "upgraded_approved"
+    "promotion": "WWF",
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "user_approved_original_event_specific_illustration",
+    "visualQualityStatus": "user_approved_portrait_asset_meta_4x5_crop_verified",
+    "visualRightsStatus": "Original account-created artwork; no third-party image material used",
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260814-08-summerslam-2011",
