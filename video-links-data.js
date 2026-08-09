@@ -4682,96 +4682,94 @@ window.TDWH_VIDEO_POSTS = [
     "visualRightsStatus": "Owned original artwork generated locally for this account"
   },
   {
-    "id": "20260816-08-sheamus-vs-zack-ryder",
+    "id": "20260816-08-evolution-betrays-randy-orton",
     "publishAt": "2026-08-16T08:00:00-06:00",
-    "dateDisplay": "August 16, 2010",
-    "timeDisplay": "8:00 AM MDT",
-    "title": "Sheamus vs. Zack Ryder: WWE Title",
-    "label": "Aug 16 - Sheamus vs Ryder",
-    "summary": "Sheamus retained the WWE Championship against Zack Ryder in eleven seconds on Raw.",
-    "image": "2026-08-16-08-sheamus-zack-ryder-raw-2010.png",
-    "caption": "August 16, 2010: Sheamus retained the WWE Championship against Zack Ryder in just eleven seconds on Raw. Full match in bio: Aug 16 - Sheamus vs Ryder. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
-    "videos": [
-      {
-        "title": "Sheamus vs. Zack Ryder | WWE Championship Match: Raw, Aug. 16, 2010",
-        "url": "https://www.youtube.com/watch?v=QtP4bbql1BA",
-        "provider": "YouTube",
-        "sourceChannel": "WWE",
-        "matchType": "exact"
-      }
-    ],
-    "sources": [
-      "WWE",
-      "Official YouTube watch page"
-    ],
-    "promotion": "WWE",
-    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
-    "imageSelectionType": "original_ai_editorial_illustration",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
-    "replacesHeldTopic": {
-      "id": "20260816-08-first-live-smackdown",
-      "title": "First Live SmackDown",
-      "dateDisplay": "August 16, 2001",
-      "summary": "WWE presented the first live SmackDown, introducing the fist stage and a new presentation for the UPN era.",
-      "status": "unavailable_after_verification"
-    },
-    "contentStatus": "approved_replacement"
-  },
-  {
-    "id": "20260816-14-orton-is-kicked-out-of-evolution",
-    "publishAt": "2026-08-16T14:00:00-06:00",
     "dateDisplay": "August 16, 2004",
-    "timeDisplay": "2:00 PM MDT",
-    "title": "Orton Is Kicked Out of Evolution",
-    "label": "Aug 16 - Orton Evolution",
-    "summary": "One night after winning the world title, Randy Orton was turned on by Evolution on Raw.",
-    "image": "2026-08-16-14-orton-is-kicked-out-of-evolution.jpg",
-    "caption": "August 16, 2004: One night after winning the world title, Randy Orton was turned on by Evolution on Raw. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 16 - Orton Evolution. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "timeDisplay": "8:00 AM MDT",
+    "title": "Evolution Betrays Randy Orton",
+    "label": "Aug 16 - Evolution betrays Orton",
+    "summary": "One night after Randy Orton became World Heavyweight Champion at SummerSlam, Evolution turned on its youngest member on Raw. Batista carried Orton on his shoulders while Triple H gave the thumbs-down, sealing the betrayal.",
+    "image": "08-00-evolution-betrays-randy-orton.png",
+    "imageFit": "contain",
+    "caption": "August 16, 2004: One night after Randy Orton became World Heavyweight Champion, Evolution turned on its youngest member.\n\nBatista carried Orton on his shoulders. Triple H gave the thumbs-down. Their former prot\u00e9g\u00e9 was dropped and left behind.\n\nWatch the exact moment: link in bio.\n\n#WWE #WWF #RandyOrton #TripleH #Batista #Evolution #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Original illustrated Raw 2004 scene: Randy Orton, visibly shocked, sits high on Batista's shoulders inside a wrestling ring while Triple H, in a dark suit, delivers a thumbs-down beside them. The arena crowd is in the background.",
     "videos": [
       {
         "title": "Evolution turns on Randy Orton: Raw, Aug. 16, 2004",
         "url": "https://www.youtube.com/watch?v=bOV_2JVJlao",
+        "provider": "YouTube",
         "sourceChannel": "WWE Vault",
-        "matchType": "exact"
+        "matchType": "verified_exact"
       }
     ],
+    "videoStatus": "verified_exact_official_video",
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "WWE Raw, August 16, 2004",
+      "https://www.wwe.com/videos/evolution-turns-on-randy-orton-raw-august-16-2004",
+      "https://www.youtube.com/watch?v=bOV_2JVJlao"
     ],
     "promotion": "WWE",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account"
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "original_ai_editorial_illustration",
+    "visualQualityStatus": "approved",
+    "visualRightsStatus": "Original account-created editorial artwork; no third-party image material used"
   },
   {
-    "id": "20260816-20-tna-hard-justice-2009",
-    "publishAt": "2026-08-16T20:00:00-06:00",
-    "dateDisplay": "August 16, 2009",
-    "timeDisplay": "8:00 PM MDT",
-    "title": "TNA Hard Justice 2009",
-    "label": "Aug 16 - Hard Justice 2009",
-    "summary": "Kurt Angle retained the TNA World Championship against Matt Morgan and Sting at Hard Justice.",
-    "image": "2026-08-16-20-tna-hard-justice-2009.jpg",
-    "caption": "August 16, 2009: Kurt Angle retained the TNA World Championship against Matt Morgan and Sting at Hard Justice. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 16 - Hard Justice 2009. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "id": "20260816-14-ron-simmons-vader-wcw-title",
+    "publishAt": "2026-08-16T14:00:00-06:00",
+    "dateDisplay": "August 16, 1992 broadcast",
+    "timeDisplay": "2:00 PM MDT",
+    "title": "Ron Simmons Defeats Vader for the WCW World Title",
+    "label": "Aug 16 - Ron Simmons vs. Vader",
+    "summary": "The historic Ron Simmons vs. Vader WCW World title match was broadcast on August 16, 1992. The match itself had been taped on August 2, when Simmons defeated Vader to win the championship.",
+    "image": "14-00-ron-simmons-vader-wcw-title.png",
+    "imageFit": "contain",
+    "caption": "August 16, 1992 broadcast: Ron Simmons' historic WCW World Heavyweight Championship victory over Vader aired on WCW television.\n\nThe match itself was taped on August 2\u2014so this marks the broadcast date, not the date the match took place.\n\nWatch the exact match: link in bio.\n\n#WCW #RonSimmons #Vader #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Original illustrated WCW title-match scene: Ron Simmons kneels in the ring with both arms raised in victory while Vader lies facedown nearby. A referee and a packed arena crowd are visible behind them.",
     "videos": [
       {
-        "title": "TNA Hard Justice 2009",
-        "url": "https://www.youtube.com/watch?v=G-vGE0ODiMQ",
-        "provider": "YouTube"
+        "title": "WWE Hall of Fame: Ron Simmons defeats Vader to win the WCW World Heavyweight Championship",
+        "url": "https://www.youtube.com/watch?v=IB8DYpLAIfs",
+        "provider": "YouTube",
+        "sourceChannel": "WWE",
+        "matchType": "verified_exact"
       }
     ],
+    "videoStatus": "verified_exact_official_video",
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "WCW television broadcast, August 16, 1992 (match taped August 2, 1992)",
+      "https://www.youtube.com/watch?v=IB8DYpLAIfs"
     ],
-    "promotion": "TNA",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account"
+    "promotion": "WCW",
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "original_ai_editorial_illustration",
+    "visualQualityStatus": "approved",
+    "visualRightsStatus": "Original account-created editorial artwork; no third-party image material used"
+  },
+  {
+    "id": "20260816-20-booker-t-and-shane-mcmahon-smackdown-fist",
+    "publishAt": "2026-08-16T20:00:00-06:00",
+    "dateDisplay": "August 16, 2001",
+    "timeDisplay": "8:00 PM MDT",
+    "title": "Booker T and Shane McMahon Celebrate Beneath the SmackDown Fist",
+    "label": "Aug 16 - Booker and Shane beneath the Fist",
+    "summary": "On the live WWF SmackDown UPN season debut, the giant Fist entrance set was unveiled. Booker T and Shane McMahon celebrated on the ramp as the Invasion built toward SummerSlam.",
+    "image": "20-00-booker-t-and-shane-mcmahon-smackdown-fist.png",
+    "imageFit": "contain",
+    "caption": "August 16, 2001: SmackDown went live for its UPN season debut\u2014and unveiled the giant Fist set.\n\nBooker T and Shane McMahon celebrated beneath it as the Invasion built toward SummerSlam.\n\n#WWE #WWF #BookerT #ShaneMcMahon #SmackDown #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Original illustrated 2001 WWF SmackDown entrance-ramp scene: Booker T holds the WCW World Championship in one raised hand while Shane McMahon celebrates beside him, with the giant blue-and-silver SmackDown Fist set behind them.",
+    "videos": [],
+    "videoStatus": "unresolved",
+    "videoResolutionReason": "No verified official video destination has been confirmed for Booker T and Shane McMahon's entrance-ramp celebration beneath the SmackDown Fist. The nonofficial visual-reference upload was not used.",
+    "sources": [
+      "WWF SmackDown, August 16, 2001 \u2014 live UPN season debut",
+      "Official WWE SmackDown Fist-set context (not the Booker and Shane celebration): https://www.youtube.com/watch?v=xnK6G0fvsDA"
+    ],
+    "promotion": "WWF",
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "original_ai_editorial_illustration",
+    "visualQualityStatus": "approved",
+    "visualRightsStatus": "Original account-created editorial artwork; no third-party image material used"
   },
   {
     "id": "20260817-08-undertaker-crashes-lesnar-homecoming",

@@ -247,17 +247,12 @@
     "verified": true,
     "status": "verified"
   },
-  "20260816-20-tna-hard-justice-2009": {
-    "videos": [
-      {
-        "videoId": "G-vGE0ODiMQ",
-        "videoTitle": "TNA Hard Justice 2009",
-        "url": "https://www.youtube.com/watch?v=G-vGE0ODiMQ",
-        "verified": true
-      }
-    ],
-    "verified": true,
-    "status": "verified"
+  "20260816-20-booker-t-and-shane-mcmahon-smackdown-fist": {
+    "videos": [],
+    "verified": false,
+    "status": "unresolved",
+    "reason": "No verified official video destination has been confirmed for Booker T and Shane McMahon's entrance-ramp celebration beneath the SmackDown Fist. The nonofficial visual-reference upload was not used.",
+    "notificationRequired": true
   },
   "20260817-14-summerslam-2008-hell-in-a-cell": {
     "videos": [
@@ -613,7 +608,7 @@
     "verified": true,
     "status": "verified"
   },
-  "20260816-14-orton-is-kicked-out-of-evolution": {
+  "20260816-08-evolution-betrays-randy-orton": {
     "videos": [
       {
         "videoId": "bOV_2JVJlao",
@@ -1188,12 +1183,12 @@
     "status": "verified",
     "replacementOf": "20260812-20-kevin-steen-joins-wwe"
   },
-  "20260816-08-sheamus-vs-zack-ryder": {
+  "20260816-14-ron-simmons-vader-wcw-title": {
     "videos": [
       {
-        "videoId": "QtP4bbql1BA",
-        "videoTitle": "Sheamus vs. Zack Ryder | WWE Championship Match: Raw, Aug. 16, 2010",
-        "url": "https://www.youtube.com/watch?v=QtP4bbql1BA",
+        "videoId": "IB8DYpLAIfs",
+        "videoTitle": "WWE Hall of Fame: Ron Simmons defeats Vader to win the WCW World Heavyweight Championship",
+        "url": "https://www.youtube.com/watch?v=IB8DYpLAIfs",
         "verified": true,
         "sourceChannel": "WWE",
         "matchType": "exact"
@@ -1201,7 +1196,7 @@
     ],
     "verified": true,
     "status": "verified",
-    "replacementOf": "20260816-08-first-live-smackdown"
+    "note": "The title match was taped on August 2, 1992 and broadcast on August 16, 1992; this entry is keyed to the broadcast date."
   },
   "20260817-08-undertaker-crashes-lesnar-homecoming": {
     "videos": [
