@@ -4195,101 +4195,117 @@ window.TDWH_VIDEO_POSTS = [
     "visualRightsStatus": "Original account-created artwork; no third-party image material used"
   },
   {
-    "id": "20260811-08-cena-calls-out-lesnar",
+    "id": "20260811-08-rocky-maivia-joins-nation",
     "publishAt": "2026-08-11T08:00:00-06:00",
-    "dateDisplay": "August 11, 2014",
+    "dateDisplay": "August 11, 1997",
     "timeDisplay": "8:00 AM MDT",
-    "title": "John Cena Calls Out Brock Lesnar",
-    "label": "Aug 11 - Cena calls Lesnar",
-    "summary": "John Cena called out Brock Lesnar on Raw as their WWE World Heavyweight Championship rematch at SummerSlam approached.",
-    "image": "2026-08-11-08-cena-lesnar-raw-2014.png",
-    "caption": "August 11, 2014: John Cena called out Brock Lesnar on Raw before their WWE World Heavyweight Championship rematch at SummerSlam. Watch in bio: Aug 11 - Cena calls Lesnar. #WWE #WrestlingHistory #ThisDayInWrestlingHistory",
+    "title": "Rocky Maivia Joins the Nation of Domination",
+    "label": "Aug 11 - Rocky joins the Nation",
+    "summary": "On Raw, Rocky Maivia aligned with Faarooq's Nation of Domination. The two stood together in the ring with their fists raised, beginning the association that would lead Rocky toward his future as The Rock.",
+    "image": "2026-08-11-08-rocky-maivia-joins-nation.png",
+    "imageFit": "contain",
+    "caption": "August 11, 1997: Rocky Maivia stood beside Faarooq and joined the Nation of Domination.\n\nIt was just the two of them in the ring — Rocky in the striped shirt, jean shorts and loafers, Faarooq with his fist raised — but it set Rocky on the road from Rocky Maivia to The Rock.\n\nFull segment: link in bio.\n\n#RockyMaivia #TheRock #Faarooq #NationOfDomination #WWF #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Original illustrated 1997 WWF ring scene of Faarooq in black gear with a patterned Nation sash and Rocky Maivia in a striped polo, denim shorts, and loafers standing side by side with their fists raised.",
     "videos": [
       {
-        "title": "John Cena calls out Brock Lesnar: Raw, Aug. 11, 2014",
-        "url": "https://www.youtube.com/watch?v=b8ch_Dh-9aU",
+        "title": "Rocky Maivia Joins the Nation of Domination! 1997 (WWF)",
+        "url": "https://www.youtube.com/watch?v=uPEYGduz7AI",
         "provider": "YouTube",
-        "sourceChannel": "WWE",
-        "matchType": "exact"
+        "sourceChannel": "Old-School-Wrestling-Clips",
+        "matchType": "verified_exact_segment"
       }
     ],
+    "videoStatus": "verified_exact_youtube_segment",
     "sources": [
-      "WWE",
-      "Official YouTube watch page"
+      "WWF Raw, August 11, 1997",
+      "Match-specific YouTube segment"
     ],
-    "promotion": "WWE",
-    "imageSource": "Original AI-generated editorial wrestling illustration created for This Day in Wrestling History; no third-party photo or thumbnail material used",
-    "imageSelectionType": "original_ai_editorial_illustration",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Original account-created AI-generated editorial artwork; no third-party image material used",
+    "promotion": "WWF",
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "user_approved_original_event_specific_illustration",
+    "visualQualityStatus": "user_approved_portrait_asset_meta_4x5_crop_verified",
+    "visualRightsStatus": "Original account-created artwork; no third-party image material used",
     "replacesHeldTopic": {
-      "id": "20260811-08-hbk-returns-with-rick-rude",
-      "title": "HBK Returns with Rick Rude",
-      "dateDisplay": "August 11, 1997",
-      "summary": "Shawn Michaels returned to Raw against Mankind and revealed Ravishing Rick Rude as his insurance policy.",
-      "status": "unavailable_after_verification"
+      "id": "20260811-08-cena-calls-out-lesnar",
+      "status": "removed_for_user_approved_August_11_replacement"
     },
     "contentStatus": "approved_replacement"
   },
   {
-    "id": "20260811-14-the-fiend-s-in-ring-debut",
+    "id": "20260811-14-rick-rude-returns",
     "publishAt": "2026-08-11T14:00:00-06:00",
-    "dateDisplay": "August 11, 2019",
+    "dateDisplay": "August 11, 1997",
     "timeDisplay": "2:00 PM MDT",
-    "title": "The Fiend’s In-Ring Debut",
-    "label": "Aug 11 - The Fiend debut",
-    "summary": "Bray Wyatt’s Fiend persona made its in-ring debut at SummerSlam against Finn Balor.",
-    "image": "2026-08-11-14-the-fiend-s-in-ring-debut.jpg",
-    "caption": "August 11, 2019: Bray Wyatt’s Fiend persona made its in-ring debut at SummerSlam against Finn Balor. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 11 - The Fiend debut. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "title": "Rick Rude Returns as Shawn Michaels' Insurance Policy",
+    "label": "Aug 11 - Rick Rude returns",
+    "summary": "On Raw, Shawn Michaels' promised insurance policy was revealed as Rick Rude. Rude returned to WWF television, struck Mankind with a steel chair while Chyna distracted the referee, and set up Michaels' Sweet Chin Music for the win.",
+    "image": "2026-08-11-14-rick-rude-returns.png",
+    "imageFit": "contain",
+    "caption": "August 11, 1997: Shawn Michaels said he had an insurance policy. Then Rick Rude walked down the aisle with a steel chair.\n\nWith Mankind closing in, Rude returned to WWF television, blasted him behind the referee's back, and set up Sweet Chin Music for the finish.\n\nWatch the full match: link in bio.\n\n#RickRude #ShawnMichaels #Mankind #WWF #RawIsWar #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Original illustrated 1997 WWF ringside scene. Shawn Michaels, in black-and-white ring gear, turns in surprise toward Rick Rude in a black suit holding a folded steel chair. Mankind, wearing his brown leather mask and brown ring gear, is down on the mat behind them.",
     "videos": [
       {
-        "title": "The Fiend overpowers Finn Balor: SummerSlam 2019",
-        "url": "https://www.youtube.com/watch?v=N222zVo-EO0",
-        "provider": "YouTube"
-      },
-      {
-        "title": "The story of The Fiend's debut at SummerSlam 2019",
-        "url": "https://www.youtube.com/watch?v=4cYzbdWCGlk",
-        "provider": "YouTube"
+        "title": "Mankind vs. Shawn Michaels: August 11, 1997",
+        "url": "https://www.wwe.com/videos/mankind-vs-shawn-michaels-august-11-1997",
+        "provider": "WWE.com",
+        "sourceChannel": "WWE",
+        "matchType": "verified_exact_official_match_page"
       }
     ],
+    "videoStatus": "verified_exact_official_match_page",
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "WWE.com official match page",
+      "WWF Raw, August 11, 1997"
     ],
-    "promotion": "WWE",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account"
+    "promotion": "WWF",
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "user_approved_original_event_specific_illustration",
+    "visualQualityStatus": "user_approved_portrait_asset_meta_4x5_crop_verified",
+    "visualRightsStatus": "Original account-created artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260811-14-the-fiend-s-in-ring-debut",
+      "status": "removed_for_user_approved_August_11_replacement"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
-    "id": "20260811-20-hulk-hogan-birthday",
+    "id": "20260811-20-bobby-heenan-big-gold-tease",
     "publishAt": "2026-08-11T20:00:00-06:00",
-    "dateDisplay": "August 11, 1953",
+    "dateDisplay": "August 11, 1991",
     "timeDisplay": "8:00 PM MDT",
-    "title": "Hulk Hogan Birthday",
-    "label": "Aug 11 - Hulk Hogan",
-    "summary": "Hulk Hogan was born, a central figure in the national expansion era, the WrestleMania boom and WCW’s nWo period.",
-    "image": "2026-08-11-20-hulk-hogan-birthday.jpg",
-    "caption": "August 11, 1953: Hulk Hogan was born, a central figure in the national expansion era, the WrestleMania boom and WCW’s nWo period. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 11 - Hulk Hogan. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Wikimedia portrait; formatted locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "title": "Bobby Heenan Teases Ric Flair's Arrival",
+    "label": "Aug 11 - Heenan teases Flair",
+    "summary": "On Wrestling Challenge, Bobby Heenan appeared with the Big Gold belt and told WWF viewers that its champion, Ric Flair, might be coming to the company. It launched the Real World's Champion arrival story before Flair physically appeared on WWF television.",
+    "image": "2026-08-11-20-bobby-heenan-big-gold-tease.png",
+    "imageFit": "contain",
+    "caption": "August 11, 1991: Bobby Heenan shocked WWF viewers by showing off Big Gold and teasing that its champion, Ric Flair, might be on the way.\n\nBefore Flair ever appeared on WWF television, Heenan had planted the idea of the “Real World’s Champion” arriving with the most iconic belt in wrestling.\n\nFull story: link in bio.\n\n#BobbyHeenan #RicFlair #BigGold #WWF #WrestlingChallenge #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Original illustrated 1991 WWF studio scene of Bobby Heenan in a dark suit holding the ornate Big Gold championship belt on a dark brown leather strap. A subtle blond-haired Ric Flair silhouette appears in the background as a teaser.",
     "videos": [
       {
-        "title": "The New World Order and WWE Legends wish Hulk Hogan a happy birthday",
-        "url": "https://www.youtube.com/watch?v=yvbV1XHEGic",
-        "provider": "YouTube",
+        "title": "Bobby Heenan debuts the NWA World Heavyweight Championship on WWE programming",
+        "url": "https://www.wwe.com/videos/bobby-heenan-debuts-the-nwa-world-heavyweight-championship-on-wwe-programming-wrestling-challenge-aug-17-1991",
+        "provider": "WWE.com",
         "sourceChannel": "WWE",
-        "matchType": "exact"
+        "matchType": "official_exact_segment_with_date_label_discrepancy"
       }
     ],
+    "videoStatus": "official_segment_with_date_label_discrepancy_user_approved",
+    "videoAlertStatus": "user_approved_known_source_date_label_discrepancy",
+    "videoResolutionReason": "WWE's official archive contains the approved segment but labels its page August 17; the user reviewed this discrepancy and approved its use for the August 11 entry.",
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "WWE.com official archive page — date label reads August 17, 1991",
+      "Independent Wrestling Challenge episode records — first tease dated August 11, 1991"
     ],
-    "promotion": "WWE",
-    "imageSource": "Local Wikimedia portrait source: portrait-hulk-hogan.jpg",
-    "imageSelectionType": "person_portrait",
-    "visualQualityStatus": "upgraded_approved"
+    "promotion": "WWF",
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "user_approved_original_event_specific_illustration",
+    "visualQualityStatus": "user_approved_portrait_asset_meta_4x5_crop_verified",
+    "visualRightsStatus": "Original account-created artwork; no third-party image material used",
+    "replacesHeldTopic": {
+      "id": "20260811-20-hulk-hogan-birthday",
+      "status": "removed_for_user_approved_August_11_replacement"
+    },
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260812-08-cm-punk-traps-heyman",
