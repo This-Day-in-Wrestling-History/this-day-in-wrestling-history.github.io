@@ -209,13 +209,15 @@
     "verified": true,
     "status": "verified"
   },
-  "20260814-14-akira-tozawa-wins-cruiserweight-title": {
+  "20260814-14-samoa-joe-wins-super-x-cup": {
     "videos": [
       {
-        "videoId": "qzLxNS8K0l8",
-        "videoTitle": "Neville vs. Akira Tozawa - WWE Cruiserweight Championship Match",
-        "url": "https://www.youtube.com/watch?v=qzLxNS8K0l8",
-        "verified": true
+        "videoId": "EKNMGxmfL6M",
+        "videoTitle": "Samoa Joe vs. AJ Styles: Super X Cup Final, TNA Sacrifice 2005",
+        "url": "https://www.youtube.com/watch?v=EKNMGxmfL6M",
+        "verified": true,
+        "sourceChannel": "TNA / GWN",
+        "matchType": "exact_full_match"
       }
     ],
     "verified": true,
@@ -571,12 +573,11 @@
     "reason": "No verified exact August 13, 1989 SummerSlam Report clip is available. Do not attach a generic Dusty Rhodes video.",
     "notificationRequired": false
   },
-  "20260814-08-summerslam-2011": {
+  "20260814-08-harlem-heat-regains-wcw-tag-titles": {
     "videos": [
       {
-        "videoId": "6i6Zd49Bw_0",
-        "videoTitle": "FULL MATCH - Orton vs. Christian - World Heavyweight Title No Holds Barred Match: SummerSlam 2011",
-        "url": "https://www.youtube.com/watch?v=6i6Zd49Bw_0",
+        "videoTitle": "Harlem Heat vs. Bam Bam Bigelow & Kanyon: WCW Tag Team Championship Match, Road Wild 1999",
+        "url": "https://www.wwe.com/videos/harlem-heat-vs-bam-bam-bigelow-kanyon-wcw-tag-team-championship-match-wcw-road-wild-1999",
         "verified": true,
         "sourceChannel": "WWE",
         "matchType": "exact"
@@ -585,15 +586,14 @@
     "verified": true,
     "status": "verified"
   },
-  "20260814-20-kofi-kingston-birthday": {
+  "20260814-20-lita-wins-womens-championship": {
     "videos": [
       {
-        "videoId": "vw9G5xqzPGo",
-        "videoTitle": "Kofi Kingston's 5 greatest moments",
-        "url": "https://www.youtube.com/watch?v=vw9G5xqzPGo",
+        "videoTitle": "Mickie James vs. Lita: Women's Championship Match, Raw, August 14, 2006",
+        "url": "https://www.wwe.com/videos/mickie-james-vs-lita-women-s-championship-match-raw-august-14-2006",
         "verified": true,
         "sourceChannel": "WWE",
-        "matchType": "related"
+        "matchType": "exact"
       }
     ],
     "verified": true,

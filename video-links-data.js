@@ -4500,87 +4500,103 @@ window.TDWH_VIDEO_POSTS = [
     "contentStatus": "approved_replacement"
   },
   {
-    "id": "20260814-08-summerslam-2011",
+    "id": "20260814-08-harlem-heat-regains-wcw-tag-titles",
     "publishAt": "2026-08-14T08:00:00-06:00",
-    "dateDisplay": "August 14, 2011",
+    "dateDisplay": "August 14, 1999",
     "timeDisplay": "8:00 AM MDT",
-    "title": "SummerSlam 2011",
-    "label": "Aug 14 - SummerSlam 2011",
-    "summary": "CM Punk defeated John Cena to become undisputed WWE Champion before Alberto Del Rio cashed in Money in the Bank.",
-    "image": "2026-08-14-08-summerslam-2011.jpg",
-    "caption": "August 14, 2011: CM Punk defeated John Cena to become undisputed WWE Champion before Alberto Del Rio cashed in Money in the Bank. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 14 - SummerSlam 2011. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "title": "Harlem Heat Regain the WCW World Tag Team Championship",
+    "label": "Aug 14 - Harlem Heat regain WCW gold",
+    "summary": "At WCW Road Wild in Sturgis, Booker T and Stevie Ray defeated Bam Bam Bigelow and Kanyon of the Jersey Triad to regain the WCW World Tag Team Championship for the eighth time.",
+    "image": "08-00-harlem-heat-regains-wcw-tag-titles.png",
+    "imageFit": "contain",
+    "caption": "August 14, 1999: Harlem Heat became eight-time WCW World Tag Team Champions at Road Wild in Sturgis.\n\nBooker T and Stevie Ray knocked off Bam Bam Bigelow and Kanyon of the Jersey Triad to win the gold.\n\nWatch the exact match: link in bio.\n\n#WCW #HarlemHeat #BookerT #StevieRay #RoadWild #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Original illustrated Road Wild 1999 celebration: Booker T, in white ring pants, and Stevie Ray, in classic black-and-red Harlem Heat gear, embrace in the outdoor Sturgis ring after winning the WCW World Tag Team Championship. Both men face the camera and hold a newly won gold championship belt.",
     "videos": [
       {
-        "title": "FULL MATCH - Orton vs. Christian - World Heavyweight Title No Holds Barred Match: SummerSlam 2011",
-        "url": "https://www.youtube.com/watch?v=6i6Zd49Bw_0",
+        "title": "Harlem Heat vs. Bam Bam Bigelow & Kanyon: WCW Tag Team Championship Match, Road Wild 1999",
+        "url": "https://www.wwe.com/videos/harlem-heat-vs-bam-bam-bigelow-kanyon-wcw-tag-team-championship-match-wcw-road-wild-1999",
+        "provider": "WWE",
         "sourceChannel": "WWE",
-        "matchType": "exact"
+        "matchType": "verified_exact"
       }
     ],
+    "videoStatus": "verified_exact_official_match_moment",
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "WCW Road Wild, August 14, 1999 — Sturgis, South Dakota",
+      "https://www.wwe.com/videos/harlem-heat-vs-bam-bam-bigelow-kanyon-wcw-tag-team-championship-match-wcw-road-wild-1999"
     ],
-    "promotion": "WWE",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account"
+    "promotion": "WCW",
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "user_approved_original_event_specific_illustration",
+    "visualQualityStatus": "user_approved_portrait_asset_meta_4x5_crop_verified",
+    "visualRightsStatus": "Original account-created artwork; no third-party image material used",
+    "contentStatus": "approved_replacement"
   },
   {
-    "id": "20260814-14-akira-tozawa-wins-cruiserweight-title",
+    "id": "20260814-14-samoa-joe-wins-super-x-cup",
     "publishAt": "2026-08-14T14:00:00-06:00",
-    "dateDisplay": "August 14, 2017",
+    "dateDisplay": "August 14, 2005",
     "timeDisplay": "2:00 PM MDT",
-    "title": "Akira Tozawa Wins Cruiserweight Title",
-    "label": "Aug 14 - Tozawa Cruiserweight",
-    "summary": "Akira Tozawa defeated Neville on Raw to win the WWE Cruiserweight Championship.",
-    "image": "2026-08-14-14-akira-tozawa-wins-cruiserweight-title.jpg",
-    "caption": "August 14, 2017: Akira Tozawa defeated Neville on Raw to win the WWE Cruiserweight Championship. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 14 - Tozawa Cruiserweight. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Original artwork created for This Day in Wrestling History. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "title": "Samoa Joe Wins the 2005 Super X Cup",
+    "label": "Aug 14 - Samoa Joe wins Super X Cup",
+    "summary": "At TNA Sacrifice, Samoa Joe defeated AJ Styles in the Super X Cup final. After the Muscle Buster, Joe forced Styles to submit to the Coquina Clutch to win the tournament.",
+    "image": "14-00-samoa-joe-wins-super-x-cup.png",
+    "imageFit": "contain",
+    "caption": "August 14, 2005: Samoa Joe beat AJ Styles in the Super X Cup final at TNA Sacrifice.\n\nJoe hit the Muscle Buster, then cinched in the Coquina Clutch to win the Cup and earn an X Division title shot.\n\nWatch the full match: link in bio.\n\n#TNA #SamoaJoe #AJStyles #SuperXCup #Sacrifice #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Original illustrated 2005 TNA ring scene: Samoa Joe, in dark trunks with red detailing and a beaded necklace, applies the Coquina Clutch from behind to AJ Styles, who wears red gear with black-and-white side details and a red forearm sleeve as he struggles on the mat.",
     "videos": [
       {
-        "title": "Neville vs. Akira Tozawa - WWE Cruiserweight Championship Match",
-        "url": "https://www.youtube.com/watch?v=qzLxNS8K0l8",
-        "provider": "YouTube"
+        "title": "Samoa Joe vs. AJ Styles: Super X Cup Final, TNA Sacrifice 2005",
+        "url": "https://www.youtube.com/watch?v=EKNMGxmfL6M",
+        "provider": "YouTube",
+        "sourceChannel": "TNA / GWN",
+        "matchType": "verified_exact_full_match"
       }
     ],
+    "videoStatus": "verified_exact_full_match",
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "TNA Sacrifice, August 14, 2005",
+      "https://www.youtube.com/watch?v=EKNMGxmfL6M"
     ],
-    "promotion": "WWE",
-    "imageSource": "Original locally designed wrestling-history date artwork",
-    "imageSelectionType": "original_rights_clean_date_card",
-    "visualQualityStatus": "upgraded_approved",
-    "visualRightsStatus": "Owned original artwork generated locally for this account"
+    "promotion": "TNA",
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "user_approved_original_event_specific_illustration",
+    "visualQualityStatus": "user_approved_portrait_asset_meta_4x5_crop_verified",
+    "visualRightsStatus": "Original account-created artwork; no third-party image material used",
+    "contentStatus": "approved_replacement"
   },
   {
-    "id": "20260814-20-kofi-kingston-birthday",
+    "id": "20260814-20-lita-wins-womens-championship",
     "publishAt": "2026-08-14T20:00:00-06:00",
-    "dateDisplay": "August 14, 1981",
+    "dateDisplay": "August 14, 2006",
     "timeDisplay": "8:00 PM MDT",
-    "title": "Kofi Kingston Birthday",
-    "label": "Aug 14 - Kofi Kingston",
-    "summary": "Kofi Kingston was born, later becoming a tag-team cornerstone and WWE Champion at WrestleMania 35.",
-    "image": "2026-08-14-20-kofi-kingston-birthday.jpg",
-    "caption": "August 14, 1981: Kofi Kingston was born, later becoming a tag-team cornerstone and WWE Champion at WrestleMania 35. The moment matters because it reflects how quickly wrestling history can turn on a title change, debut, television angle, or major-show result. For this account’s timeline, it fits the post-1984 WWE/WCW/ECW/TNA lane and gives the day a clear historical marker. Video links in bio: Aug 14 - Kofi Kingston. Sources checked: TJR Wrestling, Cagematch/The History of WWE. Image: Wikimedia portrait; formatted locally. This entry is preserved as part of a date-verified historical record rather than a disputed or single-source item. #WWE #WCW #ECW #TNA #WrestlingHistory #ThisDayInWrestlingHistory",
+    "title": "Lita Wins Her Third WWE Women's Championship",
+    "label": "Aug 14 - Lita wins Women's Title",
+    "summary": "On Raw, Lita defeated Mickie James to win the WWE Women's Championship for the third time. Edge distracted referee Jack Doan, allowing Lita to swing the title into Mickie before making the cover.",
+    "image": "20-00-lita-wins-womens-championship.png",
+    "imageFit": "contain",
+    "caption": "August 14, 2006: Lita beat Mickie James on Raw to win her third WWE Women's Championship.\n\nWith Edge pulling referee Jack Doan away, Lita swung the title into Mickie's face, then stole the pin.\n\nWatch the exact match: link in bio.\n\n#WWE #Lita #MickieJames #Edge #WomensChampionship #Raw #WrestlingHistory #ThisDayInWrestlingHistory",
+    "altText": "Original illustrated Raw 2006 ring scene: Lita, in black gear with crimson-red hair, swings the face of the WWE Women's Championship belt toward Mickie James, who wears a white-and-gold halter top, pale-pink bottoms, and white boots. At ringside, Edge distracts referee Jack Doan outside the ropes.",
     "videos": [
       {
-        "title": "Kofi Kingston's 5 greatest moments",
-        "url": "https://www.youtube.com/watch?v=vw9G5xqzPGo",
-        "provider": "YouTube",
+        "title": "Mickie James vs. Lita: Women's Championship Match, Raw, August 14, 2006",
+        "url": "https://www.wwe.com/videos/mickie-james-vs-lita-women-s-championship-match-raw-august-14-2006",
+        "provider": "WWE",
         "sourceChannel": "WWE",
-        "matchType": "related"
+        "matchType": "verified_exact"
       }
     ],
+    "videoStatus": "verified_exact_official_match_moment",
     "sources": [
-      "TJR Wrestling",
-      "Cagematch/The History of WWE"
+      "WWE Raw, August 14, 2006",
+      "https://www.wwe.com/videos/mickie-james-vs-lita-women-s-championship-match-raw-august-14-2006"
     ],
     "promotion": "WWE",
-    "imageSource": "Local Wikimedia portrait source: portrait-kofi-kingston.jpg",
-    "imageSelectionType": "person_portrait",
-    "visualQualityStatus": "upgraded_approved"
+    "imageSource": "User-approved original event-specific illustration created for This Day in Wrestling History",
+    "imageSelectionType": "user_approved_original_event_specific_illustration",
+    "visualQualityStatus": "user_approved_portrait_asset_meta_4x5_crop_verified",
+    "visualRightsStatus": "Original account-created artwork; no third-party image material used",
+    "contentStatus": "approved_replacement"
   },
   {
     "id": "20260815-08-summerslam-2010",
